@@ -1,0 +1,7461 @@
+{
+  "exhibitors": [
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-2m-2m",
+      "name": "2m 2m",
+      "normalizedName": "2m 2m",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m",
+          "standId": "stand-travessa-14"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m",
+          "standId": "stand-travessa-26"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "2m-2m",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-14",
+        "stand-travessa-26"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-2m-2m-artesanato-santista",
+      "name": "2m 2m ARTESANATO SANTISTA",
+      "normalizedName": "2m 2m artesanato santista",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m ARTESANATO SANTISTA",
+          "standId": "stand-travessa-30"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "2m-2m-artesanato-santista",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-30"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-2m-2m-barraco-editorial",
+      "name": "2m 2m BARRACO EDITORIAL",
+      "normalizedName": "2m 2m barraco editorial",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m BARRACO EDITORIAL",
+          "standId": "stand-travessa-46"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "2m-2m-barraco-editorial",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-46"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-2m-2m-diarios-embu",
+      "name": "2m 2m DIÁRIOS EMBU",
+      "normalizedName": "2m 2m diarios embu",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m DIÁRIOS EMBU",
+          "standId": "stand-travessa-10"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "2m-2m-diarios-embu",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-10"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-2m-2m-editora-nua",
+      "name": "2m 2m EDITORA NUA",
+      "normalizedName": "2m 2m editora nua",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m EDITORA NUA",
+          "standId": "stand-travessa-32"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "2m-2m-editora-nua",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-32"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-2m-2m-ironita-pereira",
+      "name": "2m 2m IRONITA PEREIRA",
+      "normalizedName": "2m 2m ironita pereira",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m IRONITA PEREIRA",
+          "standId": "stand-travessa-28"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "2m-2m-ironita-pereira",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-28"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-2m-2m-labuck",
+      "name": "2m 2m LABUCK",
+      "normalizedName": "2m 2m labuck",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m LABUCK",
+          "standId": "stand-travessa-12"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "2m-2m-labuck",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-12"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-2m-2m-lote",
+      "name": "2m 2m LOTE",
+      "normalizedName": "2m 2m lote",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m LOTE",
+          "standId": "stand-travessa-44"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "2m-2m-lote",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-44"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-2m-2m-stefanie-cabanelas",
+      "name": "2m 2m STEFANIE CABANELAS",
+      "normalizedName": "2m 2m stefanie cabanelas",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "2m 2m STEFANIE CABANELAS",
+          "standId": "stand-travessa-42"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "2m-2m-stefanie-cabanelas",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-42"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-a-ruina-dourada",
+      "name": "A RUÍNA DOURADA",
+      "normalizedName": "a ruina dourada",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "A RUÍNA DOURADA",
+          "standId": "stand-travessa-37"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "a-ruina-dourada",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-37"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-abdl",
+      "name": "ABDL",
+      "normalizedName": "abdl",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ABDL",
+          "standId": "stand-k54"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "abdl",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k54"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-aberst",
+      "name": "ABERST",
+      "normalizedName": "aberst",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ABERST",
+          "standId": "stand-j33"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "aberst",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j33"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-abeu",
+      "name": "ABEU",
+      "normalizedName": "abeu",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ABEU",
+          "standId": "stand-h34"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "abeu",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h34"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-abigraf",
+      "name": "ABIGRAF",
+      "normalizedName": "abigraf",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ABIGRAF",
+          "standId": "stand-k42"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "abigraf",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k42"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-aleph",
+      "name": "ALEPH",
+      "normalizedName": "aleph",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ALEPH",
+          "standId": "stand-g36"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "aleph",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g36"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-all-print",
+      "name": "ALL PRINT",
+      "normalizedName": "all print",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ALL PRINT",
+          "standId": "stand-f02"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "all-print",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f02"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "id": "exhibitor-amanda-ilustra",
+      "name": "AMANDA ILUSTRA",
+      "normalizedName": "amanda ilustra",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "AMANDA ILUSTRA",
+          "standId": "stand-travessa-13"
+        }
+      ],
+      "roles": [
+        "occupant"
+      ],
+      "slug": "amanda-ilustra",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-13"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-amazon",
+      "name": "AMAZON",
+      "normalizedName": "amazon",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "AMAZON",
+          "standId": "stand-a58"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "amazon",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a58"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-appris",
+      "name": "APPRIS",
+      "normalizedName": "appris",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "APPRIS",
+          "standId": "stand-a78"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "appris",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a78"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-aquarela-livros",
+      "name": "AQUARELA LIVROS",
+      "normalizedName": "aquarela livros",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "AQUARELA LIVROS",
+          "standId": "stand-j40"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "aquarela-livros",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j40"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-arkhons",
+      "name": "ARKHONS",
+      "normalizedName": "arkhons",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ARKHONS",
+          "standId": "stand-travessa-35"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "arkhons",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-35"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-ases-da-literatura",
+      "name": "ASES DA LITERATURA",
+      "normalizedName": "ases da literatura",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ASES DA LITERATURA",
+          "standId": "stand-g52"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "ases-da-literatura",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g52"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-autentica-grupo",
+      "name": "AUTÊNTICA GRUPO",
+      "normalizedName": "autentica grupo",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "AUTÊNTICA GRUPO",
+          "standId": "stand-f40"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "autentica-grupo",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f40"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-autografia-editora",
+      "name": "AUTOGRAFIA EDITORA",
+      "normalizedName": "autografia editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "AUTOGRAFIA EDITORA",
+          "standId": "stand-h25"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "autografia-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h25"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-autores-independentes-do-brasil",
+      "name": "AUTORES INDEPENDENTES DO BRASIL",
+      "normalizedName": "autores independentes do brasil",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "AUTORES INDEPENDENTES DO BRASIL",
+          "standId": "stand-j76"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "autores-independentes-do-brasil",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j76"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-avec-editora",
+      "name": "AVEC EDITORA",
+      "normalizedName": "avec editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "AVEC EDITORA",
+          "standId": "stand-g03"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "avec-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g03"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-baggagio",
+      "name": "BAGGAGIO",
+      "normalizedName": "baggagio",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "BAGGAGIO",
+          "standId": "stand-c77"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "baggagio",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-c77"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-barca",
+      "name": "BARCA",
+      "normalizedName": "barca",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "BARCA",
+          "standId": "stand-g76"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "barca",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g76"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-bibliex",
+      "name": "BIBLIEX",
+      "normalizedName": "bibliex",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "BIBLIEX",
+          "standId": "stand-j20"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "bibliex",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-boa-nova-livros-espiritas",
+      "name": "BOA NOVA LIVROS ESPIRITAS",
+      "normalizedName": "boa nova livros espiritas",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "BOA NOVA LIVROS ESPIRITAS",
+          "standId": "stand-b70"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "boa-nova-livros-espiritas",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-book-one",
+      "name": "BOOK ONE",
+      "normalizedName": "book one",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "BOOK ONE",
+          "standId": "stand-h86"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "book-one",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h86"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-book-outlet",
+      "name": "BOOK OUTLET",
+      "normalizedName": "book outlet",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "BOOK OUTLET",
+          "standId": "stand-k77"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "book-outlet",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k77"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-busca-livros",
+      "name": "BUSCA LIVROS",
+      "normalizedName": "busca livros",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "BUSCA LIVROS",
+          "standId": "stand-b78"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "busca-livros",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b78"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-buzz-editora",
+      "name": "BUZZ EDITORA",
+      "normalizedName": "buzz editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "BUZZ EDITORA",
+          "standId": "stand-h70"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "buzz-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-cacarol-editora",
+      "name": "CACAROL EDITORA",
+      "normalizedName": "cacarol editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CACAROL EDITORA",
+          "standId": "stand-aa13"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "cacarol-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-aa13"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-caixa-de-quadrinhos",
+      "name": "CAIXA DE QUADRINHOS",
+      "normalizedName": "caixa de quadrinhos",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CAIXA DE QUADRINHOS",
+          "standId": "stand-f82"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "caixa-de-quadrinhos",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f82"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-camara-periferica",
+      "name": "CÂMARA PERIFÉRICA",
+      "normalizedName": "camara periferica",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CÂMARA PERIFÉRICA",
+          "standId": "stand-dd27"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "camara-periferica",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-dd27"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-cartola-editora",
+      "name": "CARTOLA EDITORA",
+      "normalizedName": "cartola editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CARTOLA EDITORA",
+          "standId": "stand-travessa-38"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "cartola-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-38"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-casa-5m-5m-do-novo-autor",
+      "name": "CASA 5m 5m DO NOVO AUTOR",
+      "normalizedName": "casa 5m 5m do novo autor",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CASA 5m 5m DO NOVO AUTOR",
+          "standId": "stand-dd29"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "casa-5m-5m-do-novo-autor",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-dd29"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-catapulta",
+      "name": "CATAPULTA",
+      "normalizedName": "catapulta",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CATAPULTA",
+          "standId": "stand-f76"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "catapulta",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f76"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-chave-mestra",
+      "name": "CHAVE MESTRA",
+      "normalizedName": "chave mestra",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CHAVE MESTRA",
+          "standId": "stand-j68"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "chave-mestra",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j68"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-chiado-editora",
+      "name": "CHIADO EDITORA",
+      "normalizedName": "chiado editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CHIADO EDITORA",
+          "standId": "stand-d81"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "chiado-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d81"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-cintia-ribeiro-santana",
+      "name": "CINTIA RIBEIRO SANTANA",
+      "normalizedName": "cintia ribeiro santana",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CINTIA RIBEIRO SANTANA",
+          "standId": "stand-travessa-20"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "cintia-ribeiro-santana",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-ciranda-cultural",
+      "name": "CIRANDA CULTURAL",
+      "normalizedName": "ciranda cultural",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CIRANDA CULTURAL",
+          "standId": "stand-f30"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CIRANDA CULTURAL",
+          "standId": "stand-c60"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CIRANDA CULTURAL",
+          "standId": "stand-c10"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CIRANDA CULTURAL",
+          "standId": "stand-dd11"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CIRANDA CULTURAL",
+          "standId": "stand-b20"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CIRANDA CULTURAL",
+          "standId": "stand-a88"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CIRANDA CULTURAL",
+          "standId": "stand-a30"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CIRANDA CULTURAL",
+          "standId": "stand-a89"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "ciranda-cultural",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a30",
+        "stand-a88",
+        "stand-a89",
+        "stand-b20",
+        "stand-c10",
+        "stand-c60",
+        "stand-dd11",
+        "stand-f30"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-citadel",
+      "name": "CITADEL",
+      "normalizedName": "citadel",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CITADEL",
+          "standId": "stand-g70"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "citadel",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-clube-5m-5m-do-medo",
+      "name": "CLUBE 5m 5m DO MEDO",
+      "normalizedName": "clube 5m 5m do medo",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CLUBE 5m 5m DO MEDO",
+          "standId": "stand-bb18"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "clube-5m-5m-do-medo",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-bb18"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-coletivo-parentesis-de-teatro",
+      "name": "COLETIVO PARÊNTESIS DE TEATRO",
+      "normalizedName": "coletivo parentesis de teatro",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "COLETIVO PARÊNTESIS DE TEATRO",
+          "standId": "stand-travessa-43"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "coletivo-parentesis-de-teatro",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-43"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-compactor",
+      "name": "COMPACTOR",
+      "normalizedName": "compactor",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "COMPACTOR",
+          "standId": "stand-aa28"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "compactor",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-aa28"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-companhia-das-letras",
+      "name": "COMPANHIA DAS LETRAS",
+      "normalizedName": "companhia das letras",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "COMPANHIA DAS LETRAS",
+          "standId": "stand-e60"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "COMPANHIA DAS LETRAS",
+          "standId": "stand-d60"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "companhia-das-letras",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d60",
+        "stand-e60"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-compartilhagem",
+      "name": "COMPARTILHAGEM",
+      "normalizedName": "compartilhagem",
+      "occurrences": [
+        {
+          "occurrenceIndex": 2,
+          "originalText": "COMPARTILHAGEM",
+          "standId": "stand-travessa-26"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "compartilhagem",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-26"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-cooperbook",
+      "name": "COOPERBOOK",
+      "normalizedName": "cooperbook",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "COOPERBOOK",
+          "standId": "stand-a70"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "cooperbook",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-crb",
+      "name": "CRB",
+      "normalizedName": "crb",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CRB",
+          "standId": "stand-cc28"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "crb",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-cc28"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-cristina-barretto",
+      "name": "CRISTINA BARRETTO",
+      "normalizedName": "cristina barretto",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CRISTINA BARRETTO",
+          "standId": "stand-aa29"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "cristina-barretto",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-aa29"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-crush-literario",
+      "name": "CRUSH LITERÁRIO",
+      "normalizedName": "crush literario",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CRUSH LITERÁRIO",
+          "standId": "stand-h85"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "crush-literario",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h85"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-culturama-editora",
+      "name": "CULTURAMA EDITORA",
+      "normalizedName": "culturama editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "CULTURAMA EDITORA",
+          "standId": "stand-d88"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "culturama-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d88"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "food"
+      ],
+      "id": "exhibitor-direcao",
+      "name": "DIREÇÃO",
+      "normalizedName": "direcao",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "DIREÇÃO",
+          "standId": "stand-k20"
+        }
+      ],
+      "roles": [
+        "food-operator"
+      ],
+      "slug": "direcao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-distribuidora-livraria-loyola",
+      "name": "DISTRIBUIDORA & LIVRARIA LOYOLA",
+      "normalizedName": "distribuidora livraria loyola",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "DISTRIBUIDORA & LIVRARIA LOYOLA",
+          "standId": "stand-c30"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "distribuidora-livraria-loyola",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-c30"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-diversa-livraria",
+      "name": "DIVERSA LIVRARIA",
+      "normalizedName": "diversa livraria",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "DIVERSA LIVRARIA",
+          "standId": "stand-cc17"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "diversa-livraria",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-cc17"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-dl-books",
+      "name": "DL BOOKS",
+      "normalizedName": "dl books",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "DL BOOKS",
+          "standId": "stand-travessa-41"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "dl-books",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-41"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-drummond-livraria",
+      "name": "DRUMMOND LIVRARIA",
+      "normalizedName": "drummond livraria",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "DRUMMOND LIVRARIA",
+          "standId": "stand-c28"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "drummond-livraria",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-c28"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-ardane",
+      "name": "EDITORA ARDANE",
+      "normalizedName": "editora ardane",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA ARDANE",
+          "standId": "stand-j34"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-ardane",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j34"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-arpillera",
+      "name": "EDITORA ARPILLERA",
+      "normalizedName": "editora arpillera",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA ARPILLERA",
+          "standId": "stand-travessa-06"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-arpillera",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-06"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-articule",
+      "name": "EDITORA ARTICULE",
+      "normalizedName": "editora articule",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA ARTICULE",
+          "standId": "stand-k35"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-articule",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k35"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-ave-maria",
+      "name": "EDITORA AVE MARIA",
+      "normalizedName": "editora ave maria",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA AVE MARIA",
+          "standId": "stand-j48"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-ave-maria",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j48"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-bezz",
+      "name": "EDITORA BEZZ",
+      "normalizedName": "editora bezz",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA BEZZ",
+          "standId": "stand-k40"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-bezz",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k40"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-boc",
+      "name": "EDITORA BOC",
+      "normalizedName": "editora boc",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA BOC",
+          "standId": "stand-e21"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-boc",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e21"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-caliope",
+      "name": "EDITORA CALÍOPE",
+      "normalizedName": "editora caliope",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA CALÍOPE",
+          "standId": "stand-f14"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-caliope",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f14"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-caxiguele",
+      "name": "EDITORA CAXIGUELE",
+      "normalizedName": "editora caxiguele",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA CAXIGUELE",
+          "standId": "stand-cc20"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-caxiguele",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-cc20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-conejo",
+      "name": "EDITORA CONEJO",
+      "normalizedName": "editora conejo",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA CONEJO",
+          "standId": "stand-e02"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-conejo",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e02"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-cortez",
+      "name": "EDITORA CORTEZ",
+      "normalizedName": "editora cortez",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA CORTEZ",
+          "standId": "stand-g26"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-cortez",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g26"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-cras",
+      "name": "EDITORA CRAS",
+      "normalizedName": "editora cras",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA CRAS",
+          "standId": "stand-g15"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-cras",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g15"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-dcl",
+      "name": "EDITORA DCL",
+      "normalizedName": "editora dcl",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA DCL",
+          "standId": "stand-a85"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-dcl",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a85"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-democritos",
+      "name": "EDITORA DEMÓCRITOS",
+      "normalizedName": "editora democritos",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA DEMÓCRITOS",
+          "standId": "stand-cc19"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-democritos",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-cc19"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-eficaz",
+      "name": "EDITORA EFICAZ",
+      "normalizedName": "editora eficaz",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA EFICAZ",
+          "standId": "stand-travessa-18"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-eficaz",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-18"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-elevacao",
+      "name": "EDITORA ELEVAÇÃO",
+      "normalizedName": "editora elevacao",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA ELEVAÇÃO",
+          "standId": "stand-travessa-45"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-elevacao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-45"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-euphoria",
+      "name": "EDITORA EUPHORIA",
+      "normalizedName": "editora euphoria",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA EUPHORIA",
+          "standId": "stand-k66"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-euphoria",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k66"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-gente",
+      "name": "EDITORA GENTE",
+      "normalizedName": "editora gente",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA GENTE",
+          "standId": "stand-j58"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-gente",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j58"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-guedes",
+      "name": "EDITORA GUEDES",
+      "normalizedName": "editora guedes",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA GUEDES",
+          "standId": "stand-travessa-08"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-guedes",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-08"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-hipocrates",
+      "name": "EDITORA HIPOCRATES",
+      "normalizedName": "editora hipocrates",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA HIPOCRATES",
+          "standId": "stand-travessa-33"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-hipocrates",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-33"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-identidade",
+      "name": "EDITORA IDENTIDADE",
+      "normalizedName": "editora identidade",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA IDENTIDADE",
+          "standId": "stand-k43"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-identidade",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k43"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-in-house",
+      "name": "EDITORA IN HOUSE",
+      "normalizedName": "editora in house",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA IN HOUSE",
+          "standId": "stand-b65"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-in-house",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b65"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-labrador",
+      "name": "EDITORA LABRADOR",
+      "normalizedName": "editora labrador",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA LABRADOR",
+          "standId": "stand-j44"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-labrador",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j44"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-leader",
+      "name": "EDITORA LEADER",
+      "normalizedName": "editora leader",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA LEADER",
+          "standId": "stand-aa20"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-leader",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-aa20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-literatura-classica",
+      "name": "EDITORA LITERATURA CLASSICA",
+      "normalizedName": "editora literatura classica",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA LITERATURA CLASSICA",
+          "standId": "stand-h50"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-literatura-classica",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h50"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-editora-madame-houdini",
+      "name": "EDITORA MADAME HOUDINI",
+      "normalizedName": "editora madame houdini",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA MADAME HOUDINI",
+          "standId": "stand-travessa-03"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "editora-madame-houdini",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-03"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-melhoramento",
+      "name": "EDITORA MELHORAMENTO",
+      "normalizedName": "editora melhoramento",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA MELHORAMENTO",
+          "standId": "stand-a50"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-melhoramento",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a50"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-minski",
+      "name": "EDITORA MINSKI",
+      "normalizedName": "editora minski",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA MINSKI",
+          "standId": "stand-bb16"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-minski",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-bb16"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-mostarda",
+      "name": "EDITORA MOSTARDA",
+      "normalizedName": "editora mostarda",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA MOSTARDA",
+          "standId": "stand-b60"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-mostarda",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b60"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-mundo-cristao",
+      "name": "EDITORA MUNDO CRISTÃO",
+      "normalizedName": "editora mundo cristao",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA MUNDO CRISTÃO",
+          "standId": "stand-b81"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-mundo-cristao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b81"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-oceando",
+      "name": "EDITORA OCEANDO",
+      "normalizedName": "editora oceando",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA OCEANDO",
+          "standId": "stand-cc29"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-oceando",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-cc29"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-patua",
+      "name": "EDITORA PATUÁ",
+      "normalizedName": "editora patua",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA PATUÁ",
+          "standId": "stand-k45"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-patua",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k45"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-paulinas",
+      "name": "EDITORA PAULINAS",
+      "normalizedName": "editora paulinas",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA PAULINAS",
+          "standId": "stand-d77"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-paulinas",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d77"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-planeta",
+      "name": "EDITORA PLANETA",
+      "normalizedName": "editora planeta",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA PLANETA",
+          "standId": "stand-g40"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-planeta",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g40"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-pulo-do-gato",
+      "name": "EDITORA PULO DO GATO",
+      "normalizedName": "editora pulo do gato",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA PULO DO GATO",
+          "standId": "stand-travessa-15"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-pulo-do-gato",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-15"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-sei",
+      "name": "EDITORA SEI",
+      "normalizedName": "editora sei",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA SEI",
+          "standId": "stand-f20"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-sei",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-sinna",
+      "name": "EDITORA SINNA",
+      "normalizedName": "editora sinna",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA SINNA",
+          "standId": "stand-travessa-02"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-sinna",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-02"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-unicorn",
+      "name": "EDITORA UNICORN",
+      "normalizedName": "editora unicorn",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA UNICORN",
+          "standId": "stand-j30"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-unicorn",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j30"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-velos",
+      "name": "EDITORA VELOS",
+      "normalizedName": "editora velos",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA VELOS",
+          "standId": "stand-h58"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-velos",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h58"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-vida",
+      "name": "EDITORA VIDA",
+      "normalizedName": "editora vida",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA VIDA",
+          "standId": "stand-j70"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-vida",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-viseu",
+      "name": "EDITORA VISEU",
+      "normalizedName": "editora viseu",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA VISEU",
+          "standId": "stand-j52"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-viseu",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j52"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-editora-vozes",
+      "name": "EDITORA VOZES",
+      "normalizedName": "editora vozes",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDITORA VOZES",
+          "standId": "stand-g30"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "editora-vozes",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g30"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-edson-sousa-livros",
+      "name": "EDSON SOUSA LIVROS",
+      "normalizedName": "edson sousa livros",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EDSON SOUSA LIVROS",
+          "standId": "stand-g28"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "edson-sousa-livros",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g28"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-elisangela-modesto",
+      "name": "ELISANGELA MODESTO",
+      "normalizedName": "elisangela modesto",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ELISANGELA MODESTO",
+          "standId": "stand-travessa-25"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "elisangela-modesto",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-25"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-encantos-da-kaly",
+      "name": "ENCANTOS DA KALY",
+      "normalizedName": "encantos da kaly",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ENCANTOS DA KALY",
+          "standId": "stand-travessa-36"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "encantos-da-kaly",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-36"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-escreva-garota",
+      "name": "ESCREVA GAROTA",
+      "normalizedName": "escreva garota",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ESCREVA GAROTA",
+          "standId": "stand-g80"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "escreva-garota",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g80"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-espaco-educacao",
+      "name": "ESPAÇO EDUCAÇÃO",
+      "normalizedName": "espaco educacao",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ESPAÇO EDUCAÇÃO",
+          "standId": "stand-g58"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "espaco-educacao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g58"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-espaco-leia-mais",
+      "name": "ESPAÇO LEIA MAIS",
+      "normalizedName": "espaco leia mais",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ESPAÇO LEIA MAIS",
+          "standId": "stand-e10"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "espaco-leia-mais",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e10"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-estante-virtual",
+      "name": "ESTANTE VIRTUAL",
+      "normalizedName": "estante virtual",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ESTANTE VIRTUAL",
+          "standId": "stand-k51"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "estante-virtual",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k51"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-estante-volante",
+      "name": "ESTANTE VOLANTE",
+      "normalizedName": "estante volante",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ESTANTE VOLANTE",
+          "standId": "stand-travessa-09"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "estante-volante",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-09"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-expressao-popular",
+      "name": "EXPRESSÃO POPULAR",
+      "normalizedName": "expressao popular",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "EXPRESSÃO POPULAR",
+          "standId": "stand-cc21"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "expressao-popular",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-cc21"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "food"
+      ],
+      "id": "exhibitor-faber-castell",
+      "name": "FABER - CASTELL",
+      "normalizedName": "faber castell",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FABER - CASTELL",
+          "standId": "stand-c70"
+        }
+      ],
+      "roles": [
+        "food-operator"
+      ],
+      "slug": "faber-castell",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-c70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-fabrica-do-livro",
+      "name": "FÁBRICA DO LIVRO",
+      "normalizedName": "fabrica do livro",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FÁBRICA DO LIVRO",
+          "standId": "stand-j28"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "fabrica-do-livro",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j28"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-faro-editorial",
+      "name": "FARO EDITORIAL",
+      "normalizedName": "faro editorial",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FARO EDITORIAL",
+          "standId": "stand-c20"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "faro-editorial",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-c20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-flynksampa",
+      "name": "FLYNKSAMPA",
+      "normalizedName": "flynksampa",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FLYNKSAMPA",
+          "standId": "stand-cc26"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "flynksampa",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-cc26"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-flyve",
+      "name": "FLYVE",
+      "normalizedName": "flyve",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FLYVE",
+          "standId": "stand-a80"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "flyve",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a80"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-fnde",
+      "name": "FNDE",
+      "normalizedName": "fnde",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FNDE",
+          "standId": "stand-h38"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "fnde",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h38"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-fraternidade-de-escritores",
+      "name": "FRATERNIDADE DE ESCRITORES",
+      "normalizedName": "fraternidade de escritores",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FRATERNIDADE DE ESCRITORES",
+          "standId": "stand-f11"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "fraternidade-de-escritores",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f11"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-fruto-proibido",
+      "name": "FRUTO PROIBIDO",
+      "normalizedName": "fruto proibido",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FRUTO PROIBIDO",
+          "standId": "stand-k58"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "fruto-proibido",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k58"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-fundacao-japao",
+      "name": "FUNDAÇÃO JAPÃO",
+      "normalizedName": "fundacao japao",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FUNDAÇÃO JAPÃO",
+          "standId": "stand-cc27"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "fundacao-japao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-cc27"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-fusao-do-livro",
+      "name": "FUSÃO DO LIVRO",
+      "normalizedName": "fusao do livro",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "FUSÃO DO LIVRO",
+          "standId": "stand-c82"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "fusao-do-livro",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-c82"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-gaeb",
+      "name": "GAEB",
+      "normalizedName": "gaeb",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GAEB",
+          "standId": "stand-travessa-01"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GAEB",
+          "standId": "stand-travessa-11"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GAEB",
+          "standId": "stand-travessa-19"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GAEB",
+          "standId": "stand-travessa-27"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "gaeb",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-01",
+        "stand-travessa-11",
+        "stand-travessa-19",
+        "stand-travessa-27"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-gift-box",
+      "name": "GIFT BOX",
+      "normalizedName": "gift box",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GIFT BOX",
+          "standId": "stand-k67"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "gift-box",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k67"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-girassol",
+      "name": "GIRASSOL",
+      "normalizedName": "girassol",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GIRASSOL",
+          "standId": "stand-c72"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "girassol",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-c72"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-global-editora",
+      "name": "GLOBAL EDITORA",
+      "normalizedName": "global editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GLOBAL EDITORA",
+          "standId": "stand-f28"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "global-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f28"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-globo-livros",
+      "name": "GLOBO LIVROS",
+      "normalizedName": "globo livros",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GLOBO LIVROS",
+          "standId": "stand-e70"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "globo-livros",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-grafica-viena",
+      "name": "GRÁFICA VIENA",
+      "normalizedName": "grafica viena",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GRÁFICA VIENA",
+          "standId": "stand-j81"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "grafica-viena",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j81"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-grupo-editorial-coerencia",
+      "name": "GRUPO EDITORIAL COERENCIA",
+      "normalizedName": "grupo editorial coerencia",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GRUPO EDITORIAL COERENCIA",
+          "standId": "stand-a76"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "grupo-editorial-coerencia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a76"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-grupo-editorial-pensamento",
+      "name": "GRUPO EDITORIAL PENSAMENTO",
+      "normalizedName": "grupo editorial pensamento",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GRUPO EDITORIAL PENSAMENTO",
+          "standId": "stand-j60"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "grupo-editorial-pensamento",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j60"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-grupo-editorial-portal",
+      "name": "GRUPO EDITORIAL PORTAL",
+      "normalizedName": "grupo editorial portal",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GRUPO EDITORIAL PORTAL",
+          "standId": "stand-f18"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "grupo-editorial-portal",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f18"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-grupo-editorial-record",
+      "name": "GRUPO EDITORIAL RECORD",
+      "normalizedName": "grupo editorial record",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GRUPO EDITORIAL RECORD",
+          "standId": "stand-f60"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "grupo-editorial-record",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f60"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-grupo-novo-seculo",
+      "name": "GRUPO NOVO SÉCULO",
+      "normalizedName": "grupo novo seculo",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GRUPO NOVO SÉCULO",
+          "standId": "stand-a60"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "grupo-novo-seculo",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a60"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-grupo-online-editora",
+      "name": "GRUPO ONLINE EDITORA",
+      "normalizedName": "grupo online editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GRUPO ONLINE EDITORA",
+          "standId": "stand-c58"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "GRUPO ONLINE EDITORA",
+          "standId": "stand-a81"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "grupo-online-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a81",
+        "stand-c58"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-harpercollins",
+      "name": "HARPERCOLLINS",
+      "normalizedName": "harpercollins",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "HARPERCOLLINS",
+          "standId": "stand-d58"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "harpercollins",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d58"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-instituto-roberto-luz",
+      "name": "INSTITUTO ROBERTO LUZ",
+      "normalizedName": "instituto roberto luz",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "INSTITUTO ROBERTO LUZ",
+          "standId": "stand-travessa-34"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "instituto-roberto-luz",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-34"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-intrinseca",
+      "name": "INTRÍNSECA",
+      "normalizedName": "intrinseca",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "INTRÍNSECA",
+          "standId": "stand-e30"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "intrinseca",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e30"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-ita-brasil",
+      "name": "ITA BRASIL",
+      "normalizedName": "ita brasil",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ITA BRASIL",
+          "standId": "stand-aa18"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "ita-brasil",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-aa18"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-jambo-editorial",
+      "name": "JAMBO EDITORIAL",
+      "normalizedName": "jambo editorial",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "JAMBO EDITORIAL",
+          "standId": "stand-bb29"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "jambo-editorial",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-bb29"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-jason-cesar",
+      "name": "JASON CÉSAR",
+      "normalizedName": "jason cesar",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "JASON CÉSAR",
+          "standId": "stand-travessa-40"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "jason-cesar",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-40"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-jinhao-color-printing",
+      "name": "JINHAO COLOR PRINTING",
+      "normalizedName": "jinhao color printing",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "JINHAO COLOR PRINTING",
+          "standId": "stand-bb20"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "jinhao-color-printing",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-bb20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "food"
+      ],
+      "id": "exhibitor-lactlis",
+      "name": "LACTLIS",
+      "normalizedName": "lactlis",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LACTLIS",
+          "standId": "stand-b90"
+        }
+      ],
+      "roles": [
+        "food-operator"
+      ],
+      "slug": "lactlis",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b90"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-legiao-nerd",
+      "name": "LEGIÃO NERD",
+      "normalizedName": "legiao nerd",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LEGIÃO NERD",
+          "standId": "stand-g84"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "legiao-nerd",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g84"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-lelume",
+      "name": "LELUME",
+      "normalizedName": "lelume",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LELUME",
+          "standId": "stand-j26"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "lelume",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j26"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-lendari",
+      "name": "LENDARI",
+      "normalizedName": "lendari",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LENDARI",
+          "standId": "stand-h87"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "lendari",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h87"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-ler-editorial",
+      "name": "LER EDITORIAL",
+      "normalizedName": "ler editorial",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LER EDITORIAL",
+          "standId": "stand-k74"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "ler-editorial",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k74"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-lily-a",
+      "name": "LILY A.",
+      "normalizedName": "lily a",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LILY A.",
+          "standId": "stand-travessa-04"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "lily-a",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-04"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-literarte-magico-de-oz",
+      "name": "LITERARTE/MAGICO DE OZ",
+      "normalizedName": "literarte magico de oz",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LITERARTE/MAGICO DE OZ",
+          "standId": "stand-bb10"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "literarte-magico-de-oz",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-bb10"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-literatura-superpoderosa",
+      "name": "LITERATURA SUPERPODEROSA",
+      "normalizedName": "literatura superpoderosa",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LITERATURA SUPERPODEROSA",
+          "standId": "stand-bb28"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "literatura-superpoderosa",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-bb28"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-literunico",
+      "name": "LITERUNICO",
+      "normalizedName": "literunico",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LITERUNICO",
+          "standId": "stand-travessa-24"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "literunico",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-24"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-litteris-editora",
+      "name": "LITTERIS EDITORA",
+      "normalizedName": "litteris editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LITTERIS EDITORA",
+          "standId": "stand-k37"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "litteris-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k37"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-livraria-paisagem",
+      "name": "LIVRARIA PAISAGEM",
+      "normalizedName": "livraria paisagem",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LIVRARIA PAISAGEM",
+          "standId": "stand-f10"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "livraria-paisagem",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f10"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-lua-lins",
+      "name": "LUA LINS",
+      "normalizedName": "lua lins",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LUA LINS",
+          "standId": "stand-travessa-31"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "lua-lins",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-31"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-lura-editorial",
+      "name": "LURA EDITORIAL",
+      "normalizedName": "lura editorial",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LURA EDITORIAL",
+          "standId": "stand-j66"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "lura-editorial",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j66"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-lvm-editora",
+      "name": "LVM EDITORA",
+      "normalizedName": "lvm editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "LVM EDITORA",
+          "standId": "stand-j74"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "lvm-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j74"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-madras",
+      "name": "MADRAS",
+      "normalizedName": "madras",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "MADRAS",
+          "standId": "stand-h40"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "madras",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h40"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-male-editora",
+      "name": "MALÉ EDITORA",
+      "normalizedName": "male editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "MALÉ EDITORA",
+          "standId": "stand-e80"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "male-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e80"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-maquinaria-sankto-editorial",
+      "name": "MAQUINARIA SANKTO EDITORIAL",
+      "normalizedName": "maquinaria sankto editorial",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "MAQUINARIA SANKTO EDITORIAL",
+          "standId": "stand-j86"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "maquinaria-sankto-editorial",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j86"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-mato-grosso-do-sul",
+      "name": "MATO GROSSO DO SUL",
+      "normalizedName": "mato grosso do sul",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "MATO GROSSO DO SUL",
+          "standId": "stand-g60"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "mato-grosso-do-sul",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g60"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-matrix-editora",
+      "name": "MATRIX EDITORA",
+      "normalizedName": "matrix editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "MATRIX EDITORA",
+          "standId": "stand-j75"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "matrix-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j75"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "sponsor"
+      ],
+      "id": "exhibitor-mercado-livre",
+      "name": "MERCADO LIVRE",
+      "normalizedName": "mercado livre",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "MERCADO LIVRE",
+          "standId": "stand-g38"
+        }
+      ],
+      "roles": [
+        "sponsor"
+      ],
+      "slug": "mercado-livre",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g38"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-mundo-dos-colecionaveis",
+      "name": "MUNDO DOS COLECIONÁVEIS",
+      "normalizedName": "mundo dos colecionaveis",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "MUNDO DOS COLECIONÁVEIS",
+          "standId": "stand-e82"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "mundo-dos-colecionaveis",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e82"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-mundo-gospel",
+      "name": "MUNDO GOSPEL",
+      "normalizedName": "mundo gospel",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "MUNDO GOSPEL",
+          "standId": "stand-b68"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "MUNDO GOSPEL",
+          "standId": "stand-a40"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "mundo-gospel",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a40",
+        "stand-b68"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-new-pop",
+      "name": "NEW POP",
+      "normalizedName": "new pop",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "NEW POP",
+          "standId": "stand-k70"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "new-pop",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-novos-autores-do-brasil",
+      "name": "NOVOS AUTORES DO BRASIL",
+      "normalizedName": "novos autores do brasil",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "NOVOS AUTORES DO BRASIL",
+          "standId": "stand-g11"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "novos-autores-do-brasil",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g11"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-o-2m-2m-livro-do-conhecimento",
+      "name": "O 2m 2m LIVRO DO CONHECIMENTO",
+      "normalizedName": "o 2m 2m livro do conhecimento",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "O 2m 2m LIVRO DO CONHECIMENTO",
+          "standId": "stand-travessa-16"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "o-2m-2m-livro-do-conhecimento",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-16"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-pae-editora",
+      "name": "PAE EDITORA",
+      "normalizedName": "pae editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PAE EDITORA",
+          "standId": "stand-d10"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "pae-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d10"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-pallas-editora",
+      "name": "PALLAS EDITORA",
+      "normalizedName": "pallas editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PALLAS EDITORA",
+          "standId": "stand-h76"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "pallas-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h76"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-panini",
+      "name": "PANINI",
+      "normalizedName": "panini",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PANINI",
+          "standId": "stand-f58"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "panini",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f58"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-panini-editora",
+      "name": "PANINI EDITORA",
+      "normalizedName": "panini editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PANINI EDITORA",
+          "standId": "stand-c80"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "panini-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-c80"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-panni-editora",
+      "name": "PANNI EDITORA",
+      "normalizedName": "panni editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PANNI EDITORA",
+          "standId": "stand-dd21"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "panni-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-dd21"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-papo-de-mercado",
+      "name": "PAPO DE MERCADO",
+      "normalizedName": "papo de mercado",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PAPO DE MERCADO",
+          "standId": "stand-k38"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "papo-de-mercado",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k38"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "sponsor"
+      ],
+      "id": "exhibitor-patrocinador",
+      "name": "PATROCINADOR",
+      "normalizedName": "patrocinador",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PATROCINADOR",
+          "standId": "stand-a55"
+        }
+      ],
+      "roles": [
+        "sponsor"
+      ],
+      "slug": "patrocinador",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a55"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-paulus",
+      "name": "PAULUS",
+      "normalizedName": "paulus",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PAULUS",
+          "standId": "stand-b38"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "paulus",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b38"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-pe-da-letra",
+      "name": "PÉ DA LETRA",
+      "normalizedName": "pe da letra",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PÉ DA LETRA",
+          "standId": "stand-a47"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "pe-da-letra",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a47"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-pe-da-letra-editora",
+      "name": "PÉ DA LETRA EDITORA",
+      "normalizedName": "pe da letra editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PÉ DA LETRA EDITORA",
+          "standId": "stand-e20"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "pe-da-letra-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-pedrazul-editora",
+      "name": "PEDRAZUL EDITORA",
+      "normalizedName": "pedrazul editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PEDRAZUL EDITORA",
+          "standId": "stand-g81"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "pedrazul-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g81"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-pensamento-ludico",
+      "name": "PENSAMENTO LUDICO",
+      "normalizedName": "pensamento ludico",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PENSAMENTO LUDICO",
+          "standId": "stand-cc11"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "pensamento-ludico",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-cc11"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-pilot-pen",
+      "name": "PILOT PEN",
+      "normalizedName": "pilot pen",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PILOT PEN",
+          "standId": "stand-aa10"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "pilot-pen",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-aa10"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-piovesan",
+      "name": "PIOVESAN",
+      "normalizedName": "piovesan",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PIOVESAN",
+          "standId": "stand-j79"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PIOVESAN",
+          "standId": "stand-h78"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "piovesan",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h78",
+        "stand-j79"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-piovezan",
+      "name": "PIOVEZAN",
+      "normalizedName": "piovezan",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PIOVEZAN",
+          "standId": "stand-h83"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PIOVEZAN",
+          "standId": "stand-g82"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "piovezan",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g82",
+        "stand-h83"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-premio-jabuti",
+      "name": "PRÊMIO JABUTI",
+      "normalizedName": "premio jabuti",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PRÊMIO JABUTI",
+          "standId": "stand-h30"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "premio-jabuti",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h30"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-promolivros",
+      "name": "PROMOLIVROS",
+      "normalizedName": "promolivros",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PROMOLIVROS",
+          "standId": "stand-g68"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PROMOLIVROS",
+          "standId": "stand-b40"
+        },
+        {
+          "occurrenceIndex": 1,
+          "originalText": "PROMOLIVROS",
+          "standId": "stand-a41"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "promolivros",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a41",
+        "stand-b40",
+        "stand-g68"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-qualis-editora",
+      "name": "QUALIS EDITORA",
+      "normalizedName": "qualis editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "QUALIS EDITORA",
+          "standId": "stand-e18"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "qualis-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e18"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-record",
+      "name": "RECORD",
+      "normalizedName": "record",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "RECORD",
+          "standId": "stand-k68"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "record",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k68"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-reino-dos-brinquedos",
+      "name": "REINO DOS BRINQUEDOS",
+      "normalizedName": "reino dos brinquedos",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "REINO DOS BRINQUEDOS",
+          "standId": "stand-a68"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "reino-dos-brinquedos",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a68"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "id": "exhibitor-relatos-sobre-munique",
+      "name": "RELATOS SOBRE MUNIQUE",
+      "normalizedName": "relatos sobre munique",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "RELATOS SOBRE MUNIQUE",
+          "standId": "stand-travessa-05"
+        }
+      ],
+      "roles": [
+        "entity"
+      ],
+      "slug": "relatos-sobre-munique",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-05"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-rocco",
+      "name": "ROCCO",
+      "normalizedName": "rocco",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ROCCO",
+          "standId": "stand-f70"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "rocco",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-saberes-no-pano",
+      "name": "SABERES NO PANO",
+      "normalizedName": "saberes no pano",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SABERES NO PANO",
+          "standId": "stand-travessa-07"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "saberes-no-pano",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-07"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-sandra-braik",
+      "name": "SANDRA BRAIK",
+      "normalizedName": "sandra braik",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SANDRA BRAIK",
+          "standId": "stand-travessa-21"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "sandra-braik",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-21"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-sarau-2m-2m-do-manoelio",
+      "name": "SARAU 2m 2m DO MANOÉLIO",
+      "normalizedName": "sarau 2m 2m do manoelio",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SARAU 2m 2m DO MANOÉLIO",
+          "standId": "stand-travessa-48"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "sarau-2m-2m-do-manoelio",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-48"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-scortecci",
+      "name": "SCORTECCI",
+      "normalizedName": "scortecci",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SCORTECCI",
+          "standId": "stand-j32"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "scortecci",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j32"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-sebo-do-messias",
+      "name": "SEBO DO MESSIAS",
+      "normalizedName": "sebo do messias",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SEBO DO MESSIAS",
+          "standId": "stand-j80"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "sebo-do-messias",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j80"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-secretaria-municipal-da-cultura",
+      "name": "SECRETARIA MUNICIPAL DA CULTURA",
+      "normalizedName": "secretaria municipal da cultura",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SECRETARIA MUNICIPAL DA CULTURA",
+          "standId": "stand-j38"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "secretaria-municipal-da-cultura",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j38"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-secretaria-municipal-da-educacao",
+      "name": "SECRETARIA MUNICIPAL DA EDUCAÇÃO",
+      "normalizedName": "secretaria municipal da educacao",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SECRETARIA MUNICIPAL DA EDUCAÇÃO",
+          "standId": "stand-b88"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "secretaria-municipal-da-educacao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b88"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-seicho-no-ei",
+      "name": "SEICHO-NO-EI",
+      "normalizedName": "seicho no ei",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SEICHO-NO-EI",
+          "standId": "stand-f80"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "seicho-no-ei",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f80"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-senado-federal",
+      "name": "SENADO FEDERAL",
+      "normalizedName": "senado federal",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SENADO FEDERAL",
+          "standId": "stand-g88"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "senado-federal",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g88"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-sesc-senac",
+      "name": "SESC/SENAC",
+      "normalizedName": "sesc senac",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SESC/SENAC",
+          "standId": "stand-d70"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "sesc-senac",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d70"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-sextante-e-arqueiro",
+      "name": "SEXTANTE E ARQUEIRO",
+      "normalizedName": "sextante e arqueiro",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SEXTANTE E ARQUEIRO",
+          "standId": "stand-d30"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "sextante-e-arqueiro",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d30"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-shopping-dos-livros",
+      "name": "SHOPPING DOS LIVROS",
+      "normalizedName": "shopping dos livros",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SHOPPING DOS LIVROS",
+          "standId": "stand-g20"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "shopping-dos-livros",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "sponsor"
+      ],
+      "id": "exhibitor-skeelo",
+      "name": "SKEELO",
+      "normalizedName": "skeelo",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SKEELO",
+          "standId": "stand-b30"
+        }
+      ],
+      "roles": [
+        "sponsor"
+      ],
+      "slug": "skeelo",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b30"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-sunbee",
+      "name": "SUNBEE",
+      "normalizedName": "sunbee",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SUNBEE",
+          "standId": "stand-k33"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "sunbee",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-k33"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "sponsor"
+      ],
+      "id": "exhibitor-sylvamo",
+      "name": "SYLVAMO",
+      "normalizedName": "sylvamo",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "SYLVAMO",
+          "standId": "stand-d20"
+        }
+      ],
+      "roles": [
+        "sponsor"
+      ],
+      "slug": "sylvamo",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d20"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-taverna-do-rei",
+      "name": "TAVERNA DO REI",
+      "normalizedName": "taverna do rei",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "TAVERNA DO REI",
+          "standId": "stand-e88"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "taverna-do-rei",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-e88"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-telos-editora",
+      "name": "TELOS EDITORA",
+      "normalizedName": "telos editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "TELOS EDITORA",
+          "standId": "stand-j36"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "telos-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-j36"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-tertulia",
+      "name": "TERTÚLIA",
+      "normalizedName": "tertulia",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "TERTÚLIA",
+          "standId": "stand-h48"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "tertulia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h48"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-todavia",
+      "name": "TODAVIA",
+      "normalizedName": "todavia",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "TODAVIA",
+          "standId": "stand-d40"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "todavia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-d40"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-toque-magico",
+      "name": "TOQUE MÁGICO",
+      "normalizedName": "toque magico",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "TOQUE MÁGICO",
+          "standId": "stand-a86"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "toque-magico",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a86"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-turma-do-cabeca-oca",
+      "name": "TURMA DO CABEÇA OCA",
+      "normalizedName": "turma do cabeca oca",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "TURMA DO CABEÇA OCA",
+          "standId": "stand-a66"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "turma-do-cabeca-oca",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-a66"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-uiclap",
+      "name": "UICLAP",
+      "normalizedName": "uiclap",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "UICLAP",
+          "standId": "stand-b79"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "uiclap",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b79"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-universo-dos-livros",
+      "name": "UNIVERSO DOS LIVROS",
+      "normalizedName": "universo dos livros",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "UNIVERSO DOS LIVROS",
+          "standId": "stand-h60"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "universo-dos-livros",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h60"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-urutau",
+      "name": "URUTAU",
+      "normalizedName": "urutau",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "URUTAU",
+          "standId": "stand-h80"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "urutau",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-h80"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-viajante-do-tempo",
+      "name": "VIAJANTE DO TEMPO",
+      "normalizedName": "viajante do tempo",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "VIAJANTE DO TEMPO",
+          "standId": "stand-b80"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "viajante-do-tempo",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-b80"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-vitoria-gabrieli",
+      "name": "VITORIA GABRIELI",
+      "normalizedName": "vitoria gabrieli",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "VITORIA GABRIELI",
+          "standId": "stand-travessa-17"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "vitoria-gabrieli",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-17"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-vr-editora",
+      "name": "VR EDITORA",
+      "normalizedName": "vr editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "VR EDITORA",
+          "standId": "stand-g50"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "vr-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-g50"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-wmf-martins-fontes",
+      "name": "WMF MARTINS FONTES",
+      "normalizedName": "wmf martins fontes",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "WMF MARTINS FONTES",
+          "standId": "stand-f88"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "wmf-martins-fontes",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-f88"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-y-a-books",
+      "name": "Y.A. BOOKS",
+      "normalizedName": "y a books",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "Y.A. BOOKS",
+          "standId": "stand-c76"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "y-a-books",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-c76"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "id": "exhibitor-zuuwaii-editora",
+      "name": "ZUUWAII EDITORA",
+      "normalizedName": "zuuwaii editora",
+      "occurrences": [
+        {
+          "occurrenceIndex": 1,
+          "originalText": "ZUUWAII EDITORA",
+          "standId": "stand-travessa-29"
+        }
+      ],
+      "roles": [
+        "exhibitor"
+      ],
+      "slug": "zuuwaii-editora",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standIds": [
+        "stand-travessa-29"
+      ],
+      "validation": {
+        "confidence": 0.95,
+        "notes": [
+          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+        ],
+        "status": "validated"
+      }
+    }
+  ],
+  "generatedAt": "2026-08-05T23:24:59Z",
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  }
+}

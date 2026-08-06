@@ -1,0 +1,736 @@
+{
+  "generatedAt": "2026-08-05T23:24:59Z",
+  "items": [
+    {
+      "code": "K56",
+      "id": "unresolved-stand-k56-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-k56",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "K76",
+      "id": "unresolved-stand-k76-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-k76",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "K30",
+      "id": "unresolved-stand-k30-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-k30",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "13",
+      "id": "unresolved-stand-travessa-13-category",
+      "reason": "Color could not be matched confidently to a legend swatch.",
+      "standId": "stand-travessa-13",
+      "status": "needs-review",
+      "type": "stand-category"
+    },
+    {
+      "code": "22",
+      "id": "unresolved-stand-travessa-22-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-travessa-22",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "23",
+      "id": "unresolved-stand-travessa-23-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-travessa-23",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "39",
+      "id": "unresolved-stand-travessa-39-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-travessa-39",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "D02",
+      "id": "unresolved-stand-d02-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-d02",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI01",
+      "id": "unresolved-stand-ti01-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti01",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI02",
+      "id": "unresolved-stand-ti02-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti02",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI03",
+      "id": "unresolved-stand-ti03-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti03",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI04",
+      "id": "unresolved-stand-ti04-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti04",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI05",
+      "id": "unresolved-stand-ti05-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti05",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI06",
+      "id": "unresolved-stand-ti06-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti06",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI07",
+      "id": "unresolved-stand-ti07-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti07",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI08",
+      "id": "unresolved-stand-ti08-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti08",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI09",
+      "id": "unresolved-stand-ti09-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti09",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI10",
+      "id": "unresolved-stand-ti10-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti10",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI11",
+      "id": "unresolved-stand-ti11-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti11",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI12",
+      "id": "unresolved-stand-ti12-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti12",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI13",
+      "id": "unresolved-stand-ti13-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti13",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI14",
+      "id": "unresolved-stand-ti14-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti14",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI15",
+      "id": "unresolved-stand-ti15-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti15",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI16",
+      "id": "unresolved-stand-ti16-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti16",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI17",
+      "id": "unresolved-stand-ti17-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti17",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI18",
+      "id": "unresolved-stand-ti18-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti18",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI19",
+      "id": "unresolved-stand-ti19-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti19",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI20",
+      "id": "unresolved-stand-ti20-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti20",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI21",
+      "id": "unresolved-stand-ti21-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti21",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI22",
+      "id": "unresolved-stand-ti22-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti22",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI23",
+      "id": "unresolved-stand-ti23-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti23",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI24",
+      "id": "unresolved-stand-ti24-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti24",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI25",
+      "id": "unresolved-stand-ti25-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-ti25",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "A79",
+      "id": "unresolved-stand-a79-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-a79",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA01",
+      "id": "unresolved-stand-aa01-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa01",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA03",
+      "id": "unresolved-stand-aa03-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa03",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA05",
+      "id": "unresolved-stand-aa05-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa05",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA07",
+      "id": "unresolved-stand-aa07-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa07",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA09",
+      "id": "unresolved-stand-aa09-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa09",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA11",
+      "id": "unresolved-stand-aa11-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa11",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA27",
+      "id": "unresolved-stand-aa27-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa27",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA31",
+      "id": "unresolved-stand-aa31-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa31",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA33",
+      "id": "unresolved-stand-aa33-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa33",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA41",
+      "id": "unresolved-stand-aa41-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa41",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA43",
+      "id": "unresolved-stand-aa43-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa43",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA45",
+      "id": "unresolved-stand-aa45-occupant",
+      "reason": "No named occupant was printed inside the booth geometry.",
+      "standId": "stand-aa45",
+      "status": "needs-review",
+      "type": "stand-occupant"
+    },
+    {
+      "id": "unresolved-poi-gate-03-geometry",
+      "pointOfInterestId": "poi-gate-03",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-gate-04-geometry",
+      "pointOfInterestId": "poi-gate-04",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-gate-02-geometry",
+      "pointOfInterestId": "poi-gate-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-gate-05-geometry",
+      "pointOfInterestId": "poi-gate-05",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-emergency-exit-04-geometry",
+      "pointOfInterestId": "poi-emergency-exit-04",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-emergency-exit-05-geometry",
+      "pointOfInterestId": "poi-emergency-exit-05",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-emergency-exit-06-geometry",
+      "pointOfInterestId": "poi-emergency-exit-06",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-emergency-exit-07-geometry",
+      "pointOfInterestId": "poi-emergency-exit-07",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-emergency-exit-08-geometry",
+      "pointOfInterestId": "poi-emergency-exit-08",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-01-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-street-01-geometry",
+      "pointOfInterestId": "poi-street-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-02-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-emergency-exit-03-geometry",
+      "pointOfInterestId": "poi-emergency-exit-03",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-03-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-03",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-street-02-geometry",
+      "pointOfInterestId": "poi-street-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-04-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-04",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-emergency-exit-02-geometry",
+      "pointOfInterestId": "poi-emergency-exit-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-05-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-05",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-alameda-01-geometry",
+      "pointOfInterestId": "poi-alameda-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-emergency-exit-01-geometry",
+      "pointOfInterestId": "poi-emergency-exit-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-06-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-06",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-07-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-07",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-female-restroom-02-geometry",
+      "pointOfInterestId": "poi-female-restroom-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-female-restroom-01-geometry",
+      "pointOfInterestId": "poi-female-restroom-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-male-restroom-02-geometry",
+      "pointOfInterestId": "poi-male-restroom-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-male-restroom-01-geometry",
+      "pointOfInterestId": "poi-male-restroom-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-accessible-restroom-04-geometry",
+      "pointOfInterestId": "poi-accessible-restroom-04",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-accessible-restroom-03-geometry",
+      "pointOfInterestId": "poi-accessible-restroom-03",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-accessible-restroom-02-geometry",
+      "pointOfInterestId": "poi-accessible-restroom-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-accessible-restroom-01-geometry",
+      "pointOfInterestId": "poi-accessible-restroom-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-restrooms-01-geometry",
+      "pointOfInterestId": "poi-restrooms-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-information-desk-01-geometry",
+      "pointOfInterestId": "poi-information-desk-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-information-desk-02-geometry",
+      "pointOfInterestId": "poi-information-desk-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-information-desk-03-geometry",
+      "pointOfInterestId": "poi-information-desk-03",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-08-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-08",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-09-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-09",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-10-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-10",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-gate-01-geometry",
+      "pointOfInterestId": "poi-gate-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-infrastructure-marker-11-geometry",
+      "pointOfInterestId": "poi-infrastructure-marker-11",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-accreditation-01-geometry",
+      "pointOfInterestId": "poi-accreditation-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-professional-access-01-geometry",
+      "pointOfInterestId": "poi-professional-access-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-public-entrance-01-geometry",
+      "pointOfInterestId": "poi-public-entrance-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-professional-access-02-geometry",
+      "pointOfInterestId": "poi-professional-access-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-professional-access-03-geometry",
+      "pointOfInterestId": "poi-professional-access-03",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-exhibitor-entrance-01-geometry",
+      "pointOfInterestId": "poi-exhibitor-entrance-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-exhibitor-entrance-02-geometry",
+      "pointOfInterestId": "poi-exhibitor-entrance-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-public-entrance-02-geometry",
+      "pointOfInterestId": "poi-public-entrance-02",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-entry-flow-01-geometry",
+      "pointOfInterestId": "poi-entry-flow-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-exhibitor-entrance-03-geometry",
+      "pointOfInterestId": "poi-exhibitor-entrance-03",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-public-exit-01-geometry",
+      "pointOfInterestId": "poi-public-exit-01",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    },
+    {
+      "id": "unresolved-poi-gate-06-geometry",
+      "pointOfInterestId": "poi-gate-06",
+      "reason": "Position is based on the visible text label and should be visually reviewed before navigation use.",
+      "status": "needs-review",
+      "type": "poi-position"
+    }
+  ],
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  }
+}
