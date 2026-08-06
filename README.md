@@ -1,8 +1,8 @@
-# Bienal do Livro 2026 — Map Data
+# Bienal do Livro 2026 - Map Data
 
-Base técnica reutilizável do mapa da Bienal do Livro 2026, gerada a partir do PDF `BIL26-0526.pdf`.
+Dataset técnico e reutilizável do mapa da Bienal do Livro 2026, estruturado para consumo por aplicações web, ferramentas de análise e outros projetos.
 
-O repositório contém o mapa em SVG, catálogos JSON, schemas de validação, previews e relatórios técnicos.
+O repositório reúne o mapa em SVG semântico, dados normalizados em JSON, schemas de validação, previews, relatórios técnicos e metadados da fonte. O PDF utilizado como referência não está incluído no repositório e está identificado em `source/source-metadata.json`.
 
 ## Estrutura
 

@@ -106,9 +106,9 @@
       "sha256": "fcf04f1f6bf482c38df1c526f2dd997539d98a933a9bb779fd20344776c99936"
     },
     {
-      "bytes": 2181,
+      "bytes": 2399,
       "path": "README.md",
-      "sha256": "c8eb6a8b9b6e080b82337cf725def6291ee3c6160f20e1d4b43bd50b766525e5"
+      "sha256": "8866984a42f96be90b5d4e61d88b5cef19ff73a44a26cd23edc6f0e6693237cf"
     },
     {
       "bytes": 1464,
@@ -191,7 +191,7 @@
       "sha256": "18e799042beff1a38b5f8288245545c4e4fb98e4d59ce7a438e9b06a1ecaf983"
     }
   ],
-  "generatedAt": "2026-08-06T01:22:56Z",
+  "generatedAt": "2026-08-06T01:26:24Z",
   "schemaVersion": "1.0.0",
   "source": {
     "file": "BIL26-0526.pdf",
