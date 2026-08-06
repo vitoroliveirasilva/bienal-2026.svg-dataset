@@ -1,0 +1,191 @@
+{
+  "files": [
+    {
+      "bytes": 115,
+      "path": ".gitattributes",
+      "sha256": "fa2ecfa4f44d70082a0b40768f19a6dec11de5381748268824d364125f87aca0"
+    },
+    {
+      "bytes": 205,
+      "path": ".gitignore",
+      "sha256": "78faa711fd7275ac1b65b901673db10356d09919fb172c427310f5a5605894ff"
+    },
+    {
+      "bytes": 972447,
+      "path": "data/catalog.json",
+      "sha256": "b03a90469aed6a88f54c0138b81b0a0676fd1c20179ab1fd6cefb81542616b2b"
+    },
+    {
+      "bytes": 11824,
+      "path": "data/categories.json",
+      "sha256": "0e6dc618ce70cea40b608fe2e3e2d7470046f55a493970c2bffccb8129e9eb9f"
+    },
+    {
+      "bytes": 633,
+      "path": "data/coordinate-system.json",
+      "sha256": "531afbb96fdd8764dac36ec5fa58695cb85e51a02386b9d4c51bd019105d247e"
+    },
+    {
+      "bytes": 171472,
+      "path": "data/exhibitors.json",
+      "sha256": "f1aca1b3e581a5687090efa33c73f0f095b014dbf8a07e5570cd8435a7978abf"
+    },
+    {
+      "bytes": 710,
+      "path": "data/map-metadata.json",
+      "sha256": "019eb2019362697d636e2efb98ce6438f41d15f86c8f3850df0343c57945a97e"
+    },
+    {
+      "bytes": 131330,
+      "path": "data/points-of-interest.json",
+      "sha256": "3f790fe0e99309546f4d86085b19d82e12861a2e2f42da1e4fa4fe5954f2cd33"
+    },
+    {
+      "bytes": 70172,
+      "path": "data/relationships.json",
+      "sha256": "8d6e083b2bade7cefeec4ffacebd016ce19a22c4725dcb214c54a2ceeb98ee6f"
+    },
+    {
+      "bytes": 656796,
+      "path": "data/stands.json",
+      "sha256": "9ae7ef8b2a2c9ae5a55374cec85cfc865a408a2c5c60371a2ad46acfa15eec41"
+    },
+    {
+      "bytes": 27178,
+      "path": "data/unresolved-items.json",
+      "sha256": "fcb4ad288025980afe777c002fcd8f192259388c2ea7df86e80d02e8f391039d"
+    },
+    {
+      "bytes": 2923,
+      "path": "data/validation-results.json",
+      "sha256": "081a21535b024004a475ed6d71f40a6fb094f1383384683ea3852806fe17da5a"
+    },
+    {
+      "bytes": 4802809,
+      "path": "map/map-full-vector.svgz",
+      "sha256": "a3f35a07ae266c14de50cfb12867745159bcecd280e044cb396db6e0db99f789"
+    },
+    {
+      "bytes": 3214663,
+      "path": "map/map-optimized.svg",
+      "sha256": "ba7018c323c41fa5512665350b0a1414f6bfedfe23c268ca6e61a5140c938473"
+    },
+    {
+      "bytes": 2638371,
+      "path": "map/map-preview.png",
+      "sha256": "3c425f89714c4f95126b203d9d613b0fd83235c6c5b88a890157c4e6dbf391f7"
+    },
+    {
+      "bytes": 791756,
+      "path": "map/map-preview.webp",
+      "sha256": "930e5ba94774b8cbf6e6b3e50b77a2ede91c5ff89a985c3626f409e310ec526f"
+    },
+    {
+      "bytes": 32022,
+      "path": "map/map-thumbnail.webp",
+      "sha256": "fa9bb215b13efb2c91cd7becf18f5517d3cec08801c57f16d860c7dd54f64499"
+    },
+    {
+      "bytes": 2213385,
+      "path": "map/map-validation-overlay.png",
+      "sha256": "7707e4df5c964ac0c8b24695cb170db4750dfbb023771613b8a63526559f7225"
+    },
+    {
+      "bytes": 410,
+      "path": "NOTICE.md",
+      "sha256": "fcf04f1f6bf482c38df1c526f2dd997539d98a933a9bb779fd20344776c99936"
+    },
+    {
+      "bytes": 2131,
+      "path": "README.md",
+      "sha256": "906a0bb31303ea1b084a168ecbd4fabc8d8446c1a720071d0f9e9ae1ad14a3e8"
+    },
+    {
+      "bytes": 1464,
+      "path": "reports/data-dictionary.md",
+      "sha256": "1eea93be4e0f698928afe7adf0f6ba0c465b85ef7da42af51b97bb6787661c25"
+    },
+    {
+      "bytes": 1046,
+      "path": "reports/extraction-report.md",
+      "sha256": "a1868e93a2c51ed2b3c02f0337f0fa947375e1166781a3092109de049a3122d2"
+    },
+    {
+      "bytes": 648,
+      "path": "reports/known-limitations.md",
+      "sha256": "285d3bdfd51d2a43d63e26207fb166772864a7dbfa974fc149f19bf3447975f7"
+    },
+    {
+      "bytes": 1076,
+      "path": "reports/validation-report.md",
+      "sha256": "7c26600d5e6c7901203735652f8cb80faa73b4548e43e36237ab0d2d0571819b"
+    },
+    {
+      "bytes": 9021,
+      "path": "schemas/catalog.schema.json",
+      "sha256": "63323a86163854f287e75d7eafd4436b0ced6b0d9f8327912ef788b7095df896"
+    },
+    {
+      "bytes": 4410,
+      "path": "schemas/categories.schema.json",
+      "sha256": "cdc3ae6eb1ad0532b6d1f6f0b42fc71b4bce9d0161a4533055f747cbe198c2db"
+    },
+    {
+      "bytes": 3402,
+      "path": "schemas/coordinate-system.schema.json",
+      "sha256": "0d5d5b51fd5b6b5419bc70103db75a9d557c0f981a941fa4e789aa2924bbe5c6"
+    },
+    {
+      "bytes": 4521,
+      "path": "schemas/exhibitors.schema.json",
+      "sha256": "4024cb1e1b808f115f7103095ffa95d9e413260bdacc22149f177033123e4df9"
+    },
+    {
+      "bytes": 3516,
+      "path": "schemas/map-metadata.schema.json",
+      "sha256": "b4930651c3a8de4aad919b9db9ae163bbb3a8be53560965efce24c7a09d66a2d"
+    },
+    {
+      "bytes": 4471,
+      "path": "schemas/points-of-interest.schema.json",
+      "sha256": "7c26411c5ae86bc7c1ab285d6f0ebc3dc4b966cac29028a9d6d02ce421473e5a"
+    },
+    {
+      "bytes": 3880,
+      "path": "schemas/relationships.schema.json",
+      "sha256": "fad373d0bb438415426e27676268f52325bc24ab5200609a6fd2846a7b0430cc"
+    },
+    {
+      "bytes": 4596,
+      "path": "schemas/stands.schema.json",
+      "sha256": "c0c99430ec2a584132e042903aab84a587dd992877d34006905ed3dd1a43d969"
+    },
+    {
+      "bytes": 3251,
+      "path": "schemas/unresolved-items.schema.json",
+      "sha256": "1fcf5fb001b7e7e777af2a40324f437669f36ce161bb9d755da9dd8c7e9be9f7"
+    },
+    {
+      "bytes": 3298,
+      "path": "schemas/validation-results.schema.json",
+      "sha256": "5744289786fa1d95ce0dfb4cdfb68c36e5f44d1187346c636449bf1c4473dea0"
+    },
+    {
+      "bytes": 1013,
+      "path": "source/source-metadata.json",
+      "sha256": "c055c82518d1810e7e3ca5490a1b2088e1764379a4071809f6d6f21d8331e4c2"
+    },
+    {
+      "bytes": 2889,
+      "path": "tools/update-package-manifest.py",
+      "sha256": "18e799042beff1a38b5f8288245545c4e4fb98e4d59ce7a438e9b06a1ecaf983"
+    }
+  ],
+  "generatedAt": "2026-08-06T00:13:42Z",
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  }
+}
