@@ -6,6 +6,16 @@
       "sha256": "fa2ecfa4f44d70082a0b40768f19a6dec11de5381748268824d364125f87aca0"
     },
     {
+      "bytes": 46,
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "sha256": "8b09e7df09fc7534371988062769ee427af2954a02c04c763e8a8005be0f2be4"
+    },
+    {
+      "bytes": 2009,
+      "path": ".github/ISSUE_TEMPLATE/data-correction.yml",
+      "sha256": "0370658aaa647e355c17d9ef95c14cf3de8f3689b84974a38a12842d93d634a6"
+    },
+    {
       "bytes": 205,
       "path": ".gitignore",
       "sha256": "78faa711fd7275ac1b65b901673db10356d09919fb172c427310f5a5605894ff"
@@ -111,9 +121,9 @@
       "sha256": "28ac72363b3574eb0705482d8c87119344d16e329136f44d67477d9f786f8b43"
     },
     {
-      "bytes": 727,
+      "bytes": 728,
       "path": "reports/known-limitations.md",
-      "sha256": "6bed225dc01adab1e8ed4e4a2e808c34c0470536d2968b013b5d39946d81b87d"
+      "sha256": "daea1da5b873c8bc77e22638488488460febde9edf2cb39d79531e6479810a5b"
     },
     {
       "bytes": 1825,
@@ -181,7 +191,7 @@
       "sha256": "18e799042beff1a38b5f8288245545c4e4fb98e4d59ce7a438e9b06a1ecaf983"
     }
   ],
-  "generatedAt": "2026-08-06T01:05:39Z",
+  "generatedAt": "2026-08-06T01:22:56Z",
   "schemaVersion": "1.0.0",
   "source": {
     "file": "BIL26-0526.pdf",
