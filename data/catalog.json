@@ -232,6 +232,7 @@
         "stand-travessa-10",
         "stand-travessa-11",
         "stand-travessa-12",
+        "stand-travessa-13",
         "stand-travessa-14",
         "stand-travessa-15",
         "stand-travessa-16",
@@ -510,60 +511,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m",
-      "name": "2m 2m",
-      "normalizedName": "2m 2m",
+      "id": "exhibitor-artesanato-santista",
+      "name": "ARTESANATO SANTISTA",
+      "normalizedName": "artesanato santista",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m",
-          "standId": "stand-travessa-14"
-        },
-        {
-          "occurrenceIndex": 1,
-          "originalText": "2m 2m",
-          "standId": "stand-travessa-26"
-        }
-      ],
-      "roles": [
-        "exhibitor"
-      ],
-      "slug": "2m-2m",
-      "source": {
-        "file": "BIL26-0526.pdf",
-        "page": 1,
-        "type": "pdf-map"
-      },
-      "standIds": [
-        "stand-travessa-14",
-        "stand-travessa-26"
-      ],
-      "validation": {
-        "confidence": 0.95,
-        "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
-        ],
-        "status": "validated"
-      }
-    },
-    {
-      "categoryIds": [
-        "exhibitor"
-      ],
-      "id": "exhibitor-2m-2m-artesanato-santista",
-      "name": "2m 2m ARTESANATO SANTISTA",
-      "normalizedName": "2m 2m artesanato santista",
-      "occurrences": [
-        {
-          "occurrenceIndex": 1,
-          "originalText": "2m 2m ARTESANATO SANTISTA",
+          "originalText": "ARTESANATO SANTISTA",
           "standId": "stand-travessa-30"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-artesanato-santista",
+      "slug": "artesanato-santista",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -573,31 +534,34 @@
         "stand-travessa-30"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-barraco-editorial",
-      "name": "2m 2m BARRACO EDITORIAL",
-      "normalizedName": "2m 2m barraco editorial",
+      "id": "exhibitor-barraco-editorial",
+      "name": "BARRACO EDITORIAL",
+      "normalizedName": "barraco editorial",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m BARRACO EDITORIAL",
+          "originalText": "BARRACO EDITORIAL",
           "standId": "stand-travessa-46"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-barraco-editorial",
+      "slug": "barraco-editorial",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -607,31 +571,34 @@
         "stand-travessa-46"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-diarios-embu",
-      "name": "2m 2m DIÁRIOS EMBU",
-      "normalizedName": "2m 2m diarios embu",
+      "id": "exhibitor-diarios-embu",
+      "name": "DIÁRIOS EMBU",
+      "normalizedName": "diarios embu",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m DIÁRIOS EMBU",
+          "originalText": "DIÁRIOS EMBU",
           "standId": "stand-travessa-10"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-diarios-embu",
+      "slug": "diarios-embu",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -641,31 +608,34 @@
         "stand-travessa-10"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-editora-nua",
-      "name": "2m 2m EDITORA NUA",
-      "normalizedName": "2m 2m editora nua",
+      "id": "exhibitor-editora-nua",
+      "name": "EDITORA NUA",
+      "normalizedName": "editora nua",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m EDITORA NUA",
+          "originalText": "EDITORA NUA",
           "standId": "stand-travessa-32"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-editora-nua",
+      "slug": "editora-nua",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -675,31 +645,34 @@
         "stand-travessa-32"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-ironita-pereira",
-      "name": "2m 2m IRONITA PEREIRA",
-      "normalizedName": "2m 2m ironita pereira",
+      "id": "exhibitor-ironita-pereira",
+      "name": "IRONITA PEREIRA",
+      "normalizedName": "ironita pereira",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m IRONITA PEREIRA",
+          "originalText": "IRONITA PEREIRA",
           "standId": "stand-travessa-28"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-ironita-pereira",
+      "slug": "ironita-pereira",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -709,31 +682,34 @@
         "stand-travessa-28"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-labuck",
-      "name": "2m 2m LABUCK",
-      "normalizedName": "2m 2m labuck",
+      "id": "exhibitor-labuck",
+      "name": "LABUCK",
+      "normalizedName": "labuck",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m LABUCK",
+          "originalText": "LABUCK",
           "standId": "stand-travessa-12"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-labuck",
+      "slug": "labuck",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -743,31 +719,34 @@
         "stand-travessa-12"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-lote",
-      "name": "2m 2m LOTE",
-      "normalizedName": "2m 2m lote",
+      "id": "exhibitor-lote-42",
+      "name": "LOTE 42",
+      "normalizedName": "lote 42",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m LOTE",
+          "originalText": "LOTE 42",
           "standId": "stand-travessa-44"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-lote",
+      "slug": "lote-42",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -777,31 +756,34 @@
         "stand-travessa-44"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-stefanie-cabanelas",
-      "name": "2m 2m STEFANIE CABANELAS",
-      "normalizedName": "2m 2m stefanie cabanelas",
+      "id": "exhibitor-stefanie-cabanelas",
+      "name": "STEFANIE CABANELAS",
+      "normalizedName": "stefanie cabanelas",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m STEFANIE CABANELAS",
+          "originalText": "STEFANIE CABANELAS",
           "standId": "stand-travessa-42"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-stefanie-cabanelas",
+      "slug": "stefanie-cabanelas",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -811,11 +793,14 @@
         "stand-travessa-42"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -1806,20 +1791,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-casa-5m-5m-do-novo-autor",
-      "name": "CASA 5m 5m DO NOVO AUTOR",
-      "normalizedName": "casa 5m 5m do novo autor",
+      "id": "exhibitor-casa-do-novo-autor",
+      "name": "CASA DO NOVO AUTOR",
+      "normalizedName": "casa do novo autor",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "CASA 5m 5m DO NOVO AUTOR",
+          "originalText": "CASA DO NOVO AUTOR",
           "standId": "stand-dd29"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "casa-5m-5m-do-novo-autor",
+      "slug": "casa-do-novo-autor",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -1829,11 +1814,14 @@
         "stand-dd29"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -2086,20 +2074,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-clube-5m-5m-do-medo",
-      "name": "CLUBE 5m 5m DO MEDO",
-      "normalizedName": "clube 5m 5m do medo",
+      "id": "exhibitor-clube-do-medo",
+      "name": "CLUBE DO MEDO",
+      "normalizedName": "clube do medo",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "CLUBE 5m 5m DO MEDO",
+          "originalText": "CLUBE DO MEDO",
           "standId": "stand-bb18"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "clube-5m-5m-do-medo",
+      "slug": "clube-do-medo",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -2109,11 +2097,14 @@
         "stand-bb18"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -6134,20 +6125,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-o-2m-2m-livro-do-conhecimento",
-      "name": "O 2m 2m LIVRO DO CONHECIMENTO",
-      "normalizedName": "o 2m 2m livro do conhecimento",
+      "id": "exhibitor-o-livro-do-conhecimento",
+      "name": "O LIVRO DO CONHECIMENTO",
+      "normalizedName": "o livro do conhecimento",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "O 2m 2m LIVRO DO CONHECIMENTO",
+          "originalText": "O LIVRO DO CONHECIMENTO",
           "standId": "stand-travessa-16"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "o-2m-2m-livro-do-conhecimento",
+      "slug": "o-livro-do-conhecimento",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -6157,11 +6148,14 @@
         "stand-travessa-16"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -7008,20 +7002,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-sarau-2m-2m-do-manoelio",
-      "name": "SARAU 2m 2m DO MANOÉLIO",
-      "normalizedName": "sarau 2m 2m do manoelio",
+      "id": "exhibitor-sarau-do-manoelio",
+      "name": "SARAU DO MANOÉLIO",
+      "normalizedName": "sarau do manoelio",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "SARAU 2m 2m DO MANOÉLIO",
+          "originalText": "SARAU DO MANOÉLIO",
           "standId": "stand-travessa-48"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "sarau-2m-2m-do-manoelio",
+      "slug": "sarau-do-manoelio",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -7031,11 +7025,14 @@
         "stand-travessa-48"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -7957,7 +7954,7 @@
       }
     }
   ],
-  "generatedAt": "2026-08-05T23:24:59Z",
+  "generatedAt": "2026-08-06T00:55:17Z",
   "map": {
     "categoryCount": 6,
     "exhibitorCount": 216,
@@ -8014,7 +8011,7 @@
           "y": 0.15162601
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-03",
       "name": "Portão 8",
@@ -8029,14 +8026,15 @@
       "svgElementId": "poi-gate-03",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -8065,7 +8063,7 @@
           "y": 0.15683149
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-04",
       "name": "Portão 6",
@@ -8080,14 +8078,15 @@
       "svgElementId": "poi-gate-04",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -8116,7 +8115,7 @@
           "y": 0.20849062
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-02",
       "name": "Portão 7",
@@ -8131,14 +8130,15 @@
       "svgElementId": "poi-gate-02",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -8167,7 +8167,7 @@
           "y": 0.20906071
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-05",
       "name": "Portão 10",
@@ -8182,14 +8182,15 @@
       "svgElementId": "poi-gate-05",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -8473,7 +8474,7 @@
           "y": 0.23469222
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-04",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -8488,14 +8489,15 @@
       "svgElementId": "poi-emergency-exit-04",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -8524,7 +8526,7 @@
           "y": 0.23469222
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-05",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -8539,14 +8541,15 @@
       "svgElementId": "poi-emergency-exit-05",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -8575,7 +8578,7 @@
           "y": 0.23469222
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-06",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -8590,14 +8593,15 @@
       "svgElementId": "poi-emergency-exit-06",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -8626,7 +8630,7 @@
           "y": 0.23469222
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-07",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -8641,14 +8645,15 @@
       "svgElementId": "poi-emergency-exit-07",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -8677,7 +8682,7 @@
           "y": 0.23483473
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-08",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -8692,14 +8697,15 @@
       "svgElementId": "poi-emergency-exit-08",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -9090,7 +9096,7 @@
           "y": 0.29241635
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-01",
       "name": "IF08",
@@ -9105,14 +9111,15 @@
       "svgElementId": "poi-infrastructure-marker-01",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -9417,7 +9424,7 @@
           "y": 0.36881856
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-street-01",
       "name": "TRAVESSA LITERÁRIA",
@@ -9432,14 +9439,15 @@
       "svgElementId": "poi-street-01",
       "type": "street",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -9542,7 +9550,7 @@
           "y": 0.3816325
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-02",
       "name": "IF07",
@@ -9557,14 +9565,15 @@
       "svgElementId": "poi-infrastructure-marker-02",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -9593,7 +9602,7 @@
           "y": 0.39110553
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-03",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -9608,14 +9617,15 @@
       "svgElementId": "poi-emergency-exit-03",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -9748,7 +9758,7 @@
           "y": 0.42816459
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-03",
       "name": "IF01",
@@ -9763,14 +9773,15 @@
       "svgElementId": "poi-infrastructure-marker-03",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -9799,7 +9810,7 @@
           "y": 0.45877543
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-street-02",
       "name": "RUA MASSINET",
@@ -9814,14 +9825,15 @@
       "svgElementId": "poi-street-02",
       "type": "street",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -10128,7 +10140,7 @@
           "y": 0.50362779
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-04",
       "name": "IF06",
@@ -10143,14 +10155,15 @@
       "svgElementId": "poi-infrastructure-marker-04",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -10179,7 +10192,7 @@
           "y": 0.51616489
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-02",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -10194,14 +10207,15 @@
       "svgElementId": "poi-emergency-exit-02",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -10796,7 +10810,7 @@
           "y": 0.58856839
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-05",
       "name": "IF05",
@@ -10811,14 +10825,15 @@
       "svgElementId": "poi-infrastructure-marker-05",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -10847,7 +10862,7 @@
           "y": 0.59121762
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-alameda-01",
       "name": "ALAMEDA DOS ARTISTAS BY BIC",
@@ -10862,14 +10877,15 @@
       "svgElementId": "poi-alameda-01",
       "type": "alameda",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -10949,7 +10965,7 @@
           "y": 0.60174684
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-01",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -10964,14 +10980,15 @@
       "svgElementId": "poi-emergency-exit-01",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11002,7 +11019,7 @@
           "y": 0.60880595
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-06",
       "name": "IF09",
@@ -11017,14 +11034,15 @@
       "svgElementId": "poi-infrastructure-marker-06",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11157,7 +11175,7 @@
           "y": 0.61229762
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-07",
       "name": "IF10",
@@ -11172,14 +11190,15 @@
       "svgElementId": "poi-infrastructure-marker-07",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11208,7 +11227,7 @@
           "y": 0.61955809
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-female-restroom-02",
       "name": "BANHEIRO FEMININO",
@@ -11223,14 +11242,15 @@
       "svgElementId": "poi-female-restroom-02",
       "type": "female-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11259,7 +11279,7 @@
           "y": 0.62012813
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-female-restroom-01",
       "name": "BANHEIRO FEMININO",
@@ -11274,14 +11294,15 @@
       "svgElementId": "poi-female-restroom-01",
       "type": "female-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11310,7 +11331,7 @@
           "y": 0.62198086
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-male-restroom-02",
       "name": "BANHEIRO MASCULINO",
@@ -11325,14 +11346,15 @@
       "svgElementId": "poi-male-restroom-02",
       "type": "male-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11361,7 +11383,7 @@
           "y": 0.62262217
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-male-restroom-01",
       "name": "BANHEIRO MASCULINO",
@@ -11376,14 +11398,15 @@
       "svgElementId": "poi-male-restroom-01",
       "type": "male-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11412,7 +11435,7 @@
           "y": 0.62590009
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accessible-restroom-04",
       "name": "BANHEIRO PNE",
@@ -11427,14 +11450,15 @@
       "svgElementId": "poi-accessible-restroom-04",
       "type": "accessible-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11463,7 +11487,7 @@
           "y": 0.62647014
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accessible-restroom-03",
       "name": "BANHEIRO PNE",
@@ -11478,14 +11502,15 @@
       "svgElementId": "poi-accessible-restroom-03",
       "type": "accessible-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11514,7 +11539,7 @@
           "y": 0.63017559
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accessible-restroom-02",
       "name": "BANHEIRO PNE",
@@ -11529,14 +11554,15 @@
       "svgElementId": "poi-accessible-restroom-02",
       "type": "accessible-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11565,7 +11591,7 @@
           "y": 0.63074571
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accessible-restroom-01",
       "name": "BANHEIRO PNE",
@@ -11580,14 +11606,15 @@
       "svgElementId": "poi-accessible-restroom-01",
       "type": "accessible-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11616,7 +11643,7 @@
           "y": 0.63074571
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-restrooms-01",
       "name": "BANHEIROS",
@@ -11631,14 +11658,15 @@
       "svgElementId": "poi-restrooms-01",
       "type": "restrooms",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11718,7 +11746,7 @@
           "y": 0.64899367
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-information-desk-01",
       "name": "BALCÃO DE INFORMAÇÃO",
@@ -11733,14 +11761,15 @@
       "svgElementId": "poi-information-desk-01",
       "type": "information-desk",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11769,7 +11798,7 @@
           "y": 0.64956379
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-information-desk-02",
       "name": "BALCÃO DE INFORMAÇÃO",
@@ -11784,14 +11813,15 @@
       "svgElementId": "poi-information-desk-02",
       "type": "information-desk",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11820,7 +11850,7 @@
           "y": 0.65020509
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-information-desk-03",
       "name": "BALCÃO DE INFORMAÇÃO",
@@ -11835,14 +11865,15 @@
       "svgElementId": "poi-information-desk-03",
       "type": "information-desk",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -11975,7 +12006,7 @@
           "y": 0.66502924
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-08",
       "name": "IF04",
@@ -11990,14 +12021,15 @@
       "svgElementId": "poi-infrastructure-marker-08",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12079,7 +12111,7 @@
           "y": 0.68954225
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-09",
       "name": "IF04A",
@@ -12094,14 +12126,15 @@
       "svgElementId": "poi-infrastructure-marker-09",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12306,7 +12339,7 @@
           "y": 0.70643065
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-10",
       "name": "IF02",
@@ -12321,14 +12354,15 @@
       "svgElementId": "poi-infrastructure-marker-10",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12408,7 +12442,7 @@
           "y": 0.7244051
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-01",
       "name": "Portão 5",
@@ -12423,14 +12457,15 @@
       "svgElementId": "poi-gate-01",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12461,7 +12496,7 @@
           "y": 0.72303395
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-11",
       "name": "IF03",
@@ -12476,14 +12511,15 @@
       "svgElementId": "poi-infrastructure-marker-11",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12512,7 +12548,7 @@
           "y": 0.72688848
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accreditation-01",
       "name": "CREDENCIAMENTO",
@@ -12527,14 +12563,15 @@
       "svgElementId": "poi-accreditation-01",
       "type": "accreditation",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12563,7 +12600,7 @@
           "y": 0.73290345
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-professional-access-01",
       "name": "ACESSO PROFISSIONAIS DO SETOR /PROFESSORES",
@@ -12578,14 +12615,15 @@
       "svgElementId": "poi-professional-access-01",
       "type": "professional-access",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12614,7 +12652,7 @@
           "y": 0.73345813
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-public-entrance-01",
       "name": "ENTRADA PÚBLICO",
@@ -12629,14 +12667,15 @@
       "svgElementId": "poi-public-entrance-01",
       "type": "public-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12665,7 +12704,7 @@
           "y": 0.73782026
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-professional-access-02",
       "name": "ACESSO PROFISSIONAIS DO SETOR /PROFESSORES",
@@ -12680,14 +12719,15 @@
       "svgElementId": "poi-professional-access-02",
       "type": "professional-access",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12932,7 +12972,7 @@
           "y": 0.74287965
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-professional-access-03",
       "name": "ACESSO PROFISSIONAIS DO SETOR /PROFESSORES",
@@ -12947,14 +12987,15 @@
       "svgElementId": "poi-professional-access-03",
       "type": "professional-access",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -12983,7 +13024,7 @@
           "y": 0.76895265
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-exhibitor-entrance-01",
       "name": "ENTRADA EXPOSITORES",
@@ -12998,14 +13039,15 @@
       "svgElementId": "poi-exhibitor-entrance-01",
       "type": "exhibitor-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -13034,7 +13076,7 @@
           "y": 0.77429707
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-exhibitor-entrance-02",
       "name": "ENTRADA EXPOSITORES",
@@ -13049,14 +13091,15 @@
       "svgElementId": "poi-exhibitor-entrance-02",
       "type": "exhibitor-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -13340,7 +13383,7 @@
           "y": 0.79540407
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-public-entrance-02",
       "name": "ENTRADA PÚBLICO",
@@ -13355,14 +13398,15 @@
       "svgElementId": "poi-public-entrance-02",
       "type": "public-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -13391,7 +13435,7 @@
           "y": 0.80666324
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-entry-flow-01",
       "name": "FLUXO DE ENTRADA",
@@ -13406,14 +13450,15 @@
       "svgElementId": "poi-entry-flow-01",
       "type": "entry-flow",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -13442,7 +13487,7 @@
           "y": 0.83481023
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-exhibitor-entrance-03",
       "name": "ENTRADA EXPOSITORES",
@@ -13457,14 +13502,15 @@
       "svgElementId": "poi-exhibitor-entrance-03",
       "type": "exhibitor-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -13493,7 +13539,7 @@
           "y": 0.85041595
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-public-exit-01",
       "name": "SAÍDA PÚBLICO",
@@ -13508,14 +13554,15 @@
       "svgElementId": "poi-public-exit-01",
       "type": "public-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -13544,7 +13591,7 @@
           "y": 0.89882553
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-06",
       "name": "Portão",
@@ -13559,14 +13606,15 @@
       "svgElementId": "poi-gate-06",
       "type": "gate",
       "validation": {
-        "confidence": 0.62,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     }
   ],
@@ -13972,17 +14020,18 @@
       "streetId": "street-k",
       "svgElementId": "stand-k56",
       "validation": {
-        "confidence": 0.9388,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -14390,17 +14439,18 @@
       "streetId": "street-k",
       "svgElementId": "stand-k76",
       "validation": {
-        "confidence": 0.9426,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -14901,17 +14951,18 @@
       "streetId": "street-k",
       "svgElementId": "stand-k30",
       "validation": {
-        "confidence": 0.9342,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -18714,17 +18765,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-03",
       "validation": {
-        "confidence": 0.6858,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
+          "The stand assignment was manually confirmed against the source PDF."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -18924,17 +18977,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-05",
       "validation": {
-        "confidence": 0.6858,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
+          "The stand assignment was manually confirmed against the source PDF."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -19362,7 +19417,7 @@
       ],
       "code": "10",
       "exhibitorIds": [
-        "exhibitor-2m-2m-diarios-embu"
+        "exhibitor-diarios-embu"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -19383,10 +19438,11 @@
         "drawingIndex": 495701,
         "excludedDraftingLabels": [
           "2m",
-          "10"
+          "10",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m DIÁRIOS EMBU"
+          "DIÁRIOS EMBU"
         ],
         "legendColorDistance": 19.1311
       },
@@ -19570,7 +19626,7 @@
       ],
       "code": "12",
       "exhibitorIds": [
-        "exhibitor-2m-2m-labuck"
+        "exhibitor-labuck"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -19591,10 +19647,11 @@
         "drawingIndex": 495703,
         "excludedDraftingLabels": [
           "2m",
-          "12"
+          "12",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m LABUCK"
+          "LABUCK"
         ],
         "legendColorDistance": 16.1245
       },
@@ -19669,7 +19726,9 @@
       }
     },
     {
-      "categoryIds": [],
+      "categoryIds": [
+        "exhibitor"
+      ],
       "code": "13",
       "exhibitorIds": [
         "exhibitor-amanda-ilustra"
@@ -19759,17 +19818,17 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-13",
       "validation": {
-        "confidence": 0.55,
+        "confidence": 0.98,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
-          "pdf-vector-boundary"
+          "pdf-vector-boundary",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "Legend color classification was inconclusive (distance 30.82)."
+          "The exhibitor category was manually confirmed from the source map."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -19777,9 +19836,7 @@
         "exhibitor"
       ],
       "code": "14",
-      "exhibitorIds": [
-        "exhibitor-2m-2m"
-      ],
+      "exhibitorIds": [],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
         "codeMethod": "travessa-numeric-text-span",
@@ -19799,11 +19856,10 @@
         "drawingIndex": 495705,
         "excludedDraftingLabels": [
           "2m",
-          "14"
-        ],
-        "insideLabels": [
+          "14",
           "2m 2m"
         ],
+        "insideLabels": [],
         "legendColorDistance": 8.0623
       },
       "geometry": {
@@ -19863,15 +19919,16 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-14",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.98,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "The source map does not identify a named occupant for this stand."
         ],
         "status": "validated"
       }
@@ -19986,7 +20043,7 @@
       ],
       "code": "16",
       "exhibitorIds": [
-        "exhibitor-o-2m-2m-livro-do-conhecimento"
+        "exhibitor-o-livro-do-conhecimento"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -20007,10 +20064,11 @@
         "drawingIndex": 495707,
         "excludedDraftingLabels": [
           "2m",
-          "16"
+          "16",
+          "2m 2m"
         ],
         "insideLabels": [
-          "O 2m 2m LIVRO DO CONHECIMENTO"
+          "O LIVRO DO CONHECIMENTO"
         ],
         "legendColorDistance": 16.1245
       },
@@ -20491,17 +20549,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-20",
       "validation": {
-        "confidence": 0.6974,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
+          "The stand assignment was manually confirmed against the source PDF."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20697,18 +20757,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-22",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20799,18 +20860,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-23",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -22470,7 +22532,6 @@
       ],
       "code": "26",
       "exhibitorIds": [
-        "exhibitor-2m-2m",
         "exhibitor-compartilhagem"
       ],
       "extraction": {
@@ -22492,10 +22553,10 @@
         "drawingIndex": 495717,
         "excludedDraftingLabels": [
           "2m",
-          "26"
+          "26",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m",
           "COMPARTILHAGEM"
         ],
         "legendColorDistance": 13.1909
@@ -22680,7 +22741,7 @@
       ],
       "code": "28",
       "exhibitorIds": [
-        "exhibitor-2m-2m-ironita-pereira"
+        "exhibitor-ironita-pereira"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -22701,10 +22762,11 @@
         "drawingIndex": 495719,
         "excludedDraftingLabels": [
           "2m",
-          "28"
+          "28",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m IRONITA PEREIRA"
+          "IRONITA PEREIRA"
         ],
         "legendColorDistance": 22.1133
       },
@@ -22888,7 +22950,7 @@
       ],
       "code": "30",
       "exhibitorIds": [
-        "exhibitor-2m-2m-artesanato-santista"
+        "exhibitor-artesanato-santista"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -22909,10 +22971,11 @@
         "drawingIndex": 495721,
         "excludedDraftingLabels": [
           "2m",
-          "30"
+          "30",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m ARTESANATO SANTISTA"
+          "ARTESANATO SANTISTA"
         ],
         "legendColorDistance": 18.0555
       },
@@ -23096,7 +23159,7 @@
       ],
       "code": "32",
       "exhibitorIds": [
-        "exhibitor-2m-2m-editora-nua"
+        "exhibitor-editora-nua"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -23117,10 +23180,11 @@
         "drawingIndex": 495723,
         "excludedDraftingLabels": [
           "2m",
-          "32"
+          "32",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m EDITORA NUA"
+          "EDITORA NUA"
         ],
         "legendColorDistance": 17.1172
       },
@@ -24324,18 +24388,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-39",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -24430,17 +24495,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-40",
       "validation": {
-        "confidence": 0.6974,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
+          "The stand assignment was manually confirmed against the source PDF."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -24553,7 +24620,7 @@
       ],
       "code": "42",
       "exhibitorIds": [
-        "exhibitor-2m-2m-stefanie-cabanelas"
+        "exhibitor-stefanie-cabanelas"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -24574,10 +24641,11 @@
         "drawingIndex": 495733,
         "excludedDraftingLabels": [
           "2m",
-          "42"
+          "42",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m STEFANIE CABANELAS"
+          "STEFANIE CABANELAS"
         ],
         "legendColorDistance": 16.1555
       },
@@ -24761,7 +24829,7 @@
       ],
       "code": "44",
       "exhibitorIds": [
-        "exhibitor-2m-2m-lote"
+        "exhibitor-lote-42"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -24783,10 +24851,11 @@
         "excludedDraftingLabels": [
           "2m",
           "44",
-          "42"
+          "42",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m LOTE"
+          "LOTE 42"
         ],
         "legendColorDistance": 18.1108
       },
@@ -24970,7 +25039,7 @@
       ],
       "code": "46",
       "exhibitorIds": [
-        "exhibitor-2m-2m-barraco-editorial"
+        "exhibitor-barraco-editorial"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -24991,10 +25060,11 @@
         "drawingIndex": 495737,
         "excludedDraftingLabels": [
           "2m",
-          "46"
+          "46",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m BARRACO EDITORIAL"
+          "BARRACO EDITORIAL"
         ],
         "legendColorDistance": 18.0555
       },
@@ -25176,7 +25246,7 @@
       ],
       "code": "48",
       "exhibitorIds": [
-        "exhibitor-sarau-2m-2m-do-manoelio"
+        "exhibitor-sarau-do-manoelio"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -25197,10 +25267,11 @@
         "drawingIndex": 495739,
         "excludedDraftingLabels": [
           "2m",
-          "48"
+          "48",
+          "2m 2m"
         ],
         "insideLabels": [
-          "SARAU 2m 2m DO MANOÉLIO"
+          "SARAU DO MANOÉLIO"
         ],
         "legendColorDistance": 19.1311
       },
@@ -31946,17 +32017,18 @@
       "streetId": "street-d",
       "svgElementId": "stand-d02",
       "validation": {
-        "confidence": 0.9331,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -33484,18 +33556,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti01",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -33585,18 +33659,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti02",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -33686,18 +33762,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti03",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -33787,18 +33865,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti04",
       "validation": {
-        "confidence": 0.9093,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -33888,18 +33968,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti05",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -33989,18 +34071,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti06",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -34090,18 +34174,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti07",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -34191,18 +34277,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti08",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -34292,18 +34380,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti09",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -34393,18 +34483,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti10",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -34494,18 +34586,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti11",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -34595,18 +34689,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti12",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -34697,18 +34793,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti13",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -34798,18 +34896,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti14",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -34899,18 +34999,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti15",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35000,18 +35102,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti16",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35101,18 +35205,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti17",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35202,18 +35308,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti18",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35303,18 +35411,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti19",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35404,18 +35514,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti20",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35505,18 +35617,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti21",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35606,18 +35720,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti22",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35707,18 +35823,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti23",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35808,18 +35926,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti24",
       "validation": {
-        "confidence": 0.9184,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -35909,18 +36029,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti25",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -36443,7 +36565,7 @@
       ],
       "code": "DD29",
       "exhibitorIds": [
-        "exhibitor-casa-5m-5m-do-novo-autor"
+        "exhibitor-casa-do-novo-autor"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 1,
@@ -36464,10 +36586,13 @@
         "drawingIndex": 495941,
         "excludedDraftingLabels": [
           "DD29",
-          "4m"
+          "4m",
+          "2m",
+          "2m 2m",
+          "5m 5m"
         ],
         "insideLabels": [
-          "CASA 5m 5m DO NOVO AUTOR"
+          "CASA DO NOVO AUTOR"
         ],
         "legendColorDistance": 13.1529
       },
@@ -38915,7 +39040,7 @@
       ],
       "code": "BB18",
       "exhibitorIds": [
-        "exhibitor-clube-5m-5m-do-medo"
+        "exhibitor-clube-do-medo"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 1,
@@ -38936,10 +39061,13 @@
         "drawingIndex": 495897,
         "excludedDraftingLabels": [
           "BB18",
-          "4m"
+          "4m",
+          "2m",
+          "2m 2m",
+          "5m 5m"
         ],
         "insideLabels": [
-          "CLUBE 5m 5m DO MEDO"
+          "CLUBE DO MEDO"
         ],
         "legendColorDistance": 14.0712
       },
@@ -41777,17 +41905,18 @@
       "streetId": "street-a",
       "svgElementId": "stand-a79",
       "validation": {
-        "confidence": 0.9342,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -42287,17 +42416,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa01",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -42388,17 +42518,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa03",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -42488,17 +42619,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa05",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -42588,17 +42720,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa07",
       "validation": {
-        "confidence": 0.9184,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -42689,17 +42822,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa09",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -42790,17 +42924,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa11",
       "validation": {
-        "confidence": 0.9184,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -42895,15 +43030,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa13",
       "validation": {
-        "confidence": 0.709,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
-        "notes": [],
-        "status": "needs-review"
+        "notes": [
+          "The stand assignment was manually confirmed against the source PDF."
+        ],
+        "status": "validated"
       }
     },
     {
@@ -42994,17 +43132,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa27",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -43197,17 +43336,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa31",
       "validation": {
-        "confidence": 0.9184,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -43298,17 +43438,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa33",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -43398,17 +43539,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa41",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -43499,17 +43641,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa43",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -43599,17 +43742,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa45",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {

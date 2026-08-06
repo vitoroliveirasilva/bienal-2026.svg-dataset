@@ -4,60 +4,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m",
-      "name": "2m 2m",
-      "normalizedName": "2m 2m",
+      "id": "exhibitor-artesanato-santista",
+      "name": "ARTESANATO SANTISTA",
+      "normalizedName": "artesanato santista",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m",
-          "standId": "stand-travessa-14"
-        },
-        {
-          "occurrenceIndex": 1,
-          "originalText": "2m 2m",
-          "standId": "stand-travessa-26"
-        }
-      ],
-      "roles": [
-        "exhibitor"
-      ],
-      "slug": "2m-2m",
-      "source": {
-        "file": "BIL26-0526.pdf",
-        "page": 1,
-        "type": "pdf-map"
-      },
-      "standIds": [
-        "stand-travessa-14",
-        "stand-travessa-26"
-      ],
-      "validation": {
-        "confidence": 0.95,
-        "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
-        ],
-        "status": "validated"
-      }
-    },
-    {
-      "categoryIds": [
-        "exhibitor"
-      ],
-      "id": "exhibitor-2m-2m-artesanato-santista",
-      "name": "2m 2m ARTESANATO SANTISTA",
-      "normalizedName": "2m 2m artesanato santista",
-      "occurrences": [
-        {
-          "occurrenceIndex": 1,
-          "originalText": "2m 2m ARTESANATO SANTISTA",
+          "originalText": "ARTESANATO SANTISTA",
           "standId": "stand-travessa-30"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-artesanato-santista",
+      "slug": "artesanato-santista",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -67,31 +27,34 @@
         "stand-travessa-30"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-barraco-editorial",
-      "name": "2m 2m BARRACO EDITORIAL",
-      "normalizedName": "2m 2m barraco editorial",
+      "id": "exhibitor-barraco-editorial",
+      "name": "BARRACO EDITORIAL",
+      "normalizedName": "barraco editorial",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m BARRACO EDITORIAL",
+          "originalText": "BARRACO EDITORIAL",
           "standId": "stand-travessa-46"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-barraco-editorial",
+      "slug": "barraco-editorial",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -101,31 +64,34 @@
         "stand-travessa-46"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-diarios-embu",
-      "name": "2m 2m DIÁRIOS EMBU",
-      "normalizedName": "2m 2m diarios embu",
+      "id": "exhibitor-diarios-embu",
+      "name": "DIÁRIOS EMBU",
+      "normalizedName": "diarios embu",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m DIÁRIOS EMBU",
+          "originalText": "DIÁRIOS EMBU",
           "standId": "stand-travessa-10"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-diarios-embu",
+      "slug": "diarios-embu",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -135,31 +101,34 @@
         "stand-travessa-10"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-editora-nua",
-      "name": "2m 2m EDITORA NUA",
-      "normalizedName": "2m 2m editora nua",
+      "id": "exhibitor-editora-nua",
+      "name": "EDITORA NUA",
+      "normalizedName": "editora nua",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m EDITORA NUA",
+          "originalText": "EDITORA NUA",
           "standId": "stand-travessa-32"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-editora-nua",
+      "slug": "editora-nua",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -169,31 +138,34 @@
         "stand-travessa-32"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-ironita-pereira",
-      "name": "2m 2m IRONITA PEREIRA",
-      "normalizedName": "2m 2m ironita pereira",
+      "id": "exhibitor-ironita-pereira",
+      "name": "IRONITA PEREIRA",
+      "normalizedName": "ironita pereira",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m IRONITA PEREIRA",
+          "originalText": "IRONITA PEREIRA",
           "standId": "stand-travessa-28"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-ironita-pereira",
+      "slug": "ironita-pereira",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -203,31 +175,34 @@
         "stand-travessa-28"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-labuck",
-      "name": "2m 2m LABUCK",
-      "normalizedName": "2m 2m labuck",
+      "id": "exhibitor-labuck",
+      "name": "LABUCK",
+      "normalizedName": "labuck",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m LABUCK",
+          "originalText": "LABUCK",
           "standId": "stand-travessa-12"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-labuck",
+      "slug": "labuck",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -237,31 +212,34 @@
         "stand-travessa-12"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-lote",
-      "name": "2m 2m LOTE",
-      "normalizedName": "2m 2m lote",
+      "id": "exhibitor-lote-42",
+      "name": "LOTE 42",
+      "normalizedName": "lote 42",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m LOTE",
+          "originalText": "LOTE 42",
           "standId": "stand-travessa-44"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-lote",
+      "slug": "lote-42",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -271,31 +249,34 @@
         "stand-travessa-44"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-2m-2m-stefanie-cabanelas",
-      "name": "2m 2m STEFANIE CABANELAS",
-      "normalizedName": "2m 2m stefanie cabanelas",
+      "id": "exhibitor-stefanie-cabanelas",
+      "name": "STEFANIE CABANELAS",
+      "normalizedName": "stefanie cabanelas",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "2m 2m STEFANIE CABANELAS",
+          "originalText": "STEFANIE CABANELAS",
           "standId": "stand-travessa-42"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "2m-2m-stefanie-cabanelas",
+      "slug": "stefanie-cabanelas",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -305,11 +286,14 @@
         "stand-travessa-42"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -1300,20 +1284,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-casa-5m-5m-do-novo-autor",
-      "name": "CASA 5m 5m DO NOVO AUTOR",
-      "normalizedName": "casa 5m 5m do novo autor",
+      "id": "exhibitor-casa-do-novo-autor",
+      "name": "CASA DO NOVO AUTOR",
+      "normalizedName": "casa do novo autor",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "CASA 5m 5m DO NOVO AUTOR",
+          "originalText": "CASA DO NOVO AUTOR",
           "standId": "stand-dd29"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "casa-5m-5m-do-novo-autor",
+      "slug": "casa-do-novo-autor",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -1323,11 +1307,14 @@
         "stand-dd29"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -1580,20 +1567,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-clube-5m-5m-do-medo",
-      "name": "CLUBE 5m 5m DO MEDO",
-      "normalizedName": "clube 5m 5m do medo",
+      "id": "exhibitor-clube-do-medo",
+      "name": "CLUBE DO MEDO",
+      "normalizedName": "clube do medo",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "CLUBE 5m 5m DO MEDO",
+          "originalText": "CLUBE DO MEDO",
           "standId": "stand-bb18"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "clube-5m-5m-do-medo",
+      "slug": "clube-do-medo",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -1603,11 +1590,14 @@
         "stand-bb18"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -5628,20 +5618,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-o-2m-2m-livro-do-conhecimento",
-      "name": "O 2m 2m LIVRO DO CONHECIMENTO",
-      "normalizedName": "o 2m 2m livro do conhecimento",
+      "id": "exhibitor-o-livro-do-conhecimento",
+      "name": "O LIVRO DO CONHECIMENTO",
+      "normalizedName": "o livro do conhecimento",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "O 2m 2m LIVRO DO CONHECIMENTO",
+          "originalText": "O LIVRO DO CONHECIMENTO",
           "standId": "stand-travessa-16"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "o-2m-2m-livro-do-conhecimento",
+      "slug": "o-livro-do-conhecimento",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -5651,11 +5641,14 @@
         "stand-travessa-16"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -6502,20 +6495,20 @@
       "categoryIds": [
         "exhibitor"
       ],
-      "id": "exhibitor-sarau-2m-2m-do-manoelio",
-      "name": "SARAU 2m 2m DO MANOÉLIO",
-      "normalizedName": "sarau 2m 2m do manoelio",
+      "id": "exhibitor-sarau-do-manoelio",
+      "name": "SARAU DO MANOÉLIO",
+      "normalizedName": "sarau do manoelio",
       "occurrences": [
         {
           "occurrenceIndex": 1,
-          "originalText": "SARAU 2m 2m DO MANOÉLIO",
+          "originalText": "SARAU DO MANOÉLIO",
           "standId": "stand-travessa-48"
         }
       ],
       "roles": [
         "exhibitor"
       ],
-      "slug": "sarau-2m-2m-do-manoelio",
+      "slug": "sarau-do-manoelio",
       "source": {
         "file": "BIL26-0526.pdf",
         "page": 1,
@@ -6525,11 +6518,14 @@
         "stand-travessa-48"
       ],
       "validation": {
-        "confidence": 0.95,
+        "confidence": 0.99,
         "notes": [
-          "Exact normalized-name grouping only; no fuzzy deduplication was applied."
+          "Drafting dimension labels were removed after manual comparison with the source PDF."
         ],
-        "status": "validated"
+        "status": "validated",
+        "evidence": [
+          "manual-visual-review-against-source-pdf"
+        ]
       }
     },
     {
@@ -7451,7 +7447,7 @@
       }
     }
   ],
-  "generatedAt": "2026-08-05T23:24:59Z",
+  "generatedAt": "2026-08-06T00:55:17Z",
   "schemaVersion": "1.0.0",
   "source": {
     "file": "BIL26-0526.pdf",

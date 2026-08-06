@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T23:24:59Z",
+  "generatedAt": "2026-08-06T00:55:17Z",
   "pointOfInterestCategories": [
     {
       "categoryId": "cultural-activity",
@@ -356,6 +356,10 @@
     {
       "categoryId": "exhibitor",
       "standId": "stand-travessa-12"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-13"
     },
     {
       "categoryId": "exhibitor",
@@ -1488,7 +1492,7 @@
       "standId": "stand-travessa-09"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m-diarios-embu",
+      "exhibitorId": "exhibitor-diarios-embu",
       "standId": "stand-travessa-10"
     },
     {
@@ -1496,7 +1500,7 @@
       "standId": "stand-travessa-11"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m-labuck",
+      "exhibitorId": "exhibitor-labuck",
       "standId": "stand-travessa-12"
     },
     {
@@ -1504,15 +1508,11 @@
       "standId": "stand-travessa-13"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m",
-      "standId": "stand-travessa-14"
-    },
-    {
       "exhibitorId": "exhibitor-editora-pulo-do-gato",
       "standId": "stand-travessa-15"
     },
     {
-      "exhibitorId": "exhibitor-o-2m-2m-livro-do-conhecimento",
+      "exhibitorId": "exhibitor-o-livro-do-conhecimento",
       "standId": "stand-travessa-16"
     },
     {
@@ -1600,10 +1600,6 @@
       "standId": "stand-travessa-25"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m",
-      "standId": "stand-travessa-26"
-    },
-    {
       "exhibitorId": "exhibitor-compartilhagem",
       "standId": "stand-travessa-26"
     },
@@ -1612,7 +1608,7 @@
       "standId": "stand-travessa-27"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m-ironita-pereira",
+      "exhibitorId": "exhibitor-ironita-pereira",
       "standId": "stand-travessa-28"
     },
     {
@@ -1620,7 +1616,7 @@
       "standId": "stand-travessa-29"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m-artesanato-santista",
+      "exhibitorId": "exhibitor-artesanato-santista",
       "standId": "stand-travessa-30"
     },
     {
@@ -1628,7 +1624,7 @@
       "standId": "stand-travessa-31"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m-editora-nua",
+      "exhibitorId": "exhibitor-editora-nua",
       "standId": "stand-travessa-32"
     },
     {
@@ -1680,7 +1676,7 @@
       "standId": "stand-travessa-41"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m-stefanie-cabanelas",
+      "exhibitorId": "exhibitor-stefanie-cabanelas",
       "standId": "stand-travessa-42"
     },
     {
@@ -1688,7 +1684,7 @@
       "standId": "stand-travessa-43"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m-lote",
+      "exhibitorId": "exhibitor-lote-42",
       "standId": "stand-travessa-44"
     },
     {
@@ -1696,11 +1692,11 @@
       "standId": "stand-travessa-45"
     },
     {
-      "exhibitorId": "exhibitor-2m-2m-barraco-editorial",
+      "exhibitorId": "exhibitor-barraco-editorial",
       "standId": "stand-travessa-46"
     },
     {
-      "exhibitorId": "exhibitor-sarau-2m-2m-do-manoelio",
+      "exhibitorId": "exhibitor-sarau-do-manoelio",
       "standId": "stand-travessa-48"
     },
     {
@@ -2012,7 +2008,7 @@
       "standId": "stand-dd27"
     },
     {
-      "exhibitorId": "exhibitor-casa-5m-5m-do-novo-autor",
+      "exhibitorId": "exhibitor-casa-do-novo-autor",
       "standId": "stand-dd29"
     },
     {
@@ -2108,7 +2104,7 @@
       "standId": "stand-bb16"
     },
     {
-      "exhibitorId": "exhibitor-clube-5m-5m-do-medo",
+      "exhibitorId": "exhibitor-clube-do-medo",
       "standId": "stand-bb18"
     },
     {

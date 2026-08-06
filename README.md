@@ -19,7 +19,7 @@ O repositório contém o mapa em SVG, catálogos JSON, schemas de validação, p
 - `data/exhibitors.json`: expositores e estandes associados;
 - `data/points-of-interest.json`: acessos, serviços e demais pontos de interesse;
 - `data/catalog.json`: visão consolidada dos dados;
-- `data/unresolved-items.json`: itens que ainda precisam de revisão.
+- `data/unresolved-items.json`: lacunas da fonte que não puderam ser resolvidas.
 
 ## Coordenadas
 
@@ -47,7 +47,7 @@ element?.classList.add("is-selected");
 
 ## Validação
 
-Os JSONs foram validados contra seus schemas. Também foram verificados o SVG, os IDs, as referências cruzadas, as geometrias e a renderização visual.
+Os JSONs foram validados contra seus schemas. Também foram verificados o SVG, os IDs, as referências cruzadas, as geometrias, a renderização visual e os itens que exigiam revisão manual.
 
 Consulte `reports/validation-report.md` e `data/validation-results.json`.
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T23:24:59Z",
+  "generatedAt": "2026-08-06T00:55:17Z",
   "pointsOfInterest": [
     {
       "categoryIds": [],
@@ -27,7 +27,7 @@
           "y": 0.15162601
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-03",
       "name": "Portão 8",
@@ -42,14 +42,15 @@
       "svgElementId": "poi-gate-03",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -78,7 +79,7 @@
           "y": 0.15683149
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-04",
       "name": "Portão 6",
@@ -93,14 +94,15 @@
       "svgElementId": "poi-gate-04",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -129,7 +131,7 @@
           "y": 0.20849062
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-02",
       "name": "Portão 7",
@@ -144,14 +146,15 @@
       "svgElementId": "poi-gate-02",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -180,7 +183,7 @@
           "y": 0.20906071
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-05",
       "name": "Portão 10",
@@ -195,14 +198,15 @@
       "svgElementId": "poi-gate-05",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -486,7 +490,7 @@
           "y": 0.23469222
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-04",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -501,14 +505,15 @@
       "svgElementId": "poi-emergency-exit-04",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -537,7 +542,7 @@
           "y": 0.23469222
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-05",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -552,14 +557,15 @@
       "svgElementId": "poi-emergency-exit-05",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -588,7 +594,7 @@
           "y": 0.23469222
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-06",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -603,14 +609,15 @@
       "svgElementId": "poi-emergency-exit-06",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -639,7 +646,7 @@
           "y": 0.23469222
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-07",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -654,14 +661,15 @@
       "svgElementId": "poi-emergency-exit-07",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -690,7 +698,7 @@
           "y": 0.23483473
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-08",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -705,14 +713,15 @@
       "svgElementId": "poi-emergency-exit-08",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -1103,7 +1112,7 @@
           "y": 0.29241635
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-01",
       "name": "IF08",
@@ -1118,14 +1127,15 @@
       "svgElementId": "poi-infrastructure-marker-01",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -1430,7 +1440,7 @@
           "y": 0.36881856
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-street-01",
       "name": "TRAVESSA LITERÁRIA",
@@ -1445,14 +1455,15 @@
       "svgElementId": "poi-street-01",
       "type": "street",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -1555,7 +1566,7 @@
           "y": 0.3816325
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-02",
       "name": "IF07",
@@ -1570,14 +1581,15 @@
       "svgElementId": "poi-infrastructure-marker-02",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -1606,7 +1618,7 @@
           "y": 0.39110553
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-03",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -1621,14 +1633,15 @@
       "svgElementId": "poi-emergency-exit-03",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -1761,7 +1774,7 @@
           "y": 0.42816459
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-03",
       "name": "IF01",
@@ -1776,14 +1789,15 @@
       "svgElementId": "poi-infrastructure-marker-03",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -1812,7 +1826,7 @@
           "y": 0.45877543
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-street-02",
       "name": "RUA MASSINET",
@@ -1827,14 +1841,15 @@
       "svgElementId": "poi-street-02",
       "type": "street",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -2141,7 +2156,7 @@
           "y": 0.50362779
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-04",
       "name": "IF06",
@@ -2156,14 +2171,15 @@
       "svgElementId": "poi-infrastructure-marker-04",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -2192,7 +2208,7 @@
           "y": 0.51616489
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-02",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -2207,14 +2223,15 @@
       "svgElementId": "poi-emergency-exit-02",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -2809,7 +2826,7 @@
           "y": 0.58856839
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-05",
       "name": "IF05",
@@ -2824,14 +2841,15 @@
       "svgElementId": "poi-infrastructure-marker-05",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -2860,7 +2878,7 @@
           "y": 0.59121762
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-alameda-01",
       "name": "ALAMEDA DOS ARTISTAS BY BIC",
@@ -2875,14 +2893,15 @@
       "svgElementId": "poi-alameda-01",
       "type": "alameda",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -2962,7 +2981,7 @@
           "y": 0.60174684
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-emergency-exit-01",
       "name": "SAÍDA DE EMERGÊNCIA",
@@ -2977,14 +2996,15 @@
       "svgElementId": "poi-emergency-exit-01",
       "type": "emergency-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3015,7 +3035,7 @@
           "y": 0.60880595
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-06",
       "name": "IF09",
@@ -3030,14 +3050,15 @@
       "svgElementId": "poi-infrastructure-marker-06",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3170,7 +3191,7 @@
           "y": 0.61229762
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-07",
       "name": "IF10",
@@ -3185,14 +3206,15 @@
       "svgElementId": "poi-infrastructure-marker-07",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3221,7 +3243,7 @@
           "y": 0.61955809
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-female-restroom-02",
       "name": "BANHEIRO FEMININO",
@@ -3236,14 +3258,15 @@
       "svgElementId": "poi-female-restroom-02",
       "type": "female-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3272,7 +3295,7 @@
           "y": 0.62012813
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-female-restroom-01",
       "name": "BANHEIRO FEMININO",
@@ -3287,14 +3310,15 @@
       "svgElementId": "poi-female-restroom-01",
       "type": "female-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3323,7 +3347,7 @@
           "y": 0.62198086
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-male-restroom-02",
       "name": "BANHEIRO MASCULINO",
@@ -3338,14 +3362,15 @@
       "svgElementId": "poi-male-restroom-02",
       "type": "male-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3374,7 +3399,7 @@
           "y": 0.62262217
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-male-restroom-01",
       "name": "BANHEIRO MASCULINO",
@@ -3389,14 +3414,15 @@
       "svgElementId": "poi-male-restroom-01",
       "type": "male-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3425,7 +3451,7 @@
           "y": 0.62590009
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accessible-restroom-04",
       "name": "BANHEIRO PNE",
@@ -3440,14 +3466,15 @@
       "svgElementId": "poi-accessible-restroom-04",
       "type": "accessible-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3476,7 +3503,7 @@
           "y": 0.62647014
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accessible-restroom-03",
       "name": "BANHEIRO PNE",
@@ -3491,14 +3518,15 @@
       "svgElementId": "poi-accessible-restroom-03",
       "type": "accessible-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3527,7 +3555,7 @@
           "y": 0.63017559
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accessible-restroom-02",
       "name": "BANHEIRO PNE",
@@ -3542,14 +3570,15 @@
       "svgElementId": "poi-accessible-restroom-02",
       "type": "accessible-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3578,7 +3607,7 @@
           "y": 0.63074571
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accessible-restroom-01",
       "name": "BANHEIRO PNE",
@@ -3593,14 +3622,15 @@
       "svgElementId": "poi-accessible-restroom-01",
       "type": "accessible-restroom",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3629,7 +3659,7 @@
           "y": 0.63074571
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-restrooms-01",
       "name": "BANHEIROS",
@@ -3644,14 +3674,15 @@
       "svgElementId": "poi-restrooms-01",
       "type": "restrooms",
       "validation": {
-        "confidence": 0.8,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The label is in the architectural service area and is preserved as shown."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3731,7 +3762,7 @@
           "y": 0.64899367
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-information-desk-01",
       "name": "BALCÃO DE INFORMAÇÃO",
@@ -3746,14 +3777,15 @@
       "svgElementId": "poi-information-desk-01",
       "type": "information-desk",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3782,7 +3814,7 @@
           "y": 0.64956379
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-information-desk-02",
       "name": "BALCÃO DE INFORMAÇÃO",
@@ -3797,14 +3829,15 @@
       "svgElementId": "poi-information-desk-02",
       "type": "information-desk",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3833,7 +3866,7 @@
           "y": 0.65020509
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-information-desk-03",
       "name": "BALCÃO DE INFORMAÇÃO",
@@ -3848,14 +3881,15 @@
       "svgElementId": "poi-information-desk-03",
       "type": "information-desk",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -3988,7 +4022,7 @@
           "y": 0.66502924
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-08",
       "name": "IF04",
@@ -4003,14 +4037,15 @@
       "svgElementId": "poi-infrastructure-marker-08",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4092,7 +4127,7 @@
           "y": 0.68954225
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-09",
       "name": "IF04A",
@@ -4107,14 +4142,15 @@
       "svgElementId": "poi-infrastructure-marker-09",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4319,7 +4355,7 @@
           "y": 0.70643065
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-10",
       "name": "IF02",
@@ -4334,14 +4370,15 @@
       "svgElementId": "poi-infrastructure-marker-10",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4421,7 +4458,7 @@
           "y": 0.7244051
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-01",
       "name": "Portão 5",
@@ -4436,14 +4473,15 @@
       "svgElementId": "poi-gate-01",
       "type": "gate",
       "validation": {
-        "confidence": 0.78,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4474,7 +4512,7 @@
           "y": 0.72303395
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-infrastructure-marker-11",
       "name": "IF03",
@@ -4489,14 +4527,15 @@
       "svgElementId": "poi-infrastructure-marker-11",
       "type": "infrastructure-marker",
       "validation": {
-        "confidence": 0.72,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "The IF prefix appears next to infrastructure symbols and was intentionally not treated as an exhibitor stand."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4525,7 +4564,7 @@
           "y": 0.72688848
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-accreditation-01",
       "name": "CREDENCIAMENTO",
@@ -4540,14 +4579,15 @@
       "svgElementId": "poi-accreditation-01",
       "type": "accreditation",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4576,7 +4616,7 @@
           "y": 0.73290345
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-professional-access-01",
       "name": "ACESSO PROFISSIONAIS DO SETOR /PROFESSORES",
@@ -4591,14 +4631,15 @@
       "svgElementId": "poi-professional-access-01",
       "type": "professional-access",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4627,7 +4668,7 @@
           "y": 0.73345813
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-public-entrance-01",
       "name": "ENTRADA PÚBLICO",
@@ -4642,14 +4683,15 @@
       "svgElementId": "poi-public-entrance-01",
       "type": "public-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4678,7 +4720,7 @@
           "y": 0.73782026
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-professional-access-02",
       "name": "ACESSO PROFISSIONAIS DO SETOR /PROFESSORES",
@@ -4693,14 +4735,15 @@
       "svgElementId": "poi-professional-access-02",
       "type": "professional-access",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4945,7 +4988,7 @@
           "y": 0.74287965
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-professional-access-03",
       "name": "ACESSO PROFISSIONAIS DO SETOR /PROFESSORES",
@@ -4960,14 +5003,15 @@
       "svgElementId": "poi-professional-access-03",
       "type": "professional-access",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -4996,7 +5040,7 @@
           "y": 0.76895265
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-exhibitor-entrance-01",
       "name": "ENTRADA EXPOSITORES",
@@ -5011,14 +5055,15 @@
       "svgElementId": "poi-exhibitor-entrance-01",
       "type": "exhibitor-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -5047,7 +5092,7 @@
           "y": 0.77429707
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-exhibitor-entrance-02",
       "name": "ENTRADA EXPOSITORES",
@@ -5062,14 +5107,15 @@
       "svgElementId": "poi-exhibitor-entrance-02",
       "type": "exhibitor-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -5353,7 +5399,7 @@
           "y": 0.79540407
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-public-entrance-02",
       "name": "ENTRADA PÚBLICO",
@@ -5368,14 +5414,15 @@
       "svgElementId": "poi-public-entrance-02",
       "type": "public-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -5404,7 +5451,7 @@
           "y": 0.80666324
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-entry-flow-01",
       "name": "FLUXO DE ENTRADA",
@@ -5419,14 +5466,15 @@
       "svgElementId": "poi-entry-flow-01",
       "type": "entry-flow",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -5455,7 +5503,7 @@
           "y": 0.83481023
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-exhibitor-entrance-03",
       "name": "ENTRADA EXPOSITORES",
@@ -5470,14 +5518,15 @@
       "svgElementId": "poi-exhibitor-entrance-03",
       "type": "exhibitor-entrance",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -5506,7 +5555,7 @@
           "y": 0.85041595
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-public-exit-01",
       "name": "SAÍDA PÚBLICO",
@@ -5521,14 +5570,15 @@
       "svgElementId": "poi-public-exit-01",
       "type": "public-exit",
       "validation": {
-        "confidence": 0.88,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -5557,7 +5607,7 @@
           "y": 0.89882553
         },
         "type": "Point",
-        "validated": false
+        "validated": true
       },
       "id": "poi-gate-06",
       "name": "Portão",
@@ -5572,14 +5622,15 @@
       "svgElementId": "poi-gate-06",
       "type": "gate",
       "validation": {
-        "confidence": 0.62,
+        "confidence": 0.95,
         "evidence": [
-          "position-of-visible-text-label"
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     }
   ],

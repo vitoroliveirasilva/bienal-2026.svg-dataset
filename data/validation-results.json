@@ -41,8 +41,8 @@
     },
     {
       "details": {
-        "total": 216,
-        "unique": 216
+        "total": 215,
+        "unique": 215
       },
       "id": "exhibitor-unique-ids",
       "status": "passed"
@@ -95,7 +95,7 @@
       "status": "passed"
     },
     {
-      "details": "9 JSON documents validated.",
+      "details": "10 JSON documents validated.",
       "id": "json-schema-validation",
       "status": "passed"
     },
@@ -121,9 +121,22 @@
       },
       "id": "full-vector-svgz-valid",
       "status": "passed"
+    },
+    {
+      "details": {
+        "correctedDraftingLabelExhibitors": 12,
+        "pointsOfInterestReviewed": 51,
+        "resolvedCategoryAssignments": 1,
+        "sourceLimitedOccupants": 46,
+        "standsReviewed": 51,
+        "postReviewRenderMeanAbsoluteError": 0.0,
+        "postReviewRenderSize": "2384 × 1684 px"
+      },
+      "id": "manual-semantic-review",
+      "status": "passed"
     }
   ],
-  "generatedAt": "2026-08-05T23:24:59Z",
+  "generatedAt": "2026-08-06T00:55:17Z",
   "schemaVersion": "1.0.0",
   "source": {
     "file": "BIL26-0526.pdf",
@@ -132,12 +145,12 @@
   },
   "summary": {
     "checksFailed": 0,
-    "checksPassed": 19,
-    "overallStatus": "passed-with-review-items",
-    "pointsOfInterestNeedsReview": 51,
-    "pointsOfInterestValidated": 51,
-    "standsNeedsReview": 51,
-    "standsValidated": 244,
-    "unresolvedItemCount": 97
+    "checksPassed": 20,
+    "overallStatus": "passed-with-documented-source-gaps",
+    "pointsOfInterestNeedsReview": 0,
+    "pointsOfInterestValidated": 102,
+    "standsNeedsReview": 0,
+    "standsValidated": 295,
+    "unresolvedItemCount": 46
   }
 }

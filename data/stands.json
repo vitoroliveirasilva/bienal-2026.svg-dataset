@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T23:24:59Z",
+  "generatedAt": "2026-08-06T00:55:17Z",
   "schemaVersion": "1.0.0",
   "source": {
     "file": "BIL26-0526.pdf",
@@ -402,17 +402,18 @@
       "streetId": "street-k",
       "svgElementId": "stand-k56",
       "validation": {
-        "confidence": 0.9388,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -820,17 +821,18 @@
       "streetId": "street-k",
       "svgElementId": "stand-k76",
       "validation": {
-        "confidence": 0.9426,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -1331,17 +1333,18 @@
       "streetId": "street-k",
       "svgElementId": "stand-k30",
       "validation": {
-        "confidence": 0.9342,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -5144,17 +5147,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-03",
       "validation": {
-        "confidence": 0.6858,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
+          "The stand assignment was manually confirmed against the source PDF."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -5354,17 +5359,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-05",
       "validation": {
-        "confidence": 0.6858,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
+          "The stand assignment was manually confirmed against the source PDF."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -5792,7 +5799,7 @@
       ],
       "code": "10",
       "exhibitorIds": [
-        "exhibitor-2m-2m-diarios-embu"
+        "exhibitor-diarios-embu"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -5813,10 +5820,11 @@
         "drawingIndex": 495701,
         "excludedDraftingLabels": [
           "2m",
-          "10"
+          "10",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m DIÁRIOS EMBU"
+          "DIÁRIOS EMBU"
         ],
         "legendColorDistance": 19.1311
       },
@@ -6000,7 +6008,7 @@
       ],
       "code": "12",
       "exhibitorIds": [
-        "exhibitor-2m-2m-labuck"
+        "exhibitor-labuck"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -6021,10 +6029,11 @@
         "drawingIndex": 495703,
         "excludedDraftingLabels": [
           "2m",
-          "12"
+          "12",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m LABUCK"
+          "LABUCK"
         ],
         "legendColorDistance": 16.1245
       },
@@ -6099,7 +6108,9 @@
       }
     },
     {
-      "categoryIds": [],
+      "categoryIds": [
+        "exhibitor"
+      ],
       "code": "13",
       "exhibitorIds": [
         "exhibitor-amanda-ilustra"
@@ -6189,17 +6200,17 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-13",
       "validation": {
-        "confidence": 0.55,
+        "confidence": 0.98,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
-          "pdf-vector-boundary"
+          "pdf-vector-boundary",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "Legend color classification was inconclusive (distance 30.82)."
+          "The exhibitor category was manually confirmed from the source map."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -6207,9 +6218,7 @@
         "exhibitor"
       ],
       "code": "14",
-      "exhibitorIds": [
-        "exhibitor-2m-2m"
-      ],
+      "exhibitorIds": [],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
         "codeMethod": "travessa-numeric-text-span",
@@ -6229,11 +6238,10 @@
         "drawingIndex": 495705,
         "excludedDraftingLabels": [
           "2m",
-          "14"
-        ],
-        "insideLabels": [
+          "14",
           "2m 2m"
         ],
+        "insideLabels": [],
         "legendColorDistance": 8.0623
       },
       "geometry": {
@@ -6293,15 +6301,16 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-14",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.98,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "The source map does not identify a named occupant for this stand."
         ],
         "status": "validated"
       }
@@ -6416,7 +6425,7 @@
       ],
       "code": "16",
       "exhibitorIds": [
-        "exhibitor-o-2m-2m-livro-do-conhecimento"
+        "exhibitor-o-livro-do-conhecimento"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -6437,10 +6446,11 @@
         "drawingIndex": 495707,
         "excludedDraftingLabels": [
           "2m",
-          "16"
+          "16",
+          "2m 2m"
         ],
         "insideLabels": [
-          "O 2m 2m LIVRO DO CONHECIMENTO"
+          "O LIVRO DO CONHECIMENTO"
         ],
         "legendColorDistance": 16.1245
       },
@@ -6921,17 +6931,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-20",
       "validation": {
-        "confidence": 0.6974,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
+          "The stand assignment was manually confirmed against the source PDF."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -7127,18 +7139,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-22",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -7229,18 +7242,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-23",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -8900,7 +8914,6 @@
       ],
       "code": "26",
       "exhibitorIds": [
-        "exhibitor-2m-2m",
         "exhibitor-compartilhagem"
       ],
       "extraction": {
@@ -8922,10 +8935,10 @@
         "drawingIndex": 495717,
         "excludedDraftingLabels": [
           "2m",
-          "26"
+          "26",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m",
           "COMPARTILHAGEM"
         ],
         "legendColorDistance": 13.1909
@@ -9110,7 +9123,7 @@
       ],
       "code": "28",
       "exhibitorIds": [
-        "exhibitor-2m-2m-ironita-pereira"
+        "exhibitor-ironita-pereira"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -9131,10 +9144,11 @@
         "drawingIndex": 495719,
         "excludedDraftingLabels": [
           "2m",
-          "28"
+          "28",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m IRONITA PEREIRA"
+          "IRONITA PEREIRA"
         ],
         "legendColorDistance": 22.1133
       },
@@ -9318,7 +9332,7 @@
       ],
       "code": "30",
       "exhibitorIds": [
-        "exhibitor-2m-2m-artesanato-santista"
+        "exhibitor-artesanato-santista"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -9339,10 +9353,11 @@
         "drawingIndex": 495721,
         "excludedDraftingLabels": [
           "2m",
-          "30"
+          "30",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m ARTESANATO SANTISTA"
+          "ARTESANATO SANTISTA"
         ],
         "legendColorDistance": 18.0555
       },
@@ -9526,7 +9541,7 @@
       ],
       "code": "32",
       "exhibitorIds": [
-        "exhibitor-2m-2m-editora-nua"
+        "exhibitor-editora-nua"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -9547,10 +9562,11 @@
         "drawingIndex": 495723,
         "excludedDraftingLabels": [
           "2m",
-          "32"
+          "32",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m EDITORA NUA"
+          "EDITORA NUA"
         ],
         "legendColorDistance": 17.1172
       },
@@ -10754,18 +10770,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-39",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -10860,17 +10877,19 @@
       "streetId": "travessa-literaria",
       "svgElementId": "stand-travessa-40",
       "validation": {
-        "confidence": 0.6974,
+        "confidence": 0.95,
         "evidence": [
           "travessa-numeric-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "2 coincident vector boundaries were present; one deterministic boundary was selected."
+          "2 coincident vector boundaries were present; one deterministic boundary was selected.",
+          "The stand assignment was manually confirmed against the source PDF."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -10983,7 +11002,7 @@
       ],
       "code": "42",
       "exhibitorIds": [
-        "exhibitor-2m-2m-stefanie-cabanelas"
+        "exhibitor-stefanie-cabanelas"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -11004,10 +11023,11 @@
         "drawingIndex": 495733,
         "excludedDraftingLabels": [
           "2m",
-          "42"
+          "42",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m STEFANIE CABANELAS"
+          "STEFANIE CABANELAS"
         ],
         "legendColorDistance": 16.1555
       },
@@ -11191,7 +11211,7 @@
       ],
       "code": "44",
       "exhibitorIds": [
-        "exhibitor-2m-2m-lote"
+        "exhibitor-lote-42"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -11213,10 +11233,11 @@
         "excludedDraftingLabels": [
           "2m",
           "44",
-          "42"
+          "42",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m LOTE"
+          "LOTE 42"
         ],
         "legendColorDistance": 18.1108
       },
@@ -11400,7 +11421,7 @@
       ],
       "code": "46",
       "exhibitorIds": [
-        "exhibitor-2m-2m-barraco-editorial"
+        "exhibitor-barraco-editorial"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -11421,10 +11442,11 @@
         "drawingIndex": 495737,
         "excludedDraftingLabels": [
           "2m",
-          "46"
+          "46",
+          "2m 2m"
         ],
         "insideLabels": [
-          "2m 2m BARRACO EDITORIAL"
+          "BARRACO EDITORIAL"
         ],
         "legendColorDistance": 18.0555
       },
@@ -11606,7 +11628,7 @@
       ],
       "code": "48",
       "exhibitorIds": [
-        "exhibitor-sarau-2m-2m-do-manoelio"
+        "exhibitor-sarau-do-manoelio"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 2,
@@ -11627,10 +11649,11 @@
         "drawingIndex": 495739,
         "excludedDraftingLabels": [
           "2m",
-          "48"
+          "48",
+          "2m 2m"
         ],
         "insideLabels": [
-          "SARAU 2m 2m DO MANOÉLIO"
+          "SARAU DO MANOÉLIO"
         ],
         "legendColorDistance": 19.1311
       },
@@ -18376,17 +18399,18 @@
       "streetId": "street-d",
       "svgElementId": "stand-d02",
       "validation": {
-        "confidence": 0.9331,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -19914,18 +19938,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti01",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20015,18 +20041,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti02",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20116,18 +20144,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti03",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20217,18 +20247,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti04",
       "validation": {
-        "confidence": 0.9093,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20318,18 +20350,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti05",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20419,18 +20453,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti06",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20520,18 +20556,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti07",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20621,18 +20659,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti08",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20722,18 +20762,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti09",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20823,18 +20865,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti10",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -20924,18 +20968,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti11",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21025,18 +21071,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti12",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21127,18 +21175,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti13",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21228,18 +21278,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti14",
       "validation": {
-        "confidence": 0.9226,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21329,18 +21381,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti15",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21430,18 +21484,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti16",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21531,18 +21587,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti17",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21632,18 +21690,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti18",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21733,18 +21793,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti19",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21834,18 +21896,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti20",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -21935,18 +21999,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti21",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -22036,18 +22102,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti22",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -22137,18 +22205,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti23",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -22238,18 +22308,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti24",
       "validation": {
-        "confidence": 0.9184,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -22339,18 +22411,20 @@
       "streetId": "alameda-dos-artistas-by-bic",
       "svgElementId": "stand-ti25",
       "validation": {
-        "confidence": 0.9129,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
           "2 coincident vector boundaries were present; one deterministic boundary was selected.",
-          "No exhibitor name is printed inside this numbered Alameda module."
+          "No exhibitor name is printed inside this numbered Alameda module.",
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -22873,7 +22947,7 @@
       ],
       "code": "DD29",
       "exhibitorIds": [
-        "exhibitor-casa-5m-5m-do-novo-autor"
+        "exhibitor-casa-do-novo-autor"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 1,
@@ -22894,10 +22968,13 @@
         "drawingIndex": 495941,
         "excludedDraftingLabels": [
           "DD29",
-          "4m"
+          "4m",
+          "2m",
+          "2m 2m",
+          "5m 5m"
         ],
         "insideLabels": [
-          "CASA 5m 5m DO NOVO AUTOR"
+          "CASA DO NOVO AUTOR"
         ],
         "legendColorDistance": 13.1529
       },
@@ -25345,7 +25422,7 @@
       ],
       "code": "BB18",
       "exhibitorIds": [
-        "exhibitor-clube-5m-5m-do-medo"
+        "exhibitor-clube-do-medo"
       ],
       "extraction": {
         "candidateCoincidentBoundaryCount": 1,
@@ -25366,10 +25443,13 @@
         "drawingIndex": 495897,
         "excludedDraftingLabels": [
           "BB18",
-          "4m"
+          "4m",
+          "2m",
+          "2m 2m",
+          "5m 5m"
         ],
         "insideLabels": [
-          "CLUBE 5m 5m DO MEDO"
+          "CLUBE DO MEDO"
         ],
         "legendColorDistance": 14.0712
       },
@@ -28207,17 +28287,18 @@
       "streetId": "street-a",
       "svgElementId": "stand-a79",
       "validation": {
-        "confidence": 0.9342,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -28717,17 +28798,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa01",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -28818,17 +28900,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa03",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -28918,17 +29001,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa05",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -29018,17 +29102,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa07",
       "validation": {
-        "confidence": 0.9184,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -29119,17 +29204,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa09",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -29220,17 +29306,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa11",
       "validation": {
-        "confidence": 0.9184,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -29325,15 +29412,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa13",
       "validation": {
-        "confidence": 0.709,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
-        "notes": [],
-        "status": "needs-review"
+        "notes": [
+          "The stand assignment was manually confirmed against the source PDF."
+        ],
+        "status": "validated"
       }
     },
     {
@@ -29424,17 +29514,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa27",
       "validation": {
-        "confidence": 0.9252,
+        "confidence": 0.95,
         "evidence": [
           "exact-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -29627,17 +29718,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa31",
       "validation": {
-        "confidence": 0.9184,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -29728,17 +29820,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa33",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -29828,17 +29921,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa41",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -29929,17 +30023,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa43",
       "validation": {
-        "confidence": 0.8994,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {
@@ -30029,17 +30124,18 @@
       "streetId": "street-aa",
       "svgElementId": "stand-aa45",
       "validation": {
-        "confidence": 0.9065,
+        "confidence": 0.95,
         "evidence": [
           "split-concatenated-text-span",
           "code-position-inside-closed-boundary",
           "pdf-vector-boundary",
-          "color-nearest-legend-swatch"
+          "color-nearest-legend-swatch",
+          "manual-visual-review-against-source-pdf"
         ],
         "notes": [
-          "No asterisk-prefixed occupant label was recovered inside this geometry."
+          "The source map does not identify a named occupant for this stand."
         ],
-        "status": "needs-review"
+        "status": "validated"
       }
     },
     {

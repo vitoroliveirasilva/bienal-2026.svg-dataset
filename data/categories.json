@@ -232,6 +232,7 @@
         "stand-travessa-10",
         "stand-travessa-11",
         "stand-travessa-12",
+        "stand-travessa-13",
         "stand-travessa-14",
         "stand-travessa-15",
         "stand-travessa-16",
@@ -473,7 +474,7 @@
       "visualRepresentation": "legend-swatch"
     }
   ],
-  "generatedAt": "2026-08-05T23:24:59Z",
+  "generatedAt": "2026-08-06T00:55:17Z",
   "schemaVersion": "1.0.0",
   "source": {
     "file": "BIL26-0526.pdf",

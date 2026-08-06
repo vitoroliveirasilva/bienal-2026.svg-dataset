@@ -13,11 +13,12 @@ O dataset foi gerado a partir do arquivo `BIL26-0526.pdf`, que não está inclu�
 ## Resultado
 
 - Estandes e módulos: **295**
-- Expositores e ocupantes: **216**
+- Expositores e ocupantes identificados: **215**
 - Categorias: **6**
 - Pontos de interesse: **102**
-- Estandes validados: **244**
-- Estandes que precisam de revisão: **51**
+- Estandes validados: **295**
+- Estandes aguardando revisão: **0**
+- Estandes sem ocupante identificado na fonte: **46**
 
 ## Método
 
@@ -26,6 +27,7 @@ O dataset foi gerado a partir do arquivo `BIL26-0526.pdf`, que não está inclu�
 3. Associação dos códigos aos menores contornos compatíveis;
 4. Reconstrução dos nomes presentes em cada área;
 5. Classificação pelas cores da legenda;
-6. Registro separado dos itens que não puderam ser confirmados com segurança.
+6. Revisão manual dos casos incertos contra o PDF de origem;
+7. Remoção de medidas de montagem incorporadas incorretamente aos nomes.
 
-Os códigos `IFxx` foram tratados como infraestrutura e os módulos `TI01` a `TI25` foram preservados sem inventar ocupantes ausentes.
+Os códigos `IFxx` foram tratados como infraestrutura. Os módulos `TI01` a `TI25` e os demais estandes sem nome visível foram preservados sem inventar ocupantes.
