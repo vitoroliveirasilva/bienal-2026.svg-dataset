@@ -1,0 +1,20 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Generated packages
+*.zip
+
+# Source documents
+source/original/
+*.pdf
