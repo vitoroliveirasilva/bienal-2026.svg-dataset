@@ -1,0 +1,379 @@
+{
+  "generatedAt": "2026-08-06T00:55:17Z",
+  "items": [
+    {
+      "code": "K56",
+      "id": "unresolved-stand-k56-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-k56",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "K76",
+      "id": "unresolved-stand-k76-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-k76",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "K30",
+      "id": "unresolved-stand-k30-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-k30",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "22",
+      "id": "unresolved-stand-travessa-22-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-travessa-22",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "23",
+      "id": "unresolved-stand-travessa-23-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-travessa-23",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "39",
+      "id": "unresolved-stand-travessa-39-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-travessa-39",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "D02",
+      "id": "unresolved-stand-d02-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-d02",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI01",
+      "id": "unresolved-stand-ti01-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti01",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI02",
+      "id": "unresolved-stand-ti02-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti02",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI03",
+      "id": "unresolved-stand-ti03-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti03",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI04",
+      "id": "unresolved-stand-ti04-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti04",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI05",
+      "id": "unresolved-stand-ti05-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti05",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI06",
+      "id": "unresolved-stand-ti06-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti06",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI07",
+      "id": "unresolved-stand-ti07-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti07",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI08",
+      "id": "unresolved-stand-ti08-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti08",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI09",
+      "id": "unresolved-stand-ti09-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti09",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI10",
+      "id": "unresolved-stand-ti10-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti10",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI11",
+      "id": "unresolved-stand-ti11-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti11",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI12",
+      "id": "unresolved-stand-ti12-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti12",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI13",
+      "id": "unresolved-stand-ti13-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti13",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI14",
+      "id": "unresolved-stand-ti14-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti14",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI15",
+      "id": "unresolved-stand-ti15-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti15",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI16",
+      "id": "unresolved-stand-ti16-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti16",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI17",
+      "id": "unresolved-stand-ti17-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti17",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI18",
+      "id": "unresolved-stand-ti18-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti18",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI19",
+      "id": "unresolved-stand-ti19-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti19",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI20",
+      "id": "unresolved-stand-ti20-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti20",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI21",
+      "id": "unresolved-stand-ti21-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti21",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI22",
+      "id": "unresolved-stand-ti22-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti22",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI23",
+      "id": "unresolved-stand-ti23-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti23",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI24",
+      "id": "unresolved-stand-ti24-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti24",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "TI25",
+      "id": "unresolved-stand-ti25-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-ti25",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "A79",
+      "id": "unresolved-stand-a79-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-a79",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA01",
+      "id": "unresolved-stand-aa01-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa01",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA03",
+      "id": "unresolved-stand-aa03-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa03",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA05",
+      "id": "unresolved-stand-aa05-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa05",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA07",
+      "id": "unresolved-stand-aa07-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa07",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA09",
+      "id": "unresolved-stand-aa09-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa09",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA11",
+      "id": "unresolved-stand-aa11-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa11",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA27",
+      "id": "unresolved-stand-aa27-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa27",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA31",
+      "id": "unresolved-stand-aa31-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa31",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA33",
+      "id": "unresolved-stand-aa33-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa33",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA41",
+      "id": "unresolved-stand-aa41-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa41",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA43",
+      "id": "unresolved-stand-aa43-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa43",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "AA45",
+      "id": "unresolved-stand-aa45-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-aa45",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    },
+    {
+      "code": "14",
+      "id": "unresolved-stand-travessa-14-occupant",
+      "reason": "The source map does not identify a named occupant for this stand.",
+      "standId": "stand-travessa-14",
+      "status": "unresolved",
+      "type": "stand-occupant"
+    }
+  ],
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  }
+}

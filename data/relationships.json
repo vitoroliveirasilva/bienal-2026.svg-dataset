@@ -1,0 +1,3417 @@
+{
+  "generatedAt": "2026-08-06T00:55:17Z",
+  "pointOfInterestCategories": [
+    {
+      "categoryId": "cultural-activity",
+      "pointOfInterestId": "poi-arena-cultural-k86"
+    },
+    {
+      "categoryId": "exhibitor",
+      "pointOfInterestId": "poi-cabana-vermelha-k28"
+    },
+    {
+      "categoryId": "entity",
+      "pointOfInterestId": "poi-influenciadores-by-skeelo-k24"
+    },
+    {
+      "categoryId": "entity",
+      "pointOfInterestId": "poi-espaco-bem-estar-k32"
+    },
+    {
+      "categoryId": "entity",
+      "pointOfInterestId": "poi-estudio-podcast-k26"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-01"
+    },
+    {
+      "categoryId": "exhibitor",
+      "pointOfInterestId": "poi-guarderia-souvenirs-k75"
+    },
+    {
+      "categoryId": "exhibitor",
+      "pointOfInterestId": "poi-estudio-ton-47"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-02"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-03"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "pointOfInterestId": "poi-convidado-de-honra-espanha-e40"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-04"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "pointOfInterestId": "poi-autografos-1-2-e-3-dd20"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "pointOfInterestId": "poi-praca-da-palavra-d28"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "pointOfInterestId": "poi-cordel-e-repente-dd10"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "pointOfInterestId": "poi-espaco-infantil-c88"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "pointOfInterestId": "poi-salao-de-ideias-c40"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-05"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-06"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-07"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-08"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-09"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "pointOfInterestId": "poi-praca-da-palavra-a61"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-10"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-infrastructure-marker-11"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-loja-oficial-a73"
+    },
+    {
+      "categoryId": "infrastructure",
+      "pointOfInterestId": "poi-loja-oficial-a71"
+    },
+    {
+      "categoryId": "entity",
+      "pointOfInterestId": "poi-auditorio-a39"
+    }
+  ],
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  },
+  "standCategories": [
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k68"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-k86"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k58"
+    },
+    {
+      "categoryId": "food",
+      "standId": "stand-k56"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k28"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-k24"
+    },
+    {
+      "categoryId": "food",
+      "standId": "stand-k20"
+    },
+    {
+      "categoryId": "food",
+      "standId": "stand-k76"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k70"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-k42"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-k38"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-k32"
+    },
+    {
+      "categoryId": "infrastructure",
+      "standId": "stand-k30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k66"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-k54"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-k26"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k74"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j28"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j26"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j86"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k77"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k75"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j70"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j68"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k67"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j60"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j58"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k51"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k45"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k43"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j38"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k37"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k35"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-k33"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j80"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j76"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j74"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j66"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j52"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j48"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j44"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j36"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j32"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-01"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-02"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-travessa-03"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-04"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-travessa-05"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-06"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-07"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-08"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-09"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-10"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-11"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-12"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-13"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-14"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-15"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-16"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-17"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-18"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-19"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-travessa-20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-21"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-travessa-22"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-travessa-23"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-24"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h86"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j81"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j79"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j75"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h70"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h60"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h58"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h50"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h48"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h38"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j34"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-j33"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-h30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-25"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-26"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-27"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-28"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-29"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-31"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-32"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h80"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h78"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h76"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h34"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-33"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-34"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-35"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-36"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-37"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-38"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-travessa-39"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-travessa-40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-41"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-42"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-43"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-44"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-45"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-46"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-47"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-travessa-48"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g88"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h87"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h85"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h83"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g80"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g76"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g70"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g68"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-g60"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-g58"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g52"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g50"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g40"
+    },
+    {
+      "categoryId": "sponsor",
+      "standId": "stand-g38"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g36"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g28"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-h25"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g84"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g82"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g26"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f88"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g81"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f80"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f76"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f70"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f60"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f58"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f28"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f18"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g15"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g11"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-g03"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f82"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f14"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f10"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f02"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e02"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e88"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e82"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e80"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e70"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e60"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-e40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e18"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-f11"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e10"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-dd20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-d88"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-d70"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-d60"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-d58"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-d40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-d30"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-d28"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-e21"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-d10"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-dd10"
+    },
+    {
+      "categoryId": "food",
+      "standId": "stand-d02"
+    },
+    {
+      "categoryId": "sponsor",
+      "standId": "stand-d20"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-c88"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c82"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-d81"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-d77"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c72"
+    },
+    {
+      "categoryId": "food",
+      "standId": "stand-c70"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c60"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c58"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-c40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c28"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c10"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti01"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti02"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti03"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti04"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti05"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti06"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti07"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti08"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti09"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti10"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti11"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti12"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-ti13"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti14"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti15"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti16"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti17"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti18"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti19"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti21"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti22"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti23"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti24"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-ti25"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c80"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c76"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-dd11"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-dd21"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-dd27"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-dd29"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-cc20"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-cc26"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-cc28"
+    },
+    {
+      "categoryId": "food",
+      "standId": "stand-b90"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b88"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-c77"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b70"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b68"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b60"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b38"
+    },
+    {
+      "categoryId": "sponsor",
+      "standId": "stand-b30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b80"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b78"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-cc11"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-cc17"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-cc19"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-cc21"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-cc27"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-cc29"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-bb10"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-bb16"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-bb18"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-bb20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-bb28"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a88"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a86"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b81"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b79"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a76"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a70"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a68"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-b65"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a60"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a58"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a50"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a40"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a30"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a80"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a78"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a66"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa10"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa18"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa20"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-bb29"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa28"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a89"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a85"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a81"
+    },
+    {
+      "categoryId": "infrastructure",
+      "standId": "stand-a79"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-a61"
+    },
+    {
+      "categoryId": "sponsor",
+      "standId": "stand-a55"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a47"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-a41"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa01"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa03"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa05"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-aa07"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-aa09"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-aa11"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-aa13"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa27"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-aa29"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-aa31"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-aa33"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa41"
+    },
+    {
+      "categoryId": "cultural-activity",
+      "standId": "stand-aa43"
+    },
+    {
+      "categoryId": "exhibitor",
+      "standId": "stand-aa45"
+    },
+    {
+      "categoryId": "infrastructure",
+      "standId": "stand-a73"
+    },
+    {
+      "categoryId": "infrastructure",
+      "standId": "stand-a71"
+    },
+    {
+      "categoryId": "entity",
+      "standId": "stand-a39"
+    }
+  ],
+  "standExhibitors": [
+    {
+      "exhibitorId": "exhibitor-record",
+      "standId": "stand-k68"
+    },
+    {
+      "exhibitorId": "exhibitor-fruto-proibido",
+      "standId": "stand-k58"
+    },
+    {
+      "exhibitorId": "exhibitor-direcao",
+      "standId": "stand-k20"
+    },
+    {
+      "exhibitorId": "exhibitor-new-pop",
+      "standId": "stand-k70"
+    },
+    {
+      "exhibitorId": "exhibitor-abigraf",
+      "standId": "stand-k42"
+    },
+    {
+      "exhibitorId": "exhibitor-papo-de-mercado",
+      "standId": "stand-k38"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-euphoria",
+      "standId": "stand-k66"
+    },
+    {
+      "exhibitorId": "exhibitor-abdl",
+      "standId": "stand-k54"
+    },
+    {
+      "exhibitorId": "exhibitor-ler-editorial",
+      "standId": "stand-k74"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-bezz",
+      "standId": "stand-k40"
+    },
+    {
+      "exhibitorId": "exhibitor-fabrica-do-livro",
+      "standId": "stand-j28"
+    },
+    {
+      "exhibitorId": "exhibitor-lelume",
+      "standId": "stand-j26"
+    },
+    {
+      "exhibitorId": "exhibitor-bibliex",
+      "standId": "stand-j20"
+    },
+    {
+      "exhibitorId": "exhibitor-maquinaria-sankto-editorial",
+      "standId": "stand-j86"
+    },
+    {
+      "exhibitorId": "exhibitor-book-outlet",
+      "standId": "stand-k77"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-vida",
+      "standId": "stand-j70"
+    },
+    {
+      "exhibitorId": "exhibitor-chave-mestra",
+      "standId": "stand-j68"
+    },
+    {
+      "exhibitorId": "exhibitor-gift-box",
+      "standId": "stand-k67"
+    },
+    {
+      "exhibitorId": "exhibitor-grupo-editorial-pensamento",
+      "standId": "stand-j60"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-gente",
+      "standId": "stand-j58"
+    },
+    {
+      "exhibitorId": "exhibitor-estante-virtual",
+      "standId": "stand-k51"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-patua",
+      "standId": "stand-k45"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-identidade",
+      "standId": "stand-k43"
+    },
+    {
+      "exhibitorId": "exhibitor-aquarela-livros",
+      "standId": "stand-j40"
+    },
+    {
+      "exhibitorId": "exhibitor-secretaria-municipal-da-cultura",
+      "standId": "stand-j38"
+    },
+    {
+      "exhibitorId": "exhibitor-litteris-editora",
+      "standId": "stand-k37"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-articule",
+      "standId": "stand-k35"
+    },
+    {
+      "exhibitorId": "exhibitor-sunbee",
+      "standId": "stand-k33"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-unicorn",
+      "standId": "stand-j30"
+    },
+    {
+      "exhibitorId": "exhibitor-sebo-do-messias",
+      "standId": "stand-j80"
+    },
+    {
+      "exhibitorId": "exhibitor-autores-independentes-do-brasil",
+      "standId": "stand-j76"
+    },
+    {
+      "exhibitorId": "exhibitor-lvm-editora",
+      "standId": "stand-j74"
+    },
+    {
+      "exhibitorId": "exhibitor-lura-editorial",
+      "standId": "stand-j66"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-viseu",
+      "standId": "stand-j52"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-ave-maria",
+      "standId": "stand-j48"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-labrador",
+      "standId": "stand-j44"
+    },
+    {
+      "exhibitorId": "exhibitor-telos-editora",
+      "standId": "stand-j36"
+    },
+    {
+      "exhibitorId": "exhibitor-scortecci",
+      "standId": "stand-j32"
+    },
+    {
+      "exhibitorId": "exhibitor-gaeb",
+      "standId": "stand-travessa-01"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-sinna",
+      "standId": "stand-travessa-02"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-madame-houdini",
+      "standId": "stand-travessa-03"
+    },
+    {
+      "exhibitorId": "exhibitor-lily-a",
+      "standId": "stand-travessa-04"
+    },
+    {
+      "exhibitorId": "exhibitor-relatos-sobre-munique",
+      "standId": "stand-travessa-05"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-arpillera",
+      "standId": "stand-travessa-06"
+    },
+    {
+      "exhibitorId": "exhibitor-saberes-no-pano",
+      "standId": "stand-travessa-07"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-guedes",
+      "standId": "stand-travessa-08"
+    },
+    {
+      "exhibitorId": "exhibitor-estante-volante",
+      "standId": "stand-travessa-09"
+    },
+    {
+      "exhibitorId": "exhibitor-diarios-embu",
+      "standId": "stand-travessa-10"
+    },
+    {
+      "exhibitorId": "exhibitor-gaeb",
+      "standId": "stand-travessa-11"
+    },
+    {
+      "exhibitorId": "exhibitor-labuck",
+      "standId": "stand-travessa-12"
+    },
+    {
+      "exhibitorId": "exhibitor-amanda-ilustra",
+      "standId": "stand-travessa-13"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-pulo-do-gato",
+      "standId": "stand-travessa-15"
+    },
+    {
+      "exhibitorId": "exhibitor-o-livro-do-conhecimento",
+      "standId": "stand-travessa-16"
+    },
+    {
+      "exhibitorId": "exhibitor-vitoria-gabrieli",
+      "standId": "stand-travessa-17"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-eficaz",
+      "standId": "stand-travessa-18"
+    },
+    {
+      "exhibitorId": "exhibitor-gaeb",
+      "standId": "stand-travessa-19"
+    },
+    {
+      "exhibitorId": "exhibitor-cintia-ribeiro-santana",
+      "standId": "stand-travessa-20"
+    },
+    {
+      "exhibitorId": "exhibitor-sandra-braik",
+      "standId": "stand-travessa-21"
+    },
+    {
+      "exhibitorId": "exhibitor-literunico",
+      "standId": "stand-travessa-24"
+    },
+    {
+      "exhibitorId": "exhibitor-book-one",
+      "standId": "stand-h86"
+    },
+    {
+      "exhibitorId": "exhibitor-grafica-viena",
+      "standId": "stand-j81"
+    },
+    {
+      "exhibitorId": "exhibitor-piovesan",
+      "standId": "stand-j79"
+    },
+    {
+      "exhibitorId": "exhibitor-matrix-editora",
+      "standId": "stand-j75"
+    },
+    {
+      "exhibitorId": "exhibitor-buzz-editora",
+      "standId": "stand-h70"
+    },
+    {
+      "exhibitorId": "exhibitor-universo-dos-livros",
+      "standId": "stand-h60"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-velos",
+      "standId": "stand-h58"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-literatura-classica",
+      "standId": "stand-h50"
+    },
+    {
+      "exhibitorId": "exhibitor-tertulia",
+      "standId": "stand-h48"
+    },
+    {
+      "exhibitorId": "exhibitor-madras",
+      "standId": "stand-h40"
+    },
+    {
+      "exhibitorId": "exhibitor-fnde",
+      "standId": "stand-h38"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-ardane",
+      "standId": "stand-j34"
+    },
+    {
+      "exhibitorId": "exhibitor-aberst",
+      "standId": "stand-j33"
+    },
+    {
+      "exhibitorId": "exhibitor-premio-jabuti",
+      "standId": "stand-h30"
+    },
+    {
+      "exhibitorId": "exhibitor-elisangela-modesto",
+      "standId": "stand-travessa-25"
+    },
+    {
+      "exhibitorId": "exhibitor-compartilhagem",
+      "standId": "stand-travessa-26"
+    },
+    {
+      "exhibitorId": "exhibitor-gaeb",
+      "standId": "stand-travessa-27"
+    },
+    {
+      "exhibitorId": "exhibitor-ironita-pereira",
+      "standId": "stand-travessa-28"
+    },
+    {
+      "exhibitorId": "exhibitor-zuuwaii-editora",
+      "standId": "stand-travessa-29"
+    },
+    {
+      "exhibitorId": "exhibitor-artesanato-santista",
+      "standId": "stand-travessa-30"
+    },
+    {
+      "exhibitorId": "exhibitor-lua-lins",
+      "standId": "stand-travessa-31"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-nua",
+      "standId": "stand-travessa-32"
+    },
+    {
+      "exhibitorId": "exhibitor-urutau",
+      "standId": "stand-h80"
+    },
+    {
+      "exhibitorId": "exhibitor-piovesan",
+      "standId": "stand-h78"
+    },
+    {
+      "exhibitorId": "exhibitor-pallas-editora",
+      "standId": "stand-h76"
+    },
+    {
+      "exhibitorId": "exhibitor-abeu",
+      "standId": "stand-h34"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-hipocrates",
+      "standId": "stand-travessa-33"
+    },
+    {
+      "exhibitorId": "exhibitor-instituto-roberto-luz",
+      "standId": "stand-travessa-34"
+    },
+    {
+      "exhibitorId": "exhibitor-arkhons",
+      "standId": "stand-travessa-35"
+    },
+    {
+      "exhibitorId": "exhibitor-encantos-da-kaly",
+      "standId": "stand-travessa-36"
+    },
+    {
+      "exhibitorId": "exhibitor-a-ruina-dourada",
+      "standId": "stand-travessa-37"
+    },
+    {
+      "exhibitorId": "exhibitor-cartola-editora",
+      "standId": "stand-travessa-38"
+    },
+    {
+      "exhibitorId": "exhibitor-jason-cesar",
+      "standId": "stand-travessa-40"
+    },
+    {
+      "exhibitorId": "exhibitor-dl-books",
+      "standId": "stand-travessa-41"
+    },
+    {
+      "exhibitorId": "exhibitor-stefanie-cabanelas",
+      "standId": "stand-travessa-42"
+    },
+    {
+      "exhibitorId": "exhibitor-coletivo-parentesis-de-teatro",
+      "standId": "stand-travessa-43"
+    },
+    {
+      "exhibitorId": "exhibitor-lote-42",
+      "standId": "stand-travessa-44"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-elevacao",
+      "standId": "stand-travessa-45"
+    },
+    {
+      "exhibitorId": "exhibitor-barraco-editorial",
+      "standId": "stand-travessa-46"
+    },
+    {
+      "exhibitorId": "exhibitor-sarau-do-manoelio",
+      "standId": "stand-travessa-48"
+    },
+    {
+      "exhibitorId": "exhibitor-senado-federal",
+      "standId": "stand-g88"
+    },
+    {
+      "exhibitorId": "exhibitor-lendari",
+      "standId": "stand-h87"
+    },
+    {
+      "exhibitorId": "exhibitor-crush-literario",
+      "standId": "stand-h85"
+    },
+    {
+      "exhibitorId": "exhibitor-piovezan",
+      "standId": "stand-h83"
+    },
+    {
+      "exhibitorId": "exhibitor-escreva-garota",
+      "standId": "stand-g80"
+    },
+    {
+      "exhibitorId": "exhibitor-barca",
+      "standId": "stand-g76"
+    },
+    {
+      "exhibitorId": "exhibitor-citadel",
+      "standId": "stand-g70"
+    },
+    {
+      "exhibitorId": "exhibitor-promolivros",
+      "standId": "stand-g68"
+    },
+    {
+      "exhibitorId": "exhibitor-mato-grosso-do-sul",
+      "standId": "stand-g60"
+    },
+    {
+      "exhibitorId": "exhibitor-espaco-educacao",
+      "standId": "stand-g58"
+    },
+    {
+      "exhibitorId": "exhibitor-ases-da-literatura",
+      "standId": "stand-g52"
+    },
+    {
+      "exhibitorId": "exhibitor-vr-editora",
+      "standId": "stand-g50"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-planeta",
+      "standId": "stand-g40"
+    },
+    {
+      "exhibitorId": "exhibitor-mercado-livre",
+      "standId": "stand-g38"
+    },
+    {
+      "exhibitorId": "exhibitor-aleph",
+      "standId": "stand-g36"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-vozes",
+      "standId": "stand-g30"
+    },
+    {
+      "exhibitorId": "exhibitor-edson-sousa-livros",
+      "standId": "stand-g28"
+    },
+    {
+      "exhibitorId": "exhibitor-autografia-editora",
+      "standId": "stand-h25"
+    },
+    {
+      "exhibitorId": "exhibitor-shopping-dos-livros",
+      "standId": "stand-g20"
+    },
+    {
+      "exhibitorId": "exhibitor-legiao-nerd",
+      "standId": "stand-g84"
+    },
+    {
+      "exhibitorId": "exhibitor-piovezan",
+      "standId": "stand-g82"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-cortez",
+      "standId": "stand-g26"
+    },
+    {
+      "exhibitorId": "exhibitor-wmf-martins-fontes",
+      "standId": "stand-f88"
+    },
+    {
+      "exhibitorId": "exhibitor-pedrazul-editora",
+      "standId": "stand-g81"
+    },
+    {
+      "exhibitorId": "exhibitor-seicho-no-ei",
+      "standId": "stand-f80"
+    },
+    {
+      "exhibitorId": "exhibitor-catapulta",
+      "standId": "stand-f76"
+    },
+    {
+      "exhibitorId": "exhibitor-rocco",
+      "standId": "stand-f70"
+    },
+    {
+      "exhibitorId": "exhibitor-grupo-editorial-record",
+      "standId": "stand-f60"
+    },
+    {
+      "exhibitorId": "exhibitor-panini",
+      "standId": "stand-f58"
+    },
+    {
+      "exhibitorId": "exhibitor-autentica-grupo",
+      "standId": "stand-f40"
+    },
+    {
+      "exhibitorId": "exhibitor-ciranda-cultural",
+      "standId": "stand-f30"
+    },
+    {
+      "exhibitorId": "exhibitor-global-editora",
+      "standId": "stand-f28"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-sei",
+      "standId": "stand-f20"
+    },
+    {
+      "exhibitorId": "exhibitor-grupo-editorial-portal",
+      "standId": "stand-f18"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-cras",
+      "standId": "stand-g15"
+    },
+    {
+      "exhibitorId": "exhibitor-novos-autores-do-brasil",
+      "standId": "stand-g11"
+    },
+    {
+      "exhibitorId": "exhibitor-avec-editora",
+      "standId": "stand-g03"
+    },
+    {
+      "exhibitorId": "exhibitor-caixa-de-quadrinhos",
+      "standId": "stand-f82"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-caliope",
+      "standId": "stand-f14"
+    },
+    {
+      "exhibitorId": "exhibitor-livraria-paisagem",
+      "standId": "stand-f10"
+    },
+    {
+      "exhibitorId": "exhibitor-all-print",
+      "standId": "stand-f02"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-conejo",
+      "standId": "stand-e02"
+    },
+    {
+      "exhibitorId": "exhibitor-taverna-do-rei",
+      "standId": "stand-e88"
+    },
+    {
+      "exhibitorId": "exhibitor-mundo-dos-colecionaveis",
+      "standId": "stand-e82"
+    },
+    {
+      "exhibitorId": "exhibitor-male-editora",
+      "standId": "stand-e80"
+    },
+    {
+      "exhibitorId": "exhibitor-globo-livros",
+      "standId": "stand-e70"
+    },
+    {
+      "exhibitorId": "exhibitor-companhia-das-letras",
+      "standId": "stand-e60"
+    },
+    {
+      "exhibitorId": "exhibitor-intrinseca",
+      "standId": "stand-e30"
+    },
+    {
+      "exhibitorId": "exhibitor-pe-da-letra-editora",
+      "standId": "stand-e20"
+    },
+    {
+      "exhibitorId": "exhibitor-qualis-editora",
+      "standId": "stand-e18"
+    },
+    {
+      "exhibitorId": "exhibitor-fraternidade-de-escritores",
+      "standId": "stand-f11"
+    },
+    {
+      "exhibitorId": "exhibitor-espaco-leia-mais",
+      "standId": "stand-e10"
+    },
+    {
+      "exhibitorId": "exhibitor-culturama-editora",
+      "standId": "stand-d88"
+    },
+    {
+      "exhibitorId": "exhibitor-sesc-senac",
+      "standId": "stand-d70"
+    },
+    {
+      "exhibitorId": "exhibitor-companhia-das-letras",
+      "standId": "stand-d60"
+    },
+    {
+      "exhibitorId": "exhibitor-harpercollins",
+      "standId": "stand-d58"
+    },
+    {
+      "exhibitorId": "exhibitor-todavia",
+      "standId": "stand-d40"
+    },
+    {
+      "exhibitorId": "exhibitor-sextante-e-arqueiro",
+      "standId": "stand-d30"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-boc",
+      "standId": "stand-e21"
+    },
+    {
+      "exhibitorId": "exhibitor-pae-editora",
+      "standId": "stand-d10"
+    },
+    {
+      "exhibitorId": "exhibitor-sylvamo",
+      "standId": "stand-d20"
+    },
+    {
+      "exhibitorId": "exhibitor-fusao-do-livro",
+      "standId": "stand-c82"
+    },
+    {
+      "exhibitorId": "exhibitor-chiado-editora",
+      "standId": "stand-d81"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-paulinas",
+      "standId": "stand-d77"
+    },
+    {
+      "exhibitorId": "exhibitor-girassol",
+      "standId": "stand-c72"
+    },
+    {
+      "exhibitorId": "exhibitor-faber-castell",
+      "standId": "stand-c70"
+    },
+    {
+      "exhibitorId": "exhibitor-ciranda-cultural",
+      "standId": "stand-c60"
+    },
+    {
+      "exhibitorId": "exhibitor-grupo-online-editora",
+      "standId": "stand-c58"
+    },
+    {
+      "exhibitorId": "exhibitor-distribuidora-livraria-loyola",
+      "standId": "stand-c30"
+    },
+    {
+      "exhibitorId": "exhibitor-drummond-livraria",
+      "standId": "stand-c28"
+    },
+    {
+      "exhibitorId": "exhibitor-faro-editorial",
+      "standId": "stand-c20"
+    },
+    {
+      "exhibitorId": "exhibitor-ciranda-cultural",
+      "standId": "stand-c10"
+    },
+    {
+      "exhibitorId": "exhibitor-panini-editora",
+      "standId": "stand-c80"
+    },
+    {
+      "exhibitorId": "exhibitor-y-a-books",
+      "standId": "stand-c76"
+    },
+    {
+      "exhibitorId": "exhibitor-ciranda-cultural",
+      "standId": "stand-dd11"
+    },
+    {
+      "exhibitorId": "exhibitor-panni-editora",
+      "standId": "stand-dd21"
+    },
+    {
+      "exhibitorId": "exhibitor-camara-periferica",
+      "standId": "stand-dd27"
+    },
+    {
+      "exhibitorId": "exhibitor-casa-do-novo-autor",
+      "standId": "stand-dd29"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-caxiguele",
+      "standId": "stand-cc20"
+    },
+    {
+      "exhibitorId": "exhibitor-flynksampa",
+      "standId": "stand-cc26"
+    },
+    {
+      "exhibitorId": "exhibitor-crb",
+      "standId": "stand-cc28"
+    },
+    {
+      "exhibitorId": "exhibitor-lactlis",
+      "standId": "stand-b90"
+    },
+    {
+      "exhibitorId": "exhibitor-secretaria-municipal-da-educacao",
+      "standId": "stand-b88"
+    },
+    {
+      "exhibitorId": "exhibitor-baggagio",
+      "standId": "stand-c77"
+    },
+    {
+      "exhibitorId": "exhibitor-boa-nova-livros-espiritas",
+      "standId": "stand-b70"
+    },
+    {
+      "exhibitorId": "exhibitor-mundo-gospel",
+      "standId": "stand-b68"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-mostarda",
+      "standId": "stand-b60"
+    },
+    {
+      "exhibitorId": "exhibitor-promolivros",
+      "standId": "stand-b40"
+    },
+    {
+      "exhibitorId": "exhibitor-paulus",
+      "standId": "stand-b38"
+    },
+    {
+      "exhibitorId": "exhibitor-skeelo",
+      "standId": "stand-b30"
+    },
+    {
+      "exhibitorId": "exhibitor-ciranda-cultural",
+      "standId": "stand-b20"
+    },
+    {
+      "exhibitorId": "exhibitor-viajante-do-tempo",
+      "standId": "stand-b80"
+    },
+    {
+      "exhibitorId": "exhibitor-busca-livros",
+      "standId": "stand-b78"
+    },
+    {
+      "exhibitorId": "exhibitor-pensamento-ludico",
+      "standId": "stand-cc11"
+    },
+    {
+      "exhibitorId": "exhibitor-diversa-livraria",
+      "standId": "stand-cc17"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-democritos",
+      "standId": "stand-cc19"
+    },
+    {
+      "exhibitorId": "exhibitor-expressao-popular",
+      "standId": "stand-cc21"
+    },
+    {
+      "exhibitorId": "exhibitor-fundacao-japao",
+      "standId": "stand-cc27"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-oceando",
+      "standId": "stand-cc29"
+    },
+    {
+      "exhibitorId": "exhibitor-literarte-magico-de-oz",
+      "standId": "stand-bb10"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-minski",
+      "standId": "stand-bb16"
+    },
+    {
+      "exhibitorId": "exhibitor-clube-do-medo",
+      "standId": "stand-bb18"
+    },
+    {
+      "exhibitorId": "exhibitor-jinhao-color-printing",
+      "standId": "stand-bb20"
+    },
+    {
+      "exhibitorId": "exhibitor-literatura-superpoderosa",
+      "standId": "stand-bb28"
+    },
+    {
+      "exhibitorId": "exhibitor-ciranda-cultural",
+      "standId": "stand-a88"
+    },
+    {
+      "exhibitorId": "exhibitor-toque-magico",
+      "standId": "stand-a86"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-mundo-cristao",
+      "standId": "stand-b81"
+    },
+    {
+      "exhibitorId": "exhibitor-uiclap",
+      "standId": "stand-b79"
+    },
+    {
+      "exhibitorId": "exhibitor-grupo-editorial-coerencia",
+      "standId": "stand-a76"
+    },
+    {
+      "exhibitorId": "exhibitor-cooperbook",
+      "standId": "stand-a70"
+    },
+    {
+      "exhibitorId": "exhibitor-reino-dos-brinquedos",
+      "standId": "stand-a68"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-in-house",
+      "standId": "stand-b65"
+    },
+    {
+      "exhibitorId": "exhibitor-grupo-novo-seculo",
+      "standId": "stand-a60"
+    },
+    {
+      "exhibitorId": "exhibitor-amazon",
+      "standId": "stand-a58"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-melhoramento",
+      "standId": "stand-a50"
+    },
+    {
+      "exhibitorId": "exhibitor-mundo-gospel",
+      "standId": "stand-a40"
+    },
+    {
+      "exhibitorId": "exhibitor-ciranda-cultural",
+      "standId": "stand-a30"
+    },
+    {
+      "exhibitorId": "exhibitor-flyve",
+      "standId": "stand-a80"
+    },
+    {
+      "exhibitorId": "exhibitor-appris",
+      "standId": "stand-a78"
+    },
+    {
+      "exhibitorId": "exhibitor-turma-do-cabeca-oca",
+      "standId": "stand-a66"
+    },
+    {
+      "exhibitorId": "exhibitor-pilot-pen",
+      "standId": "stand-aa10"
+    },
+    {
+      "exhibitorId": "exhibitor-ita-brasil",
+      "standId": "stand-aa18"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-leader",
+      "standId": "stand-aa20"
+    },
+    {
+      "exhibitorId": "exhibitor-jambo-editorial",
+      "standId": "stand-bb29"
+    },
+    {
+      "exhibitorId": "exhibitor-compactor",
+      "standId": "stand-aa28"
+    },
+    {
+      "exhibitorId": "exhibitor-ciranda-cultural",
+      "standId": "stand-a89"
+    },
+    {
+      "exhibitorId": "exhibitor-editora-dcl",
+      "standId": "stand-a85"
+    },
+    {
+      "exhibitorId": "exhibitor-grupo-online-editora",
+      "standId": "stand-a81"
+    },
+    {
+      "exhibitorId": "exhibitor-patrocinador",
+      "standId": "stand-a55"
+    },
+    {
+      "exhibitorId": "exhibitor-pe-da-letra",
+      "standId": "stand-a47"
+    },
+    {
+      "exhibitorId": "exhibitor-promolivros",
+      "standId": "stand-a41"
+    },
+    {
+      "exhibitorId": "exhibitor-cacarol-editora",
+      "standId": "stand-aa13"
+    },
+    {
+      "exhibitorId": "exhibitor-cristina-barretto",
+      "standId": "stand-aa29"
+    }
+  ],
+  "standStreets": [
+    {
+      "standId": "stand-k68",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k86",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k58",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k56",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k28",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k24",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k20",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k76",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k70",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k42",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k38",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k32",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k30",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k66",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k54",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k26",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k74",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k40",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-j28",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j26",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j20",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j86",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-k77",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k75",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-j70",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j68",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-k67",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-j60",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j58",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-k51",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k45",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k43",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-j40",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j38",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-k37",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k35",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-k33",
+      "streetId": "street-k"
+    },
+    {
+      "standId": "stand-j30",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j80",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j76",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j74",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j66",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j52",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j48",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j44",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j36",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j32",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-travessa-01",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-02",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-03",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-04",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-05",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-06",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-07",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-08",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-09",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-10",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-11",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-12",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-13",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-14",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-15",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-16",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-17",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-18",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-19",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-20",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-21",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-22",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-23",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-24",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-h86",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-j81",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j79",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j75",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-h70",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h60",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h58",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h50",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h48",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h40",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h38",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-j34",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-j33",
+      "streetId": "street-j"
+    },
+    {
+      "standId": "stand-h30",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-travessa-25",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-26",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-27",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-28",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-29",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-30",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-31",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-32",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-h80",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h78",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h76",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h34",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-travessa-33",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-34",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-35",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-36",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-37",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-38",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-39",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-40",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-41",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-42",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-43",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-44",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-45",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-46",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-47",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-travessa-48",
+      "streetId": "travessa-literaria"
+    },
+    {
+      "standId": "stand-g88",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-h87",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h85",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-h83",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-g80",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g76",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g70",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g68",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g60",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g58",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g52",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g50",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g40",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g38",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g36",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g30",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g28",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-h25",
+      "streetId": "street-h"
+    },
+    {
+      "standId": "stand-g20",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g84",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g82",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g26",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-f88",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-g81",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-f80",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f76",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f70",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f60",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f58",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f40",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f30",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f28",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f20",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f18",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-g15",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g11",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-g03",
+      "streetId": "street-g"
+    },
+    {
+      "standId": "stand-f82",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f14",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f10",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-f02",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-e02",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-e88",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-e82",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-e80",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-e70",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-e60",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-e40",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-e30",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-e20",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-e18",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-f11",
+      "streetId": "street-f"
+    },
+    {
+      "standId": "stand-e10",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-dd20",
+      "streetId": "street-dd"
+    },
+    {
+      "standId": "stand-d88",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-d70",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-d60",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-d58",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-d40",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-d30",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-d28",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-e21",
+      "streetId": "street-e"
+    },
+    {
+      "standId": "stand-d10",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-dd10",
+      "streetId": "street-dd"
+    },
+    {
+      "standId": "stand-d02",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-d20",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-c88",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c82",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-d81",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-d77",
+      "streetId": "street-d"
+    },
+    {
+      "standId": "stand-c72",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c70",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c60",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c58",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c40",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c30",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c28",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c20",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c10",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-ti01",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti02",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti03",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti04",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti05",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti06",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti07",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti08",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti09",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti10",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti11",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti12",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti13",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti14",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti15",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti16",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti17",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti18",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti19",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti20",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti21",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti22",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti23",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti24",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-ti25",
+      "streetId": "alameda-dos-artistas-by-bic"
+    },
+    {
+      "standId": "stand-c80",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-c76",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-dd11",
+      "streetId": "street-dd"
+    },
+    {
+      "standId": "stand-dd21",
+      "streetId": "street-dd"
+    },
+    {
+      "standId": "stand-dd27",
+      "streetId": "street-dd"
+    },
+    {
+      "standId": "stand-dd29",
+      "streetId": "street-dd"
+    },
+    {
+      "standId": "stand-cc20",
+      "streetId": "street-cc"
+    },
+    {
+      "standId": "stand-cc26",
+      "streetId": "street-cc"
+    },
+    {
+      "standId": "stand-cc28",
+      "streetId": "street-cc"
+    },
+    {
+      "standId": "stand-b90",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b88",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-c77",
+      "streetId": "street-c"
+    },
+    {
+      "standId": "stand-b70",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b68",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b60",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b40",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b38",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b30",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b20",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b80",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b78",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-cc11",
+      "streetId": "street-cc"
+    },
+    {
+      "standId": "stand-cc17",
+      "streetId": "street-cc"
+    },
+    {
+      "standId": "stand-cc19",
+      "streetId": "street-cc"
+    },
+    {
+      "standId": "stand-cc21",
+      "streetId": "street-cc"
+    },
+    {
+      "standId": "stand-cc27",
+      "streetId": "street-cc"
+    },
+    {
+      "standId": "stand-cc29",
+      "streetId": "street-cc"
+    },
+    {
+      "standId": "stand-bb10",
+      "streetId": "street-bb"
+    },
+    {
+      "standId": "stand-bb16",
+      "streetId": "street-bb"
+    },
+    {
+      "standId": "stand-bb18",
+      "streetId": "street-bb"
+    },
+    {
+      "standId": "stand-bb20",
+      "streetId": "street-bb"
+    },
+    {
+      "standId": "stand-bb28",
+      "streetId": "street-bb"
+    },
+    {
+      "standId": "stand-a88",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a86",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-b81",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-b79",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-a76",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a70",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a68",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-b65",
+      "streetId": "street-b"
+    },
+    {
+      "standId": "stand-a60",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a58",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a50",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a40",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a30",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a80",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a78",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a66",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-aa10",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa18",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa20",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-bb29",
+      "streetId": "street-bb"
+    },
+    {
+      "standId": "stand-aa28",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-a89",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a85",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a81",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a79",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a61",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a55",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a47",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a41",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-aa01",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa03",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa05",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa07",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa09",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa11",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa13",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa27",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa29",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa31",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa33",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa41",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa43",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-aa45",
+      "streetId": "street-aa"
+    },
+    {
+      "standId": "stand-a73",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a71",
+      "streetId": "street-a"
+    },
+    {
+      "standId": "stand-a39",
+      "streetId": "street-a"
+    }
+  ]
+}

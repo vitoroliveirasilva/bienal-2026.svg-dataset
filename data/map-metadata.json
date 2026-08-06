@@ -1,0 +1,29 @@
+{
+  "categoryCount": 6,
+  "exhibitorCount": 216,
+  "fullVectorSvgz": "map/map-full-vector.svgz",
+  "generatedAt": "2026-08-05T23:24:59Z",
+  "id": "bienal-do-livro-2026-map",
+  "location": "ANHEMBI",
+  "name": "BIENAL DO LIVRO",
+  "pageCount": 1,
+  "pointOfInterestCount": 102,
+  "primarySvg": "map/map-optimized.svg",
+  "projectBy": "DÉBORA SILVA",
+  "renderingModel": "hybrid-raster-background-with-semantic-vector-overlays",
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  },
+  "sourceRevision": "12",
+  "sourceUpdatedAt": "2026-05-26",
+  "standCount": 295,
+  "viewBox": {
+    "height": 1684.0,
+    "width": 2384.0,
+    "x": 0,
+    "y": 0
+  }
+}

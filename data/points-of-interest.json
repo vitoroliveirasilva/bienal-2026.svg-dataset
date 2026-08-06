@@ -1,0 +1,5643 @@
+{
+  "generatedAt": "2026-08-06T00:55:17Z",
+  "pointsOfInterest": [
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 17.7839,
+          "width": 13.0685,
+          "x": 914.64,
+          "y": 246.4463
+        },
+        "center": {
+          "x": 921.1742,
+          "y": 255.3382
+        },
+        "coordinates": [
+          921.1742,
+          255.3382
+        ],
+        "focusPoint": {
+          "x": 921.1742,
+          "y": 255.3382
+        },
+        "normalizedCenter": {
+          "x": 0.38639858,
+          "y": 0.15162601
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-gate-03",
+      "name": "Portão 8",
+      "normalizedName": "portao 8",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-gate-03",
+      "type": "gate",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 15.3958,
+          "width": 13.0684,
+          "x": 1140.84,
+          "y": 256.4063
+        },
+        "center": {
+          "x": 1147.3741,
+          "y": 264.1042
+        },
+        "coordinates": [
+          1147.3741,
+          264.1042
+        ],
+        "focusPoint": {
+          "x": 1147.3741,
+          "y": 264.1042
+        },
+        "normalizedCenter": {
+          "x": 0.4812811,
+          "y": 0.15683149
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-gate-04",
+      "name": "Portão 6",
+      "normalizedName": "portao 6",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-gate-04",
+      "type": "gate",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 17.7839,
+          "width": 13.0684,
+          "x": 76.2,
+          "y": 342.2063
+        },
+        "center": {
+          "x": 82.7342,
+          "y": 351.0982
+        },
+        "coordinates": [
+          82.7342,
+          351.0982
+        ],
+        "focusPoint": {
+          "x": 82.7342,
+          "y": 351.0982
+        },
+        "normalizedCenter": {
+          "x": 0.03470395,
+          "y": 0.20849062
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-gate-02",
+      "name": "Portão 7",
+      "normalizedName": "portao 7",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-gate-02",
+      "type": "gate",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 18.0237,
+          "width": 13.0684,
+          "x": 1360.6799,
+          "y": 343.0464
+        },
+        "center": {
+          "x": 1367.2141,
+          "y": 352.0582
+        },
+        "coordinates": [
+          1367.2141,
+          352.0582
+        ],
+        "focusPoint": {
+          "x": 1367.2141,
+          "y": 352.0582
+        },
+        "normalizedCenter": {
+          "x": 0.57349585,
+          "y": 0.20906071
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-gate-05",
+      "name": "Portão 10",
+      "normalizedName": "portao 10",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-gate-05",
+      "type": "gate",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.8783,
+          "width": 37.8639,
+          "x": 1047.12,
+          "y": 370.7725
+        },
+        "center": {
+          "x": 1066.0519,
+          "y": 372.7116
+        },
+        "coordinates": [
+          1066.0519,
+          372.7116
+        ],
+        "focusPoint": {
+          "x": 1066.0519,
+          "y": 372.7116
+        },
+        "normalizedCenter": {
+          "x": 0.44716944,
+          "y": 0.22132519
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-service-access-02",
+      "name": "ACESSO SERVIÇO HALL 02",
+      "normalizedName": "acesso servico hall 02",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-service-access-02",
+      "type": "service-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.8783,
+          "width": 37.8638,
+          "x": 1148.16,
+          "y": 389.2526
+        },
+        "center": {
+          "x": 1167.0919,
+          "y": 391.1917
+        },
+        "coordinates": [
+          1167.0919,
+          391.1917
+        ],
+        "focusPoint": {
+          "x": 1167.0919,
+          "y": 391.1917
+        },
+        "normalizedCenter": {
+          "x": 0.48955198,
+          "y": 0.23229913
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-service-access-01",
+      "name": "ACESSO SERVIÇO HALL 01",
+      "normalizedName": "acesso servico hall 01",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-service-access-01",
+      "type": "service-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.8783,
+          "width": 37.8638,
+          "x": 323.16,
+          "y": 390.9325
+        },
+        "center": {
+          "x": 342.0919,
+          "y": 392.8717
+        },
+        "coordinates": [
+          342.0919,
+          392.8717
+        ],
+        "focusPoint": {
+          "x": 342.0919,
+          "y": 392.8717
+        },
+        "normalizedCenter": {
+          "x": 0.14349492,
+          "y": 0.23329671
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-service-access-05",
+      "name": "ACESSO SERVIÇO HALL 05",
+      "normalizedName": "acesso servico hall 05",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-service-access-05",
+      "type": "service-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.8783,
+          "width": 37.8635,
+          "x": 791.16,
+          "y": 391.7725
+        },
+        "center": {
+          "x": 810.0917,
+          "y": 393.7116
+        },
+        "coordinates": [
+          810.0917,
+          393.7116
+        ],
+        "focusPoint": {
+          "x": 810.0917,
+          "y": 393.7116
+        },
+        "normalizedCenter": {
+          "x": 0.33980357,
+          "y": 0.2337955
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-service-access-03",
+      "name": "ACESSO SERVIÇO HALL 03",
+      "normalizedName": "acesso servico hall 03",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-service-access-03",
+      "type": "service-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.8783,
+          "width": 37.8635,
+          "x": 558.12,
+          "y": 391.8926
+        },
+        "center": {
+          "x": 577.0517,
+          "y": 393.8317
+        },
+        "coordinates": [
+          577.0517,
+          393.8317
+        ],
+        "focusPoint": {
+          "x": 577.0517,
+          "y": 393.8317
+        },
+        "normalizedCenter": {
+          "x": 0.2420519,
+          "y": 0.23386683
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-service-access-04",
+      "name": "ACESSO SERVIÇO HALL 04",
+      "normalizedName": "acesso servico hall 04",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-service-access-04",
+      "type": "service-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 4.9936,
+          "width": 43.7686,
+          "x": 214.92,
+          "y": 392.7249
+        },
+        "center": {
+          "x": 236.8043,
+          "y": 395.2217
+        },
+        "coordinates": [
+          236.8043,
+          395.2217
+        ],
+        "focusPoint": {
+          "x": 236.8043,
+          "y": 395.2217
+        },
+        "normalizedCenter": {
+          "x": 0.09933066,
+          "y": 0.23469222
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-emergency-exit-04",
+      "name": "SAÍDA DE EMERGÊNCIA",
+      "normalizedName": "saida de emergencia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-emergency-exit-04",
+      "type": "emergency-exit",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 4.9936,
+          "width": 43.7686,
+          "x": 457.56,
+          "y": 392.7249
+        },
+        "center": {
+          "x": 479.4443,
+          "y": 395.2217
+        },
+        "coordinates": [
+          479.4443,
+          395.2217
+        ],
+        "focusPoint": {
+          "x": 479.4443,
+          "y": 395.2217
+        },
+        "normalizedCenter": {
+          "x": 0.20110918,
+          "y": 0.23469222
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-emergency-exit-05",
+      "name": "SAÍDA DE EMERGÊNCIA",
+      "normalizedName": "saida de emergencia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-emergency-exit-05",
+      "type": "emergency-exit",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 4.9936,
+          "width": 43.7686,
+          "x": 696.6,
+          "y": 392.7249
+        },
+        "center": {
+          "x": 718.4843,
+          "y": 395.2217
+        },
+        "coordinates": [
+          718.4843,
+          395.2217
+        ],
+        "focusPoint": {
+          "x": 718.4843,
+          "y": 395.2217
+        },
+        "normalizedCenter": {
+          "x": 0.30137762,
+          "y": 0.23469222
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-emergency-exit-06",
+      "name": "SAÍDA DE EMERGÊNCIA",
+      "normalizedName": "saida de emergencia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-emergency-exit-06",
+      "type": "emergency-exit",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 4.9936,
+          "width": 43.7686,
+          "x": 920.16,
+          "y": 392.7249
+        },
+        "center": {
+          "x": 942.0443,
+          "y": 395.2217
+        },
+        "coordinates": [
+          942.0443,
+          395.2217
+        ],
+        "focusPoint": {
+          "x": 942.0443,
+          "y": 395.2217
+        },
+        "normalizedCenter": {
+          "x": 0.39515279,
+          "y": 0.23469222
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-emergency-exit-07",
+      "name": "SAÍDA DE EMERGÊNCIA",
+      "normalizedName": "saida de emergencia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-emergency-exit-07",
+      "type": "emergency-exit",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 4.9936,
+          "width": 43.7684,
+          "x": 1263.84,
+          "y": 392.9649
+        },
+        "center": {
+          "x": 1285.7242,
+          "y": 395.4617
+        },
+        "coordinates": [
+          1285.7242,
+          395.4617
+        ],
+        "focusPoint": {
+          "x": 1285.7242,
+          "y": 395.4617
+        },
+        "normalizedCenter": {
+          "x": 0.53931383,
+          "y": 0.23483473
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-emergency-exit-08",
+      "name": "SAÍDA DE EMERGÊNCIA",
+      "normalizedName": "saida de emergencia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-emergency-exit-08",
+      "type": "emergency-exit",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "cultural-activity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 86.16,
+          "width": 117.48,
+          "x": 199.32,
+          "y": 433.0
+        },
+        "center": {
+          "x": 258.06,
+          "y": 476.08
+        },
+        "coordinates": [
+          [
+            [
+              199.32,
+              433.0
+            ],
+            [
+              316.8,
+              433.0
+            ],
+            [
+              316.8,
+              519.16
+            ],
+            [
+              199.32,
+              519.16
+            ],
+            [
+              199.32,
+              433.0
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 258.06,
+          "y": 476.08
+        },
+        "normalizedCenter": {
+          "x": 0.10824664,
+          "y": 0.28270784
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-arena-cultural-k86",
+      "name": "ARENA CULTURAL",
+      "normalizedName": "arena cultural",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-k86",
+      "streetId": "street-k",
+      "svgElementId": "poi-arena-cultural-k86",
+      "type": "cultural-arena",
+      "validation": {
+        "confidence": 0.894,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 58.8,
+          "width": 23.5201,
+          "x": 1090.5599,
+          "y": 434.92
+        },
+        "center": {
+          "x": 1102.32,
+          "y": 464.32
+        },
+        "coordinates": [
+          [
+            [
+              1090.5599,
+              434.92
+            ],
+            [
+              1114.08,
+              434.92
+            ],
+            [
+              1114.08,
+              493.72
+            ],
+            [
+              1090.5599,
+              493.72
+            ],
+            [
+              1090.5599,
+              434.92
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 1102.32,
+          "y": 464.32
+        },
+        "normalizedCenter": {
+          "x": 0.46238253,
+          "y": 0.27572447
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-cabana-vermelha-k28",
+      "name": "CABANA VERMELHA",
+      "normalizedName": "cabana vermelha",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-k28",
+      "streetId": "street-k",
+      "svgElementId": "poi-cabana-vermelha-k28",
+      "type": "cultural-area",
+      "validation": {
+        "confidence": 0.9555,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 29.4001,
+          "width": 23.52,
+          "x": 1114.08,
+          "y": 434.92
+        },
+        "center": {
+          "x": 1125.84,
+          "y": 449.62
+        },
+        "coordinates": [
+          [
+            [
+              1114.08,
+              434.92
+            ],
+            [
+              1137.6,
+              434.92
+            ],
+            [
+              1137.6,
+              464.3201
+            ],
+            [
+              1114.08,
+              464.3201
+            ],
+            [
+              1114.08,
+              434.92
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 1125.84,
+          "y": 449.62
+        },
+        "normalizedCenter": {
+          "x": 0.47224832,
+          "y": 0.26699528
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-influenciadores-by-skeelo-k24",
+      "name": "INFLUENCIADORES BY SKEELO",
+      "normalizedName": "influenciadores by skeelo",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-k24",
+      "streetId": "street-k",
+      "svgElementId": "poi-influenciadores-by-skeelo-k24",
+      "type": "influencer-area",
+      "validation": {
+        "confidence": 0.8894,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 54.84,
+          "width": 39.12,
+          "x": 990.72,
+          "y": 438.88
+        },
+        "center": {
+          "x": 1010.28,
+          "y": 466.3
+        },
+        "coordinates": [
+          [
+            [
+              990.72,
+              438.88
+            ],
+            [
+              1029.84,
+              438.88
+            ],
+            [
+              1029.84,
+              493.72
+            ],
+            [
+              990.72,
+              493.72
+            ],
+            [
+              990.72,
+              438.88
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 1010.28,
+          "y": 466.3
+        },
+        "normalizedCenter": {
+          "x": 0.42377517,
+          "y": 0.27690024
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-espaco-bem-estar-k32",
+      "name": "ESPAÇO BEM-ESTAR",
+      "normalizedName": "espaco bem estar",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-k32",
+      "streetId": "street-k",
+      "svgElementId": "poi-espaco-bem-estar-k32",
+      "type": "wellness-area",
+      "validation": {
+        "confidence": 0.877,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 29.3999,
+          "width": 23.52,
+          "x": 1114.08,
+          "y": 464.3201
+        },
+        "center": {
+          "x": 1125.84,
+          "y": 479.0201
+        },
+        "coordinates": [
+          [
+            [
+              1114.08,
+              464.3201
+            ],
+            [
+              1137.6,
+              464.3201
+            ],
+            [
+              1137.6,
+              493.72
+            ],
+            [
+              1114.08,
+              493.72
+            ],
+            [
+              1114.08,
+              464.3201
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 1125.84,
+          "y": 479.0201
+        },
+        "normalizedCenter": {
+          "x": 0.47224832,
+          "y": 0.28445371
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-estudio-podcast-k26",
+      "name": "ESTÚDIO PODCAST",
+      "normalizedName": "estudio podcast",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-k26",
+      "streetId": "street-k",
+      "svgElementId": "poi-estudio-podcast-k26",
+      "type": "studio",
+      "validation": {
+        "confidence": 0.8894,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.502,
+          "width": 5.0065,
+          "x": 786.84,
+          "y": 491.1781
+        },
+        "center": {
+          "x": 789.3432,
+          "y": 492.4291
+        },
+        "coordinates": [
+          789.3432,
+          492.4291
+        ],
+        "focusPoint": {
+          "x": 789.3432,
+          "y": 492.4291
+        },
+        "normalizedCenter": {
+          "x": 0.33110035,
+          "y": 0.29241635
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-01",
+      "name": "IF08",
+      "normalizedName": "if08",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-01",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.4367,
+          "x": 1004.88,
+          "y": 521.478
+        },
+        "center": {
+          "x": 1010.5984,
+          "y": 523.0865
+        },
+        "coordinates": [
+          1010.5984,
+          523.0865
+        ],
+        "focusPoint": {
+          "x": 1010.5984,
+          "y": 523.0865
+        },
+        "normalizedCenter": {
+          "x": 0.42390871,
+          "y": 0.31062143
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-21",
+      "name": "RUA K",
+      "normalizedName": "rua k",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-21",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.4367,
+          "x": 416.76,
+          "y": 521.478
+        },
+        "center": {
+          "x": 422.4783,
+          "y": 523.0865
+        },
+        "coordinates": [
+          422.4783,
+          523.0865
+        ],
+        "focusPoint": {
+          "x": 422.4783,
+          "y": 523.0865
+        },
+        "normalizedCenter": {
+          "x": 0.17721407,
+          "y": 0.31062143
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-22",
+      "name": "RUA K",
+      "normalizedName": "rua k",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-22",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 19.56,
+          "width": 19.56,
+          "x": 446.16,
+          "y": 538.84
+        },
+        "center": {
+          "x": 455.94,
+          "y": 548.62
+        },
+        "coordinates": [
+          [
+            [
+              446.16,
+              538.84
+            ],
+            [
+              465.72,
+              538.84
+            ],
+            [
+              465.72,
+              558.4
+            ],
+            [
+              446.16,
+              558.4
+            ],
+            [
+              446.16,
+              538.84
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 455.94,
+          "y": 548.62
+        },
+        "normalizedCenter": {
+          "x": 0.19125,
+          "y": 0.32578385
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-guarderia-souvenirs-k75",
+      "name": "GUARDERIA SOUVENIRS",
+      "normalizedName": "guarderia souvenirs",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-k75",
+      "streetId": "street-k",
+      "svgElementId": "poi-guarderia-souvenirs-k75",
+      "type": "storage-souvenir-area",
+      "validation": {
+        "confidence": 0.8775,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 10.9027,
+          "x": 1004.88,
+          "y": 591.7979
+        },
+        "center": {
+          "x": 1010.3314,
+          "y": 593.4064
+        },
+        "coordinates": [
+          1010.3314,
+          593.4064
+        ],
+        "focusPoint": {
+          "x": 1010.3314,
+          "y": 593.4064
+        },
+        "normalizedCenter": {
+          "x": 0.42379671,
+          "y": 0.35237912
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-19",
+      "name": "RUA J",
+      "normalizedName": "rua j",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-19",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 10.9027,
+          "x": 416.76,
+          "y": 591.7979
+        },
+        "center": {
+          "x": 422.2113,
+          "y": 593.4064
+        },
+        "coordinates": [
+          422.2113,
+          593.4064
+        ],
+        "focusPoint": {
+          "x": 422.2113,
+          "y": 593.4064
+        },
+        "normalizedCenter": {
+          "x": 0.17710206,
+          "y": 0.35237912
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-20",
+      "name": "RUA J",
+      "normalizedName": "rua j",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-20",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 2.8595,
+          "width": 30.7932,
+          "x": 1138.4399,
+          "y": 619.6607
+        },
+        "center": {
+          "x": 1153.8365,
+          "y": 621.0905
+        },
+        "coordinates": [
+          1153.8365,
+          621.0905
+        ],
+        "focusPoint": {
+          "x": 1153.8365,
+          "y": 621.0905
+        },
+        "normalizedCenter": {
+          "x": 0.48399184,
+          "y": 0.36881856
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-street-01",
+      "name": "TRAVESSA LITERÁRIA",
+      "normalizedName": "travessa literaria",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-01",
+      "type": "street",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "exhibitor"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 7.8001,
+          "width": 7.9201,
+          "x": 1192.4399,
+          "y": 636.76
+        },
+        "center": {
+          "x": 1196.3999,
+          "y": 640.6601
+        },
+        "coordinates": [
+          [
+            [
+              1192.4399,
+              636.76
+            ],
+            [
+              1200.36,
+              636.76
+            ],
+            [
+              1200.36,
+              644.5601
+            ],
+            [
+              1192.4399,
+              644.5601
+            ],
+            [
+              1192.4399,
+              636.76
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 1196.3999,
+          "y": 640.6601
+        },
+        "normalizedCenter": {
+          "x": 0.50184562,
+          "y": 0.38043946
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-estudio-ton-47",
+      "name": "ESTÚDIO TON",
+      "normalizedName": "estudio ton",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-travessa-47",
+      "streetId": "travessa-literaria",
+      "svgElementId": "poi-estudio-ton-47",
+      "type": "studio",
+      "validation": {
+        "confidence": 0.7943,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.502,
+          "width": 5.0065,
+          "x": 303.6,
+          "y": 641.4182
+        },
+        "center": {
+          "x": 306.1032,
+          "y": 642.6691
+        },
+        "coordinates": [
+          306.1032,
+          642.6691
+        ],
+        "focusPoint": {
+          "x": 306.1032,
+          "y": 642.6691
+        },
+        "normalizedCenter": {
+          "x": 0.12839901,
+          "y": 0.3816325
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-02",
+      "name": "IF07",
+      "normalizedName": "if07",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-02",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 4.9935,
+          "width": 43.7685,
+          "x": 60.0,
+          "y": 656.1249
+        },
+        "center": {
+          "x": 81.8843,
+          "y": 658.6217
+        },
+        "coordinates": [
+          81.8843,
+          658.6217
+        ],
+        "focusPoint": {
+          "x": 81.8843,
+          "y": 658.6217
+        },
+        "normalizedCenter": {
+          "x": 0.03434743,
+          "y": 0.39110553
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-emergency-exit-03",
+      "name": "SAÍDA DE EMERGÊNCIA",
+      "normalizedName": "saida de emergencia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-emergency-exit-03",
+      "type": "emergency-exit",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.4367,
+          "x": 1004.88,
+          "y": 660.3179
+        },
+        "center": {
+          "x": 1010.5984,
+          "y": 661.9265
+        },
+        "coordinates": [
+          1010.5984,
+          661.9265
+        ],
+        "focusPoint": {
+          "x": 1010.5984,
+          "y": 661.9265
+        },
+        "normalizedCenter": {
+          "x": 0.42390871,
+          "y": 0.39306796
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-17",
+      "name": "RUA H",
+      "normalizedName": "rua h",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-17",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.4367,
+          "x": 416.76,
+          "y": 660.3179
+        },
+        "center": {
+          "x": 422.4783,
+          "y": 661.9265
+        },
+        "coordinates": [
+          422.4783,
+          661.9265
+        ],
+        "focusPoint": {
+          "x": 422.4783,
+          "y": 661.9265
+        },
+        "normalizedCenter": {
+          "x": 0.17721407,
+          "y": 0.39306796
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-18",
+      "name": "RUA H",
+      "normalizedName": "rua h",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-18",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.502,
+          "width": 5.0065,
+          "x": 1243.6799,
+          "y": 719.7782
+        },
+        "center": {
+          "x": 1246.1832,
+          "y": 721.0292
+        },
+        "coordinates": [
+          1246.1832,
+          721.0292
+        ],
+        "focusPoint": {
+          "x": 1246.1832,
+          "y": 721.0292
+        },
+        "normalizedCenter": {
+          "x": 0.52272784,
+          "y": 0.42816459
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-03",
+      "name": "IF01",
+      "normalizedName": "if01",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-03",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 83.2356,
+          "width": 14.7034,
+          "x": 31.2712,
+          "y": 730.96
+        },
+        "center": {
+          "x": 38.6229,
+          "y": 772.5778
+        },
+        "coordinates": [
+          38.6229,
+          772.5778
+        ],
+        "focusPoint": {
+          "x": 38.6229,
+          "y": 772.5778
+        },
+        "normalizedCenter": {
+          "x": 0.01620087,
+          "y": 0.45877543
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-street-02",
+      "name": "RUA MASSINET",
+      "normalizedName": "rua massinet",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-02",
+      "type": "street",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.4367,
+          "x": 1004.88,
+          "y": 732.5579
+        },
+        "center": {
+          "x": 1010.5984,
+          "y": 734.1664
+        },
+        "coordinates": [
+          1010.5984,
+          734.1664
+        ],
+        "focusPoint": {
+          "x": 1010.5984,
+          "y": 734.1664
+        },
+        "normalizedCenter": {
+          "x": 0.42390871,
+          "y": 0.43596582
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-15",
+      "name": "RUA G",
+      "normalizedName": "rua g",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-15",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.4367,
+          "x": 416.76,
+          "y": 732.5579
+        },
+        "center": {
+          "x": 422.4783,
+          "y": 734.1664
+        },
+        "coordinates": [
+          422.4783,
+          734.1664
+        ],
+        "focusPoint": {
+          "x": 422.4783,
+          "y": 734.1664
+        },
+        "normalizedCenter": {
+          "x": 0.17721407,
+          "y": 0.43596582
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-16",
+      "name": "RUA G",
+      "normalizedName": "rua g",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-16",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 10.9027,
+          "x": 1004.88,
+          "y": 805.6379
+        },
+        "center": {
+          "x": 1010.3314,
+          "y": 807.2464
+        },
+        "coordinates": [
+          1010.3314,
+          807.2464
+        ],
+        "focusPoint": {
+          "x": 1010.3314,
+          "y": 807.2464
+        },
+        "normalizedCenter": {
+          "x": 0.42379671,
+          "y": 0.47936247
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-13",
+      "name": "RUA F",
+      "normalizedName": "rua f",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-13",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 10.9027,
+          "x": 416.76,
+          "y": 805.6379
+        },
+        "center": {
+          "x": 422.2113,
+          "y": 807.2464
+        },
+        "coordinates": [
+          422.2113,
+          807.2464
+        ],
+        "focusPoint": {
+          "x": 422.2113,
+          "y": 807.2464
+        },
+        "normalizedCenter": {
+          "x": 0.17710206,
+          "y": 0.47936247
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-14",
+      "name": "RUA F",
+      "normalizedName": "rua f",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-14",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "cultural-activity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 39.24,
+          "width": 195.84,
+          "x": 706.68,
+          "y": 820.84
+        },
+        "center": {
+          "x": 804.6,
+          "y": 840.46
+        },
+        "coordinates": [
+          [
+            [
+              706.68,
+              820.84
+            ],
+            [
+              902.52,
+              820.84
+            ],
+            [
+              902.52,
+              860.08
+            ],
+            [
+              706.68,
+              860.08
+            ],
+            [
+              706.68,
+              820.84
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 804.6,
+          "y": 840.46
+        },
+        "normalizedCenter": {
+          "x": 0.3375,
+          "y": 0.49908551
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-convidado-de-honra-espanha-e40",
+      "name": "CONVIDADO DE HONRA - ESPANHA",
+      "normalizedName": "convidado de honra espanha",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-e40",
+      "streetId": "street-e",
+      "svgElementId": "poi-convidado-de-honra-espanha-e40",
+      "type": "event-area",
+      "validation": {
+        "confidence": 0.8846,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.502,
+          "width": 5.0065,
+          "x": 238.68,
+          "y": 846.8582
+        },
+        "center": {
+          "x": 241.1833,
+          "y": 848.1092
+        },
+        "coordinates": [
+          241.1833,
+          848.1092
+        ],
+        "focusPoint": {
+          "x": 241.1833,
+          "y": 848.1092
+        },
+        "normalizedCenter": {
+          "x": 0.10116747,
+          "y": 0.50362779
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-04",
+      "name": "IF06",
+      "normalizedName": "if06",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-04",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 4.9935,
+          "width": 43.7686,
+          "x": 63.12,
+          "y": 866.7249
+        },
+        "center": {
+          "x": 85.0043,
+          "y": 869.2217
+        },
+        "coordinates": [
+          85.0043,
+          869.2217
+        ],
+        "focusPoint": {
+          "x": 85.0043,
+          "y": 869.2217
+        },
+        "normalizedCenter": {
+          "x": 0.03565616,
+          "y": 0.51616489
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-emergency-exit-02",
+      "name": "SAÍDA DE EMERGÊNCIA",
+      "normalizedName": "saida de emergencia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-emergency-exit-02",
+      "type": "emergency-exit",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.0797,
+          "x": 1004.88,
+          "y": 877.5179
+        },
+        "center": {
+          "x": 1010.4198,
+          "y": 879.1264
+        },
+        "coordinates": [
+          1010.4198,
+          879.1264
+        ],
+        "focusPoint": {
+          "x": 1010.4198,
+          "y": 879.1264
+        },
+        "normalizedCenter": {
+          "x": 0.42383382,
+          "y": 0.52204656
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-11",
+      "name": "RUA E",
+      "normalizedName": "rua e",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-11",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.0796,
+          "x": 416.76,
+          "y": 877.5179
+        },
+        "center": {
+          "x": 422.2998,
+          "y": 879.1264
+        },
+        "coordinates": [
+          422.2998,
+          879.1264
+        ],
+        "focusPoint": {
+          "x": 422.2998,
+          "y": 879.1264
+        },
+        "normalizedCenter": {
+          "x": 0.17713917,
+          "y": 0.52204656
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-12",
+      "name": "RUA E",
+      "normalizedName": "rua e",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-12",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "cultural-activity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 96.0,
+          "width": 99.8399,
+          "x": 1848.48,
+          "y": 893.2
+        },
+        "center": {
+          "x": 1898.3999,
+          "y": 941.2
+        },
+        "coordinates": [
+          [
+            [
+              1848.48,
+              893.2
+            ],
+            [
+              1948.3199,
+              893.2
+            ],
+            [
+              1948.3199,
+              989.2
+            ],
+            [
+              1848.48,
+              989.2
+            ],
+            [
+              1848.48,
+              893.2
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 1898.3999,
+          "y": 941.2
+        },
+        "normalizedCenter": {
+          "x": 0.7963087,
+          "y": 0.55890736
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-autografos-1-2-e-3-dd20",
+      "name": "AUTOGRÁFOS 1,2 e 3",
+      "normalizedName": "autografos 1 2 e 3",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-dd20",
+      "streetId": "street-dd",
+      "svgElementId": "poi-autografos-1-2-e-3-dd20",
+      "type": "autograph-area",
+      "validation": {
+        "confidence": 0.894,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "cultural-activity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 39.12,
+          "width": 78.36,
+          "x": 1098.48,
+          "y": 895.36
+        },
+        "center": {
+          "x": 1137.66,
+          "y": 914.92
+        },
+        "coordinates": [
+          [
+            [
+              1098.48,
+              895.36
+            ],
+            [
+              1176.84,
+              895.36
+            ],
+            [
+              1176.84,
+              934.48
+            ],
+            [
+              1098.48,
+              934.48
+            ],
+            [
+              1098.48,
+              895.36
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 1137.66,
+          "y": 914.92
+        },
+        "normalizedCenter": {
+          "x": 0.47720638,
+          "y": 0.54330166
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-praca-da-palavra-d28",
+      "name": "PRAÇA DA PALAVRA",
+      "normalizedName": "praca da palavra",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-d28",
+      "streetId": "street-d",
+      "svgElementId": "poi-praca-da-palavra-d28",
+      "type": "cultural-square",
+      "validation": {
+        "confidence": 0.8846,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "cultural-activity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 92.04,
+          "width": 39.12,
+          "x": 1774.08,
+          "y": 897.16
+        },
+        "center": {
+          "x": 1793.64,
+          "y": 943.18
+        },
+        "coordinates": [
+          [
+            [
+              1774.08,
+              897.16
+            ],
+            [
+              1813.2,
+              897.16
+            ],
+            [
+              1813.2,
+              989.2
+            ],
+            [
+              1774.08,
+              989.2
+            ],
+            [
+              1774.08,
+              897.16
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 1793.64,
+          "y": 943.18
+        },
+        "normalizedCenter": {
+          "x": 0.75236577,
+          "y": 0.56008314
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-cordel-e-repente-dd10",
+      "name": "CORDEL E REPENTE",
+      "normalizedName": "cordel e repente",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-dd10",
+      "streetId": "street-dd",
+      "svgElementId": "poi-cordel-e-repente-dd10",
+      "type": "event-area",
+      "validation": {
+        "confidence": 0.8846,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.2598,
+          "x": 1004.88,
+          "y": 951.7979
+        },
+        "center": {
+          "x": 1010.5099,
+          "y": 953.4064
+        },
+        "coordinates": [
+          1010.5099,
+          953.4064
+        ],
+        "focusPoint": {
+          "x": 1010.5099,
+          "y": 953.4064
+        },
+        "normalizedCenter": {
+          "x": 0.4238716,
+          "y": 0.56615584
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-09",
+      "name": "RUA D",
+      "normalizedName": "rua d",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-09",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 11.2598,
+          "x": 416.76,
+          "y": 951.7979
+        },
+        "center": {
+          "x": 422.3899,
+          "y": 953.4064
+        },
+        "coordinates": [
+          422.3899,
+          953.4064
+        ],
+        "focusPoint": {
+          "x": 422.3899,
+          "y": 953.4064
+        },
+        "normalizedCenter": {
+          "x": 0.17717696,
+          "y": 0.56615584
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-10",
+      "name": "RUA D",
+      "normalizedName": "rua d",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-10",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "cultural-activity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 39.24,
+          "width": 98.04,
+          "x": 275.64,
+          "y": 969.76
+        },
+        "center": {
+          "x": 324.66,
+          "y": 989.38
+        },
+        "coordinates": [
+          [
+            [
+              275.64,
+              969.76
+            ],
+            [
+              373.68,
+              969.76
+            ],
+            [
+              373.68,
+              1009.0
+            ],
+            [
+              275.64,
+              1009.0
+            ],
+            [
+              275.64,
+              969.76
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 324.66,
+          "y": 989.38
+        },
+        "normalizedCenter": {
+          "x": 0.13618289,
+          "y": 0.58751781
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-espaco-infantil-c88",
+      "name": "ESPAÇO INFANTIL",
+      "normalizedName": "espaco infantil",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-c88",
+      "streetId": "street-c",
+      "svgElementId": "poi-espaco-infantil-c88",
+      "type": "children-area",
+      "validation": {
+        "confidence": 0.8846,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "cultural-activity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 39.24,
+          "width": 78.36,
+          "x": 828.12,
+          "y": 969.76
+        },
+        "center": {
+          "x": 867.3,
+          "y": 989.38
+        },
+        "coordinates": [
+          [
+            [
+              828.12,
+              969.76
+            ],
+            [
+              906.48,
+              969.76
+            ],
+            [
+              906.48,
+              1009.0
+            ],
+            [
+              828.12,
+              1009.0
+            ],
+            [
+              828.12,
+              969.76
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 867.3,
+          "y": 989.38
+        },
+        "normalizedCenter": {
+          "x": 0.36380034,
+          "y": 0.58751781
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-salao-de-ideias-c40",
+      "name": "SALÃO DE IDÉIAS",
+      "normalizedName": "salao de ideias",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-c40",
+      "streetId": "street-c",
+      "svgElementId": "poi-salao-de-ideias-c40",
+      "type": "ideas-hall",
+      "validation": {
+        "confidence": 0.8846,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.502,
+          "width": 5.0065,
+          "x": 238.68,
+          "y": 989.8982
+        },
+        "center": {
+          "x": 241.1833,
+          "y": 991.1492
+        },
+        "coordinates": [
+          241.1833,
+          991.1492
+        ],
+        "focusPoint": {
+          "x": 241.1833,
+          "y": 991.1492
+        },
+        "normalizedCenter": {
+          "x": 0.10116747,
+          "y": 0.58856839
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-05",
+      "name": "IF05",
+      "normalizedName": "if05",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-05",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 2.8595,
+          "width": 45.468,
+          "x": 1458.24,
+          "y": 994.1807
+        },
+        "center": {
+          "x": 1480.974,
+          "y": 995.6105
+        },
+        "coordinates": [
+          1480.974,
+          995.6105
+        ],
+        "focusPoint": {
+          "x": 1480.974,
+          "y": 995.6105
+        },
+        "normalizedCenter": {
+          "x": 0.62121393,
+          "y": 0.59121762
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-alameda-01",
+      "name": "ALAMEDA DOS ARTISTAS BY BIC",
+      "normalizedName": "alameda dos artistas by bic",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-alameda-01",
+      "type": "alameda",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.217,
+          "width": 13.7627,
+          "x": 1845.24,
+          "y": 1005.4379
+        },
+        "center": {
+          "x": 1852.1213,
+          "y": 1007.0464
+        },
+        "coordinates": [
+          1852.1213,
+          1007.0464
+        ],
+        "focusPoint": {
+          "x": 1852.1213,
+          "y": 1007.0464
+        },
+        "normalizedCenter": {
+          "x": 0.77689653,
+          "y": 0.59800858
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-26",
+      "name": "RUA DD",
+      "normalizedName": "rua dd",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-26",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 4.9935,
+          "width": 43.7686,
+          "x": 63.36,
+          "y": 1010.8449
+        },
+        "center": {
+          "x": 85.2443,
+          "y": 1013.3417
+        },
+        "coordinates": [
+          85.2443,
+          1013.3417
+        ],
+        "focusPoint": {
+          "x": 85.2443,
+          "y": 1013.3417
+        },
+        "normalizedCenter": {
+          "x": 0.03575683,
+          "y": 0.60174684
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-emergency-exit-01",
+      "name": "SAÍDA DE EMERGÊNCIA",
+      "normalizedName": "saida de emergencia",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-emergency-exit-01",
+      "type": "emergency-exit",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.502,
+          "width": 5.0065,
+          "x": 1687.7999,
+          "y": 1023.9782
+        },
+        "center": {
+          "x": 1690.3032,
+          "y": 1025.2292
+        },
+        "coordinates": [
+          1690.3032,
+          1025.2292
+        ],
+        "focusPoint": {
+          "x": 1690.3032,
+          "y": 1025.2292
+        },
+        "normalizedCenter": {
+          "x": 0.70901978,
+          "y": 0.60880595
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-06",
+      "name": "IF09",
+      "normalizedName": "if09",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-06",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.2172,
+          "width": 11.2598,
+          "x": 1004.88,
+          "y": 1025.1179
+        },
+        "center": {
+          "x": 1010.5099,
+          "y": 1026.7265
+        },
+        "coordinates": [
+          1010.5099,
+          1026.7265
+        ],
+        "focusPoint": {
+          "x": 1010.5099,
+          "y": 1026.7265
+        },
+        "normalizedCenter": {
+          "x": 0.4238716,
+          "y": 0.60969507
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-07",
+      "name": "RUA C",
+      "normalizedName": "rua c",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-07",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.2172,
+          "width": 11.2598,
+          "x": 416.76,
+          "y": 1025.1179
+        },
+        "center": {
+          "x": 422.3899,
+          "y": 1026.7265
+        },
+        "coordinates": [
+          422.3899,
+          1026.7265
+        ],
+        "focusPoint": {
+          "x": 422.3899,
+          "y": 1026.7265
+        },
+        "normalizedCenter": {
+          "x": 0.17717696,
+          "y": 0.60969507
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-08",
+      "name": "RUA C",
+      "normalizedName": "rua c",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-08",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.5021,
+          "width": 5.0065,
+          "x": 1941.12,
+          "y": 1029.8582
+        },
+        "center": {
+          "x": 1943.6232,
+          "y": 1031.1092
+        },
+        "coordinates": [
+          1943.6232,
+          1031.1092
+        ],
+        "focusPoint": {
+          "x": 1943.6232,
+          "y": 1031.1092
+        },
+        "normalizedCenter": {
+          "x": 0.8152782,
+          "y": 0.61229762
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-07",
+      "name": "IF10",
+      "normalizedName": "if10",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-07",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.8123,
+          "width": 3.9707,
+          "x": 1617.3492,
+          "y": 1042.9297
+        },
+        "center": {
+          "x": 1619.3346,
+          "y": 1043.3358
+        },
+        "coordinates": [
+          1619.3346,
+          1043.3358
+        ],
+        "focusPoint": {
+          "x": 1619.3346,
+          "y": 1043.3358
+        },
+        "normalizedCenter": {
+          "x": 0.67925109,
+          "y": 0.61955809
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-female-restroom-02",
+      "name": "BANHEIRO FEMININO",
+      "normalizedName": "banheiro feminino",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-female-restroom-02",
+      "type": "female-restroom",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.8123,
+          "width": 4.2421,
+          "x": 1617.1979,
+          "y": 1043.8896
+        },
+        "center": {
+          "x": 1619.3189,
+          "y": 1044.2958
+        },
+        "coordinates": [
+          1619.3189,
+          1044.2958
+        ],
+        "focusPoint": {
+          "x": 1619.3189,
+          "y": 1044.2958
+        },
+        "normalizedCenter": {
+          "x": 0.67924451,
+          "y": 0.62012813
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-female-restroom-01",
+      "name": "BANHEIRO FEMININO",
+      "normalizedName": "banheiro feminino",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-female-restroom-01",
+      "type": "female-restroom",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.8123,
+          "width": 4.8284,
+          "x": 1631.7316,
+          "y": 1047.0096
+        },
+        "center": {
+          "x": 1634.1458,
+          "y": 1047.4158
+        },
+        "coordinates": [
+          1634.1458,
+          1047.4158
+        ],
+        "focusPoint": {
+          "x": 1634.1458,
+          "y": 1047.4158
+        },
+        "normalizedCenter": {
+          "x": 0.68546382,
+          "y": 0.62198086
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-male-restroom-02",
+      "name": "BANHEIRO MASCULINO",
+      "normalizedName": "banheiro masculino",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-male-restroom-02",
+      "type": "male-restroom",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.8123,
+          "width": 4.2422,
+          "x": 1632.0778,
+          "y": 1048.0896
+        },
+        "center": {
+          "x": 1634.1989,
+          "y": 1048.4957
+        },
+        "coordinates": [
+          1634.1989,
+          1048.4957
+        ],
+        "focusPoint": {
+          "x": 1634.1989,
+          "y": 1048.4957
+        },
+        "normalizedCenter": {
+          "x": 0.6854861,
+          "y": 0.62262217
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-male-restroom-01",
+      "name": "BANHEIRO MASCULINO",
+      "normalizedName": "banheiro masculino",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-male-restroom-01",
+      "type": "male-restroom",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.8123,
+          "width": 1.6699,
+          "x": 1611.9701,
+          "y": 1053.6096
+        },
+        "center": {
+          "x": 1612.8051,
+          "y": 1054.0157
+        },
+        "coordinates": [
+          1612.8051,
+          1054.0157
+        ],
+        "focusPoint": {
+          "x": 1612.8051,
+          "y": 1054.0157
+        },
+        "normalizedCenter": {
+          "x": 0.67651219,
+          "y": 0.62590009
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-accessible-restroom-04",
+      "name": "BANHEIRO PNE",
+      "normalizedName": "banheiro pne",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-accessible-restroom-04",
+      "type": "accessible-restroom",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.8123,
+          "width": 4.2422,
+          "x": 1610.7178,
+          "y": 1054.5696
+        },
+        "center": {
+          "x": 1612.8389,
+          "y": 1054.9757
+        },
+        "coordinates": [
+          1612.8389,
+          1054.9757
+        ],
+        "focusPoint": {
+          "x": 1612.8389,
+          "y": 1054.9757
+        },
+        "normalizedCenter": {
+          "x": 0.67652637,
+          "y": 0.62647014
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-accessible-restroom-03",
+      "name": "BANHEIRO PNE",
+      "normalizedName": "banheiro pne",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-accessible-restroom-03",
+      "type": "accessible-restroom",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.8123,
+          "width": 1.6699,
+          "x": 1636.6901,
+          "y": 1060.8096
+        },
+        "center": {
+          "x": 1637.525,
+          "y": 1061.2157
+        },
+        "coordinates": [
+          1637.525,
+          1061.2157
+        ],
+        "focusPoint": {
+          "x": 1637.525,
+          "y": 1061.2157
+        },
+        "normalizedCenter": {
+          "x": 0.6868813,
+          "y": 0.63017559
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-accessible-restroom-02",
+      "name": "BANHEIRO PNE",
+      "normalizedName": "banheiro pne",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-accessible-restroom-02",
+      "type": "accessible-restroom",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.8123,
+          "width": 4.2421,
+          "x": 1635.4379,
+          "y": 1061.7697
+        },
+        "center": {
+          "x": 1637.5589,
+          "y": 1062.1758
+        },
+        "coordinates": [
+          1637.5589,
+          1062.1758
+        ],
+        "focusPoint": {
+          "x": 1637.5589,
+          "y": 1062.1758
+        },
+        "normalizedCenter": {
+          "x": 0.68689551,
+          "y": 0.63074571
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-accessible-restroom-01",
+      "name": "BANHEIRO PNE",
+      "normalizedName": "banheiro pne",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-accessible-restroom-01",
+      "type": "accessible-restroom",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.8123,
+          "width": 4.7839,
+          "x": 1616.416,
+          "y": 1061.7697
+        },
+        "center": {
+          "x": 1618.808,
+          "y": 1062.1758
+        },
+        "coordinates": [
+          1618.808,
+          1062.1758
+        ],
+        "focusPoint": {
+          "x": 1618.808,
+          "y": 1062.1758
+        },
+        "normalizedCenter": {
+          "x": 0.67903019,
+          "y": 0.63074571
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-restrooms-01",
+      "name": "BANHEIROS",
+      "normalizedName": "banheiros",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-restrooms-01",
+      "type": "restrooms",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.2172,
+          "width": 13.7628,
+          "x": 1844.0399,
+          "y": 1072.9978
+        },
+        "center": {
+          "x": 1850.9213,
+          "y": 1074.6064
+        },
+        "coordinates": [
+          1850.9213,
+          1074.6064
+        ],
+        "focusPoint": {
+          "x": 1850.9213,
+          "y": 1074.6064
+        },
+        "normalizedCenter": {
+          "x": 0.77639317,
+          "y": 0.63812731
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-25",
+      "name": "RUA CC",
+      "normalizedName": "rua cc",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-25",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.7477,
+          "width": 3.0396,
+          "x": 1185.12,
+          "y": 1092.5315
+        },
+        "center": {
+          "x": 1186.6398,
+          "y": 1092.9053
+        },
+        "coordinates": [
+          1186.6398,
+          1092.9053
+        ],
+        "focusPoint": {
+          "x": 1186.6398,
+          "y": 1092.9053
+        },
+        "normalizedCenter": {
+          "x": 0.49775158,
+          "y": 0.64899367
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-information-desk-01",
+      "name": "BALCÃO DE INFORMAÇÃO",
+      "normalizedName": "balcao de informacao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-information-desk-01",
+      "type": "information-desk",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.7477,
+          "width": 1.0259,
+          "x": 1186.2,
+          "y": 1093.4916
+        },
+        "center": {
+          "x": 1186.7129,
+          "y": 1093.8654
+        },
+        "coordinates": [
+          1186.7129,
+          1093.8654
+        ],
+        "focusPoint": {
+          "x": 1186.7129,
+          "y": 1093.8654
+        },
+        "normalizedCenter": {
+          "x": 0.49778225,
+          "y": 0.64956379
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-information-desk-02",
+      "name": "BALCÃO DE INFORMAÇÃO",
+      "normalizedName": "balcao de informacao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-information-desk-02",
+      "type": "information-desk",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 0.7477,
+          "width": 5.2573,
+          "x": 1184.0399,
+          "y": 1094.5715
+        },
+        "center": {
+          "x": 1186.6686,
+          "y": 1094.9454
+        },
+        "coordinates": [
+          1186.6686,
+          1094.9454
+        ],
+        "focusPoint": {
+          "x": 1186.6686,
+          "y": 1094.9454
+        },
+        "normalizedCenter": {
+          "x": 0.49776367,
+          "y": 0.65020509
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-information-desk-03",
+      "name": "BALCÃO DE INFORMAÇÃO",
+      "normalizedName": "balcao de informacao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-information-desk-03",
+      "type": "information-desk",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.2172,
+          "width": 11.2598,
+          "x": 1004.88,
+          "y": 1098.6779
+        },
+        "center": {
+          "x": 1010.5099,
+          "y": 1100.2864
+        },
+        "coordinates": [
+          1010.5099,
+          1100.2864
+        ],
+        "focusPoint": {
+          "x": 1010.5099,
+          "y": 1100.2864
+        },
+        "normalizedCenter": {
+          "x": 0.4238716,
+          "y": 0.65337674
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-05",
+      "name": "RUA B",
+      "normalizedName": "rua b",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-05",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.2172,
+          "width": 11.2598,
+          "x": 416.76,
+          "y": 1098.6779
+        },
+        "center": {
+          "x": 422.3899,
+          "y": 1100.2864
+        },
+        "coordinates": [
+          422.3899,
+          1100.2864
+        ],
+        "focusPoint": {
+          "x": 422.3899,
+          "y": 1100.2864
+        },
+        "normalizedCenter": {
+          "x": 0.17717696,
+          "y": 0.65337674
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-06",
+      "name": "RUA B",
+      "normalizedName": "rua b",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-06",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.5021,
+          "width": 5.0065,
+          "x": 195.36,
+          "y": 1118.6582
+        },
+        "center": {
+          "x": 197.8633,
+          "y": 1119.9092
+        },
+        "coordinates": [
+          197.8633,
+          1119.9092
+        ],
+        "focusPoint": {
+          "x": 197.8633,
+          "y": 1119.9092
+        },
+        "normalizedCenter": {
+          "x": 0.08299633,
+          "y": 0.66502924
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-08",
+      "name": "IF04",
+      "normalizedName": "if04",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-08",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.2172,
+          "width": 13.7628,
+          "x": 1843.08,
+          "y": 1130.2378
+        },
+        "center": {
+          "x": 1849.9614,
+          "y": 1131.8464
+        },
+        "coordinates": [
+          1849.9614,
+          1131.8464
+        ],
+        "focusPoint": {
+          "x": 1849.9614,
+          "y": 1131.8464
+        },
+        "normalizedCenter": {
+          "x": 0.77599051,
+          "y": 0.6721178
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-24",
+      "name": "RUA BB",
+      "normalizedName": "rua bb",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-24",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.5021,
+          "width": 6.6754,
+          "x": 194.52,
+          "y": 1159.9381
+        },
+        "center": {
+          "x": 197.8577,
+          "y": 1161.1891
+        },
+        "coordinates": [
+          197.8577,
+          1161.1891
+        ],
+        "focusPoint": {
+          "x": 197.8577,
+          "y": 1161.1891
+        },
+        "normalizedCenter": {
+          "x": 0.08299399,
+          "y": 0.68954225
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-09",
+      "name": "IF04A",
+      "normalizedName": "if04a",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-09",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.2172,
+          "width": 11.2598,
+          "x": 1004.88,
+          "y": 1170.5579
+        },
+        "center": {
+          "x": 1010.5099,
+          "y": 1172.1664
+        },
+        "coordinates": [
+          1010.5099,
+          1172.1664
+        ],
+        "focusPoint": {
+          "x": 1010.5099,
+          "y": 1172.1664
+        },
+        "normalizedCenter": {
+          "x": 0.4238716,
+          "y": 0.69606083
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-03",
+      "name": "RUA A",
+      "normalizedName": "rua a",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-03",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.2172,
+          "width": 11.2598,
+          "x": 416.76,
+          "y": 1170.5579
+        },
+        "center": {
+          "x": 422.3899,
+          "y": 1172.1664
+        },
+        "coordinates": [
+          422.3899,
+          1172.1664
+        ],
+        "focusPoint": {
+          "x": 422.3899,
+          "y": 1172.1664
+        },
+        "normalizedCenter": {
+          "x": 0.17717696,
+          "y": 0.69606083
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-04",
+      "name": "RUA A",
+      "normalizedName": "rua a",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-04",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "cultural-activity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 50.88,
+          "width": 148.8,
+          "x": 512.76,
+          "y": 1185.28
+        },
+        "center": {
+          "x": 587.16,
+          "y": 1210.72
+        },
+        "coordinates": [
+          [
+            [
+              512.76,
+              1185.28
+            ],
+            [
+              661.56,
+              1185.28
+            ],
+            [
+              661.56,
+              1236.16
+            ],
+            [
+              512.76,
+              1236.16
+            ],
+            [
+              512.76,
+              1185.28
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 587.16,
+          "y": 1210.72
+        },
+        "normalizedCenter": {
+          "x": 0.24629195,
+          "y": 0.71895487
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-praca-da-palavra-a61",
+      "name": "PRAÇA DA PALAVRA",
+      "normalizedName": "praca da palavra",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-a61",
+      "streetId": "street-a",
+      "svgElementId": "poi-praca-da-palavra-a61",
+      "type": "cultural-square",
+      "validation": {
+        "confidence": 0.894,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.5021,
+          "width": 5.0065,
+          "x": 761.04,
+          "y": 1188.3782
+        },
+        "center": {
+          "x": 763.5432,
+          "y": 1189.6292
+        },
+        "coordinates": [
+          763.5432,
+          1189.6292
+        ],
+        "focusPoint": {
+          "x": 763.5432,
+          "y": 1189.6292
+        },
+        "normalizedCenter": {
+          "x": 0.32027821,
+          "y": 0.70643065
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-10",
+      "name": "IF02",
+      "normalizedName": "if02",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-10",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.2172,
+          "width": 13.7628,
+          "x": 1841.1599,
+          "y": 1190.8379
+        },
+        "center": {
+          "x": 1848.0413,
+          "y": 1192.4465
+        },
+        "coordinates": [
+          1848.0413,
+          1192.4465
+        ],
+        "focusPoint": {
+          "x": 1848.0413,
+          "y": 1192.4465
+        },
+        "normalizedCenter": {
+          "x": 0.77518512,
+          "y": 0.70810361
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-street-23",
+      "name": "RUA AA",
+      "normalizedName": "rua aa",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-street-23",
+      "type": "street",
+      "validation": {
+        "confidence": 0.92,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 17.7837,
+          "width": 13.0684,
+          "x": 50.76,
+          "y": 1211.0063
+        },
+        "center": {
+          "x": 57.2942,
+          "y": 1219.8982
+        },
+        "coordinates": [
+          57.2942,
+          1219.8982
+        ],
+        "focusPoint": {
+          "x": 57.2942,
+          "y": 1219.8982
+        },
+        "normalizedCenter": {
+          "x": 0.02403281,
+          "y": 0.7244051
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-gate-01",
+      "name": "Portão 5",
+      "normalizedName": "portao 5",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-gate-01",
+      "type": "gate",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 2.5021,
+          "width": 5.0065,
+          "x": 195.6,
+          "y": 1216.3381
+        },
+        "center": {
+          "x": 198.1032,
+          "y": 1217.5892
+        },
+        "coordinates": [
+          198.1032,
+          1217.5892
+        ],
+        "focusPoint": {
+          "x": 198.1032,
+          "y": 1217.5892
+        },
+        "normalizedCenter": {
+          "x": 0.083097,
+          "y": 0.72303395
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-infrastructure-marker-11",
+      "name": "IF03",
+      "normalizedName": "if03",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-infrastructure-marker-11",
+      "type": "infrastructure-marker",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 3.3313,
+          "width": 31.6462,
+          "x": 1767.0,
+          "y": 1222.4146
+        },
+        "center": {
+          "x": 1782.8231,
+          "y": 1224.0802
+        },
+        "coordinates": [
+          1782.8231,
+          1224.0802
+        ],
+        "focusPoint": {
+          "x": 1782.8231,
+          "y": 1224.0802
+        },
+        "normalizedCenter": {
+          "x": 0.74782849,
+          "y": 0.72688848
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-accreditation-01",
+      "name": "CREDENCIAMENTO",
+      "normalizedName": "credenciamento",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-accreditation-01",
+      "type": "accreditation",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 6.7958,
+          "width": 27.2031,
+          "x": 1829.76,
+          "y": 1230.8115
+        },
+        "center": {
+          "x": 1843.3616,
+          "y": 1234.2094
+        },
+        "coordinates": [
+          1843.3616,
+          1234.2094
+        ],
+        "focusPoint": {
+          "x": 1843.3616,
+          "y": 1234.2094
+        },
+        "normalizedCenter": {
+          "x": 0.77322214,
+          "y": 0.73290345
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-professional-access-01",
+      "name": "ACESSO PROFISSIONAIS DO SETOR /PROFESSORES",
+      "normalizedName": "acesso profissionais do setor professores",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-professional-access-01",
+      "type": "professional-access",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 7.3041,
+          "width": 70.9808,
+          "x": 1194.0,
+          "y": 1231.4915
+        },
+        "center": {
+          "x": 1229.4904,
+          "y": 1235.1435
+        },
+        "coordinates": [
+          1229.4904,
+          1235.1435
+        ],
+        "focusPoint": {
+          "x": 1229.4904,
+          "y": 1235.1435
+        },
+        "normalizedCenter": {
+          "x": 0.51572585,
+          "y": 0.73345813
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-public-entrance-01",
+      "name": "ENTRADA PÚBLICO",
+      "normalizedName": "entrada publico",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-public-entrance-01",
+      "type": "public-entrance",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 6.7958,
+          "width": 93.6245,
+          "x": 1796.1599,
+          "y": 1239.0914
+        },
+        "center": {
+          "x": 1842.9722,
+          "y": 1242.4893
+        },
+        "coordinates": [
+          1842.9722,
+          1242.4893
+        ],
+        "focusPoint": {
+          "x": 1842.9722,
+          "y": 1242.4893
+        },
+        "normalizedCenter": {
+          "x": 0.7730588,
+          "y": 0.73782026
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-professional-access-02",
+      "name": "ACESSO PROFISSIONAIS DO SETOR /PROFESSORES",
+      "normalizedName": "acesso profissionais do setor professores",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-professional-access-02",
+      "type": "professional-access",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 50.88,
+          "width": 15.6,
+          "x": 438.24,
+          "y": 1242.16
+        },
+        "center": {
+          "x": 446.04,
+          "y": 1267.6
+        },
+        "coordinates": [
+          [
+            [
+              438.24,
+              1242.16
+            ],
+            [
+              453.84,
+              1242.16
+            ],
+            [
+              453.84,
+              1293.04
+            ],
+            [
+              438.24,
+              1293.04
+            ],
+            [
+              438.24,
+              1242.16
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 446.04,
+          "y": 1267.6
+        },
+        "normalizedCenter": {
+          "x": 0.18709732,
+          "y": 0.75273159
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-loja-oficial-a73",
+      "name": "LOJA OFICIAL",
+      "normalizedName": "loja oficial",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-a73",
+      "streetId": "street-a",
+      "svgElementId": "poi-loja-oficial-a73",
+      "type": "official-store",
+      "validation": {
+        "confidence": 0.9184,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "infrastructure"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 51.0,
+          "width": 15.72,
+          "x": 488.76,
+          "y": 1242.52
+        },
+        "center": {
+          "x": 496.62,
+          "y": 1268.02
+        },
+        "coordinates": [
+          [
+            [
+              488.76,
+              1242.52
+            ],
+            [
+              504.48,
+              1242.52
+            ],
+            [
+              504.48,
+              1293.52
+            ],
+            [
+              488.76,
+              1293.52
+            ],
+            [
+              488.76,
+              1242.52
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 496.62,
+          "y": 1268.02
+        },
+        "normalizedCenter": {
+          "x": 0.20831376,
+          "y": 0.752981
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-loja-oficial-a71",
+      "name": "LOJA OFICIAL",
+      "normalizedName": "loja oficial",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-a71",
+      "streetId": "street-a",
+      "svgElementId": "poi-loja-oficial-a71",
+      "type": "official-store",
+      "validation": {
+        "confidence": 0.9208,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [
+        "entity"
+      ],
+      "geometry": {
+        "bbox": {
+          "height": 39.24,
+          "width": 39.24,
+          "x": 908.4,
+          "y": 1243.0
+        },
+        "center": {
+          "x": 928.02,
+          "y": 1262.62
+        },
+        "coordinates": [
+          [
+            [
+              908.4,
+              1243.0
+            ],
+            [
+              947.64,
+              1243.0
+            ],
+            [
+              947.64,
+              1282.24
+            ],
+            [
+              908.4,
+              1282.24
+            ],
+            [
+              908.4,
+              1243.0
+            ]
+          ]
+        ],
+        "focusPoint": {
+          "x": 928.02,
+          "y": 1262.62
+        },
+        "normalizedCenter": {
+          "x": 0.38927013,
+          "y": 0.74977435
+        },
+        "type": "Polygon",
+        "validated": true
+      },
+      "id": "poi-auditorio-a39",
+      "name": "AUDITÓRIO",
+      "normalizedName": "auditorio",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": "stand-a39",
+      "streetId": "street-a",
+      "svgElementId": "poi-auditorio-a39",
+      "type": "auditorium",
+      "validation": {
+        "confidence": 0.877,
+        "evidence": [
+          "label-inside-stand-geometry",
+          "stand-color-category"
+        ],
+        "notes": [],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 6.7958,
+          "width": 53.9308,
+          "x": 1816.2,
+          "y": 1247.6115
+        },
+        "center": {
+          "x": 1843.1653,
+          "y": 1251.0093
+        },
+        "coordinates": [
+          1843.1653,
+          1251.0093
+        ],
+        "focusPoint": {
+          "x": 1843.1653,
+          "y": 1251.0093
+        },
+        "normalizedCenter": {
+          "x": 0.77313983,
+          "y": 0.74287965
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-professional-access-03",
+      "name": "ACESSO PROFISSIONAIS DO SETOR /PROFESSORES",
+      "normalizedName": "acesso profissionais do setor professores",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-professional-access-03",
+      "type": "professional-access",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 7.2595,
+          "width": 35.2159,
+          "x": 682.8,
+          "y": 1291.2865
+        },
+        "center": {
+          "x": 700.408,
+          "y": 1294.9163
+        },
+        "coordinates": [
+          700.408,
+          1294.9163
+        ],
+        "focusPoint": {
+          "x": 700.408,
+          "y": 1294.9163
+        },
+        "normalizedCenter": {
+          "x": 0.29379528,
+          "y": 0.76895265
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-exhibitor-entrance-01",
+      "name": "ENTRADA EXPOSITORES",
+      "normalizedName": "entrada expositores",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-exhibitor-entrance-01",
+      "type": "exhibitor-entrance",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 7.2595,
+          "width": 52.2614,
+          "x": 674.28,
+          "y": 1300.2865
+        },
+        "center": {
+          "x": 700.4106,
+          "y": 1303.9163
+        },
+        "coordinates": [
+          700.4106,
+          1303.9163
+        ],
+        "focusPoint": {
+          "x": 700.4106,
+          "y": 1303.9163
+        },
+        "normalizedCenter": {
+          "x": 0.29379641,
+          "y": 0.77429707
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-exhibitor-entrance-02",
+      "name": "ENTRADA EXPOSITORES",
+      "normalizedName": "entrada expositores",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-exhibitor-entrance-02",
+      "type": "exhibitor-entrance",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 7.7717,
+          "width": 48.9463,
+          "x": 1207.08,
+          "y": 1313.5334
+        },
+        "center": {
+          "x": 1231.5531,
+          "y": 1317.4193
+        },
+        "coordinates": [
+          1231.5531,
+          1317.4193
+        ],
+        "focusPoint": {
+          "x": 1231.5531,
+          "y": 1317.4193
+        },
+        "normalizedCenter": {
+          "x": 0.51659107,
+          "y": 0.78231551
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-hall-access-01",
+      "name": "ACESSO HALL 01",
+      "normalizedName": "acesso hall 01",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-hall-access-01",
+      "type": "hall-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 7.7717,
+          "width": 48.9459,
+          "x": 903.6,
+          "y": 1330.9335
+        },
+        "center": {
+          "x": 928.0729,
+          "y": 1334.8193
+        },
+        "coordinates": [
+          928.0729,
+          1334.8193
+        ],
+        "focusPoint": {
+          "x": 928.0729,
+          "y": 1334.8193
+        },
+        "normalizedCenter": {
+          "x": 0.38929234,
+          "y": 0.79264806
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-hall-access-02",
+      "name": "ACESSO HALL 02",
+      "normalizedName": "acesso hall 02",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-hall-access-02",
+      "type": "hall-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 7.7717,
+          "width": 48.9459,
+          "x": 687.0,
+          "y": 1330.9335
+        },
+        "center": {
+          "x": 711.473,
+          "y": 1334.8193
+        },
+        "coordinates": [
+          711.473,
+          1334.8193
+        ],
+        "focusPoint": {
+          "x": 711.473,
+          "y": 1334.8193
+        },
+        "normalizedCenter": {
+          "x": 0.29843664,
+          "y": 0.79264806
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-hall-access-03",
+      "name": "ACESSO HALL 03",
+      "normalizedName": "acesso hall 03",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-hall-access-03",
+      "type": "hall-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 7.7717,
+          "width": 48.946,
+          "x": 448.8,
+          "y": 1330.9335
+        },
+        "center": {
+          "x": 473.273,
+          "y": 1334.8193
+        },
+        "coordinates": [
+          473.273,
+          1334.8193
+        ],
+        "focusPoint": {
+          "x": 473.273,
+          "y": 1334.8193
+        },
+        "normalizedCenter": {
+          "x": 0.19852054,
+          "y": 0.79264806
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-hall-access-04",
+      "name": "ACESSO HALL 04",
+      "normalizedName": "acesso hall 04",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-hall-access-04",
+      "type": "hall-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 7.7717,
+          "width": 48.9461,
+          "x": 220.68,
+          "y": 1330.9335
+        },
+        "center": {
+          "x": 245.153,
+          "y": 1334.8193
+        },
+        "coordinates": [
+          245.153,
+          1334.8193
+        ],
+        "focusPoint": {
+          "x": 245.153,
+          "y": 1334.8193
+        },
+        "normalizedCenter": {
+          "x": 0.10283265,
+          "y": 0.79264806
+        },
+        "type": "Point",
+        "validated": false
+      },
+      "id": "poi-hall-access-05",
+      "name": "ACESSO HALL 05",
+      "normalizedName": "acesso hall 05",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-hall-access-05",
+      "type": "hall-access",
+      "validation": {
+        "confidence": 0.9,
+        "evidence": [
+          "position-of-visible-text-label"
+        ],
+        "notes": [
+          "Point is the center of the visible label; icon or doorway geometry was not substituted without evidence."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 6.7573,
+          "width": 65.667,
+          "x": 2120.76,
+          "y": 1336.0818
+        },
+        "center": {
+          "x": 2153.5935,
+          "y": 1339.4604
+        },
+        "coordinates": [
+          2153.5935,
+          1339.4604
+        ],
+        "focusPoint": {
+          "x": 2153.5935,
+          "y": 1339.4604
+        },
+        "normalizedCenter": {
+          "x": 0.90335298,
+          "y": 0.79540407
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-public-entrance-02",
+      "name": "ENTRADA PÚBLICO",
+      "normalizedName": "entrada publico",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-public-entrance-02",
+      "type": "public-entrance",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 32.7285,
+          "width": 4.4089,
+          "x": 936.8328,
+          "y": 1342.0566
+        },
+        "center": {
+          "x": 939.0373,
+          "y": 1358.4209
+        },
+        "coordinates": [
+          939.0373,
+          1358.4209
+        ],
+        "focusPoint": {
+          "x": 939.0373,
+          "y": 1358.4209
+        },
+        "normalizedCenter": {
+          "x": 0.39389147,
+          "y": 0.80666324
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-entry-flow-01",
+      "name": "FLUXO DE ENTRADA",
+      "normalizedName": "fluxo de entrada",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-entry-flow-01",
+      "type": "entry-flow",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 6.7573,
+          "width": 83.4048,
+          "x": 2124.24,
+          "y": 1402.4418
+        },
+        "center": {
+          "x": 2165.9424,
+          "y": 1405.8204
+        },
+        "coordinates": [
+          2165.9424,
+          1405.8204
+        ],
+        "focusPoint": {
+          "x": 2165.9424,
+          "y": 1405.8204
+        },
+        "normalizedCenter": {
+          "x": 0.90853288,
+          "y": 0.83481023
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-exhibitor-entrance-03",
+      "name": "ENTRADA EXPOSITORES",
+      "normalizedName": "entrada expositores",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-exhibitor-entrance-03",
+      "type": "exhibitor-entrance",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 6.7573,
+          "width": 56.781,
+          "x": 2124.24,
+          "y": 1428.7218
+        },
+        "center": {
+          "x": 2152.6305,
+          "y": 1432.1005
+        },
+        "coordinates": [
+          2152.6305,
+          1432.1005
+        ],
+        "focusPoint": {
+          "x": 2152.6305,
+          "y": 1432.1005
+        },
+        "normalizedCenter": {
+          "x": 0.90294903,
+          "y": 0.85041595
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-public-exit-01",
+      "name": "SAÍDA PÚBLICO",
+      "normalizedName": "saida publico",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-public-exit-01",
+      "type": "public-exit",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    },
+    {
+      "categoryIds": [],
+      "geometry": {
+        "bbox": {
+          "height": 4.9917,
+          "width": 13.0687,
+          "x": 1978.5599,
+          "y": 1511.1263
+        },
+        "center": {
+          "x": 1985.0943,
+          "y": 1513.6222
+        },
+        "coordinates": [
+          1985.0943,
+          1513.6222
+        ],
+        "focusPoint": {
+          "x": 1985.0943,
+          "y": 1513.6222
+        },
+        "normalizedCenter": {
+          "x": 0.83267378,
+          "y": 0.89882553
+        },
+        "type": "Point",
+        "validated": true
+      },
+      "id": "poi-gate-06",
+      "name": "Portão",
+      "normalizedName": "portao",
+      "source": {
+        "file": "BIL26-0526.pdf",
+        "page": 1,
+        "type": "pdf-map"
+      },
+      "standId": null,
+      "streetId": null,
+      "svgElementId": "poi-gate-06",
+      "type": "gate",
+      "validation": {
+        "confidence": 0.95,
+        "evidence": [
+          "position-of-visible-text-label",
+          "manual-visual-review-against-source-pdf"
+        ],
+        "notes": [
+          "The point was manually confirmed as the anchor of the visible label in the source map. It is not a turn-by-turn routing coordinate."
+        ],
+        "status": "validated"
+      }
+    }
+  ],
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  }
+}

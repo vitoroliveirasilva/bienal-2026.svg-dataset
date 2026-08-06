@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-08-05T23:24:59Z",
+  "id": "pdf-user-space-top-left",
+  "normalization": {
+    "range": [
+      0,
+      1
+    ],
+    "x": "x / 2384",
+    "y": "y / 1684"
+  },
+  "origin": "top-left",
+  "schemaVersion": "1.0.0",
+  "screenTransformExample": {
+    "xPx": "x * renderedWidth / 2384",
+    "yPx": "y * renderedHeight / 1684"
+  },
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  },
+  "unit": "SVG user unit equivalent to one PDF point",
+  "viewBox": {
+    "height": 1684.0,
+    "width": 2384.0,
+    "x": 0,
+    "y": 0
+  },
+  "xAxis": "positive-right",
+  "yAxis": "positive-down"
+}

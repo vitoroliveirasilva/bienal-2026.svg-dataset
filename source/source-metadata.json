@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-08-05T23:24:59Z",
+  "mapTitleBlock": {
+    "event": "BIENAL DO LIVRO",
+    "evidence": "Visible title block on page 1.",
+    "location": "ANHEMBI",
+    "projectBy": "DÉBORA SILVA",
+    "revision": "12",
+    "sheet": "1/1",
+    "updatedAt": "26/05/2026"
+  },
+  "pdf": {
+    "annotations": 138,
+    "creationDate": "D:20260526164311",
+    "creator": "AutoCAD 2023 - English 2023 (24.2s (LMS Tech))",
+    "drawingPathCount": 496125,
+    "embeddedImageCount": 2546,
+    "encrypted": false,
+    "modDate": "D:20260526164311",
+    "page": {
+      "heightPt": 1684.0,
+      "orientation": "landscape",
+      "standard": "A1",
+      "widthPt": 2384.0
+    },
+    "pageCount": 1,
+    "producer": "pdfplot16.hdi 16.02.222.00000",
+    "textSpanCount": 1751,
+    "title": "A1"
+  },
+  "schemaVersion": "1.0.0",
+  "sha256": "1fc341da29f5d723817c0b21670ccacdb8cd8f9c635b5d8a1d0149769525682a",
+  "sizeBytes": 5864534,
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  }
+}

@@ -1,0 +1,72 @@
+name: Correção de dados do mapa
+description: Informe um dado incorreto ou incompleto no dataset da Bienal do Livro 2026.
+title: "[Correção de dados]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este formulário para relatar correções em estandes, expositores, categorias, pontos de interesse, coordenadas ou relacionamentos.
+
+  - type: dropdown
+    id: item-type
+    attributes:
+      label: Tipo de item
+      options:
+        - Estande
+        - Expositor
+        - Categoria
+        - Ponto de interesse
+        - Coordenada ou geometria
+        - Relacionamento
+        - Outro
+    validations:
+      required: true
+
+  - type: input
+    id: identifier
+    attributes:
+      label: Identificador
+      description: Informe o código, ID ou nome do item.
+      placeholder: "Ex.: A30, stand-a30 ou Editora Exemplo"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-data
+    attributes:
+      label: Informação atual
+      description: Descreva como o item aparece atualmente no repositório.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-data
+    attributes:
+      label: Informação correta
+      description: Descreva qual deve ser a correção.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidência
+      description: Informe a fonte usada para confirmar a correção, como trecho do mapa, documento oficial ou link público.
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Contexto adicional
+      description: Inclua observações que possam ajudar na análise.
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmação
+      options:
+        - label: Revisei as issues existentes e não encontrei uma solicitação equivalente.
+          required: true
+        - label: A correção proposta está baseada em uma fonte verificável.
+          required: true

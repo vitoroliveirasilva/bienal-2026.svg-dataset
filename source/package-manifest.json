@@ -1,0 +1,201 @@
+{
+  "files": [
+    {
+      "bytes": 115,
+      "path": ".gitattributes",
+      "sha256": "fa2ecfa4f44d70082a0b40768f19a6dec11de5381748268824d364125f87aca0"
+    },
+    {
+      "bytes": 46,
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "sha256": "8b09e7df09fc7534371988062769ee427af2954a02c04c763e8a8005be0f2be4"
+    },
+    {
+      "bytes": 2009,
+      "path": ".github/ISSUE_TEMPLATE/data-correction.yml",
+      "sha256": "0370658aaa647e355c17d9ef95c14cf3de8f3689b84974a38a12842d93d634a6"
+    },
+    {
+      "bytes": 205,
+      "path": ".gitignore",
+      "sha256": "78faa711fd7275ac1b65b901673db10356d09919fb172c427310f5a5605894ff"
+    },
+    {
+      "bytes": 981261,
+      "path": "data/catalog.json",
+      "sha256": "3108ee6b115b25bbe2c8aeaf334f68bf1b187c93e155177b9a272625897d85f1"
+    },
+    {
+      "bytes": 11853,
+      "path": "data/categories.json",
+      "sha256": "0eba00d52f1d4f07ab86cb6c616138c52cc354f0ff16de991a8497f03fb44dff"
+    },
+    {
+      "bytes": 633,
+      "path": "data/coordinate-system.json",
+      "sha256": "531afbb96fdd8764dac36ec5fa58695cb85e51a02386b9d4c51bd019105d247e"
+    },
+    {
+      "bytes": 171374,
+      "path": "data/exhibitors.json",
+      "sha256": "f33cf99ef51acee1a79556fae075c1181db786641713df9a68d18041bc642fe1"
+    },
+    {
+      "bytes": 710,
+      "path": "data/map-metadata.json",
+      "sha256": "019eb2019362697d636e2efb98ce6438f41d15f86c8f3850df0343c57945a97e"
+    },
+    {
+      "bytes": 135439,
+      "path": "data/points-of-interest.json",
+      "sha256": "802d7458afd3a5fef9fc803149751400755f87f32bc9f1db6fee0eff3e78279c"
+    },
+    {
+      "bytes": 70006,
+      "path": "data/relationships.json",
+      "sha256": "7c0adcc757397be2e2a63eb5c24083cd9d69f0037eb99a6beb39ee045f0792bc"
+    },
+    {
+      "bytes": 661570,
+      "path": "data/stands.json",
+      "sha256": "de400741bf1f757ea20e7d0975934c64a8b04e10048284ee51233183fb92f2ef"
+    },
+    {
+      "bytes": 12075,
+      "path": "data/unresolved-items.json",
+      "sha256": "988d1742605fc5fba9398a14e727dc6a7abf9ab028d0cf7ac876f03c10af5fd4"
+    },
+    {
+      "bytes": 3335,
+      "path": "data/validation-results.json",
+      "sha256": "e2f3885140ee9aef44d41c0a51492616ee3673120c80e27f3d4f7a349dabca33"
+    },
+    {
+      "bytes": 4802809,
+      "path": "map/map-full-vector.svgz",
+      "sha256": "a3f35a07ae266c14de50cfb12867745159bcecd280e044cb396db6e0db99f789"
+    },
+    {
+      "bytes": 3214686,
+      "path": "map/map-optimized.svg",
+      "sha256": "86e64a53df686b91dc8f395e13e0e5055ff14b29962f0de99c9f19b3ee05d9db"
+    },
+    {
+      "bytes": 2638371,
+      "path": "map/map-preview.png",
+      "sha256": "3c425f89714c4f95126b203d9d613b0fd83235c6c5b88a890157c4e6dbf391f7"
+    },
+    {
+      "bytes": 791756,
+      "path": "map/map-preview.webp",
+      "sha256": "930e5ba94774b8cbf6e6b3e50b77a2ede91c5ff89a985c3626f409e310ec526f"
+    },
+    {
+      "bytes": 32022,
+      "path": "map/map-thumbnail.webp",
+      "sha256": "fa9bb215b13efb2c91cd7becf18f5517d3cec08801c57f16d860c7dd54f64499"
+    },
+    {
+      "bytes": 2213385,
+      "path": "map/map-validation-overlay.png",
+      "sha256": "7707e4df5c964ac0c8b24695cb170db4750dfbb023771613b8a63526559f7225"
+    },
+    {
+      "bytes": 410,
+      "path": "NOTICE.md",
+      "sha256": "fcf04f1f6bf482c38df1c526f2dd997539d98a933a9bb779fd20344776c99936"
+    },
+    {
+      "bytes": 2399,
+      "path": "README.md",
+      "sha256": "8866984a42f96be90b5d4e61d88b5cef19ff73a44a26cd23edc6f0e6693237cf"
+    },
+    {
+      "bytes": 1464,
+      "path": "reports/data-dictionary.md",
+      "sha256": "1eea93be4e0f698928afe7adf0f6ba0c465b85ef7da42af51b97bb6787661c25"
+    },
+    {
+      "bytes": 1194,
+      "path": "reports/extraction-report.md",
+      "sha256": "28ac72363b3574eb0705482d8c87119344d16e329136f44d67477d9f786f8b43"
+    },
+    {
+      "bytes": 728,
+      "path": "reports/known-limitations.md",
+      "sha256": "daea1da5b873c8bc77e22638488488460febde9edf2cb39d79531e6479810a5b"
+    },
+    {
+      "bytes": 1825,
+      "path": "reports/validation-report.md",
+      "sha256": "df1f626f561443cf19b840b011b27086683795adf49a5a3c2ad4d7c140b79acf"
+    },
+    {
+      "bytes": 9021,
+      "path": "schemas/catalog.schema.json",
+      "sha256": "63323a86163854f287e75d7eafd4436b0ced6b0d9f8327912ef788b7095df896"
+    },
+    {
+      "bytes": 4410,
+      "path": "schemas/categories.schema.json",
+      "sha256": "cdc3ae6eb1ad0532b6d1f6f0b42fc71b4bce9d0161a4533055f747cbe198c2db"
+    },
+    {
+      "bytes": 3402,
+      "path": "schemas/coordinate-system.schema.json",
+      "sha256": "0d5d5b51fd5b6b5419bc70103db75a9d557c0f981a941fa4e789aa2924bbe5c6"
+    },
+    {
+      "bytes": 4521,
+      "path": "schemas/exhibitors.schema.json",
+      "sha256": "4024cb1e1b808f115f7103095ffa95d9e413260bdacc22149f177033123e4df9"
+    },
+    {
+      "bytes": 3516,
+      "path": "schemas/map-metadata.schema.json",
+      "sha256": "b4930651c3a8de4aad919b9db9ae163bbb3a8be53560965efce24c7a09d66a2d"
+    },
+    {
+      "bytes": 4471,
+      "path": "schemas/points-of-interest.schema.json",
+      "sha256": "7c26411c5ae86bc7c1ab285d6f0ebc3dc4b966cac29028a9d6d02ce421473e5a"
+    },
+    {
+      "bytes": 3880,
+      "path": "schemas/relationships.schema.json",
+      "sha256": "fad373d0bb438415426e27676268f52325bc24ab5200609a6fd2846a7b0430cc"
+    },
+    {
+      "bytes": 4596,
+      "path": "schemas/stands.schema.json",
+      "sha256": "c0c99430ec2a584132e042903aab84a587dd992877d34006905ed3dd1a43d969"
+    },
+    {
+      "bytes": 3251,
+      "path": "schemas/unresolved-items.schema.json",
+      "sha256": "1fcf5fb001b7e7e777af2a40324f437669f36ce161bb9d755da9dd8c7e9be9f7"
+    },
+    {
+      "bytes": 3298,
+      "path": "schemas/validation-results.schema.json",
+      "sha256": "5744289786fa1d95ce0dfb4cdfb68c36e5f44d1187346c636449bf1c4473dea0"
+    },
+    {
+      "bytes": 1013,
+      "path": "source/source-metadata.json",
+      "sha256": "c055c82518d1810e7e3ca5490a1b2088e1764379a4071809f6d6f21d8331e4c2"
+    },
+    {
+      "bytes": 2889,
+      "path": "tools/update-package-manifest.py",
+      "sha256": "18e799042beff1a38b5f8288245545c4e4fb98e4d59ce7a438e9b06a1ecaf983"
+    }
+  ],
+  "generatedAt": "2026-08-06T01:26:24Z",
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  }
+}

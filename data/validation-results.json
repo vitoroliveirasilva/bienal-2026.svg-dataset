@@ -1,0 +1,156 @@
+{
+  "checks": [
+    {
+      "details": "lxml parsed map-optimized.svg successfully.",
+      "id": "svg-xml-valid",
+      "status": "passed"
+    },
+    {
+      "details": "0 0 2384 1684",
+      "id": "svg-viewbox",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "total": 405,
+        "unique": 405
+      },
+      "id": "svg-unique-ids",
+      "status": "passed"
+    },
+    {
+      "details": [],
+      "id": "svg-no-external-resources",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "total": 295,
+        "unique": 295
+      },
+      "id": "stand-unique-ids",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "total": 295,
+        "uniqueCodes": 295
+      },
+      "id": "stand-unique-codes",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "total": 215,
+        "unique": 215
+      },
+      "id": "exhibitor-unique-ids",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "total": 102,
+        "unique": 102
+      },
+      "id": "poi-unique-ids",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "missing": []
+      },
+      "id": "svg-stand-id-correspondence",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "missing": []
+      },
+      "id": "svg-poi-id-correspondence",
+      "status": "passed"
+    },
+    {
+      "details": [],
+      "id": "stand-geometries",
+      "status": "passed"
+    },
+    {
+      "details": [],
+      "id": "relationship-references",
+      "status": "passed"
+    },
+    {
+      "details": "All stand exhibitor IDs exist.",
+      "id": "stand-exhibitor-crossrefs",
+      "status": "passed"
+    },
+    {
+      "details": "All exhibitor stand IDs exist.",
+      "id": "exhibitor-stand-crossrefs",
+      "status": "passed"
+    },
+    {
+      "details": "All stand category IDs exist.",
+      "id": "category-crossrefs",
+      "status": "passed"
+    },
+    {
+      "details": "10 JSON documents validated.",
+      "id": "json-schema-validation",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "bytes": 2638371
+      },
+      "id": "svg-rendered-by-inkscape",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "criterion": "PSNR >= 34 dB and MAE <= 3.5",
+        "meanAbsoluteError": 0.0,
+        "psnrDb": 99.0
+      },
+      "id": "visual-fidelity",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "bytes": 4802809
+      },
+      "id": "full-vector-svgz-valid",
+      "status": "passed"
+    },
+    {
+      "details": {
+        "correctedDraftingLabelExhibitors": 12,
+        "pointsOfInterestReviewed": 51,
+        "resolvedCategoryAssignments": 1,
+        "sourceLimitedOccupants": 46,
+        "standsReviewed": 51,
+        "postReviewRenderMeanAbsoluteError": 0.0,
+        "postReviewRenderSize": "2384 × 1684 px"
+      },
+      "id": "manual-semantic-review",
+      "status": "passed"
+    }
+  ],
+  "generatedAt": "2026-08-06T00:55:17Z",
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "BIL26-0526.pdf",
+    "page": 1,
+    "type": "pdf-map"
+  },
+  "summary": {
+    "checksFailed": 0,
+    "checksPassed": 20,
+    "overallStatus": "passed-with-documented-source-gaps",
+    "pointsOfInterestNeedsReview": 0,
+    "pointsOfInterestValidated": 102,
+    "standsNeedsReview": 0,
+    "standsValidated": 295,
+    "unresolvedItemCount": 46
+  }
+}
