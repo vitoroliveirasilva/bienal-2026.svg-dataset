@@ -1,0 +1,191 @@
+{
+  "$defs": {
+    "bbox": {
+      "additionalProperties": false,
+      "properties": {
+        "height": {
+          "type": "number"
+        },
+        "width": {
+          "type": "number"
+        },
+        "x": {
+          "type": "number"
+        },
+        "y": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "x",
+        "y",
+        "width",
+        "height"
+      ],
+      "type": "object"
+    },
+    "geometry": {
+      "additionalProperties": true,
+      "properties": {
+        "bbox": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/bbox"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "center": {
+          "$ref": "#/$defs/point"
+        },
+        "coordinates": {},
+        "focusPoint": {
+          "$ref": "#/$defs/point"
+        },
+        "normalizedCenter": {
+          "$ref": "#/$defs/point"
+        },
+        "type": {
+          "enum": [
+            "Polygon",
+            "Point"
+          ]
+        },
+        "validated": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "type",
+        "bbox",
+        "center",
+        "focusPoint",
+        "normalizedCenter",
+        "validated"
+      ],
+      "type": "object"
+    },
+    "point": {
+      "additionalProperties": false,
+      "properties": {
+        "x": {
+          "type": "number"
+        },
+        "y": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "x",
+        "y"
+      ],
+      "type": "object"
+    },
+    "source": {
+      "additionalProperties": false,
+      "properties": {
+        "file": {
+          "type": "string"
+        },
+        "page": {
+          "minimum": 1,
+          "type": "integer"
+        },
+        "type": {
+          "const": "pdf-map"
+        }
+      },
+      "required": [
+        "type",
+        "file",
+        "page"
+      ],
+      "type": "object"
+    },
+    "validation": {
+      "additionalProperties": true,
+      "properties": {
+        "confidence": {
+          "maximum": 1,
+          "minimum": 0,
+          "type": "number"
+        },
+        "evidence": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "notes": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "status": {
+          "enum": [
+            "validated",
+            "needs-review",
+            "unresolved",
+            "not-applicable"
+          ]
+        }
+      },
+      "required": [
+        "status",
+        "confidence",
+        "notes"
+      ],
+      "type": "object"
+    }
+  },
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": true,
+  "properties": {
+    "categoryCount": {
+      "type": "integer"
+    },
+    "exhibitorCount": {
+      "type": "integer"
+    },
+    "generatedAt": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "pointOfInterestCount": {
+      "type": "integer"
+    },
+    "schemaVersion": {
+      "type": "string"
+    },
+    "source": {
+      "$ref": "#/$defs/source"
+    },
+    "standCount": {
+      "type": "integer"
+    },
+    "viewBox": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "generatedAt",
+    "source",
+    "id",
+    "name",
+    "viewBox",
+    "standCount",
+    "exhibitorCount",
+    "categoryCount",
+    "pointOfInterestCount"
+  ],
+  "type": "object"
+}

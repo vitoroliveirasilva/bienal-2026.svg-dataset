@@ -1,0 +1,434 @@
+{
+  "$defs": {
+    "bbox": {
+      "additionalProperties": false,
+      "properties": {
+        "height": {
+          "type": "number"
+        },
+        "width": {
+          "type": "number"
+        },
+        "x": {
+          "type": "number"
+        },
+        "y": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "x",
+        "y",
+        "width",
+        "height"
+      ],
+      "type": "object"
+    },
+    "geometry": {
+      "additionalProperties": true,
+      "properties": {
+        "bbox": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/bbox"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "center": {
+          "$ref": "#/$defs/point"
+        },
+        "coordinates": {},
+        "focusPoint": {
+          "$ref": "#/$defs/point"
+        },
+        "normalizedCenter": {
+          "$ref": "#/$defs/point"
+        },
+        "type": {
+          "enum": [
+            "Polygon",
+            "Point"
+          ]
+        },
+        "validated": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "type",
+        "bbox",
+        "center",
+        "focusPoint",
+        "normalizedCenter",
+        "validated"
+      ],
+      "type": "object"
+    },
+    "point": {
+      "additionalProperties": false,
+      "properties": {
+        "x": {
+          "type": "number"
+        },
+        "y": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "x",
+        "y"
+      ],
+      "type": "object"
+    },
+    "source": {
+      "additionalProperties": false,
+      "properties": {
+        "file": {
+          "type": "string"
+        },
+        "page": {
+          "minimum": 1,
+          "type": "integer"
+        },
+        "type": {
+          "const": "pdf-map"
+        }
+      },
+      "required": [
+        "type",
+        "file",
+        "page"
+      ],
+      "type": "object"
+    },
+    "validation": {
+      "additionalProperties": true,
+      "properties": {
+        "confidence": {
+          "maximum": 1,
+          "minimum": 0,
+          "type": "number"
+        },
+        "evidence": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "notes": {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        "status": {
+          "enum": [
+            "validated",
+            "needs-review",
+            "unresolved",
+            "not-applicable"
+          ]
+        }
+      },
+      "required": [
+        "status",
+        "confidence",
+        "notes"
+      ],
+      "type": "object"
+    }
+  },
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "categories": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "description": {
+            "type": "string"
+          },
+          "fillType": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "legendOrder": {
+            "type": "integer"
+          },
+          "normalizedName": {
+            "type": "string"
+          },
+          "originalColor": {
+            "type": "object"
+          },
+          "originalName": {
+            "type": "string"
+          },
+          "relatedElementIds": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "uniqueItems": true
+          },
+          "source": {
+            "$ref": "#/$defs/source"
+          },
+          "strokeType": {
+            "type": "string"
+          },
+          "visualRepresentation": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "originalName",
+          "normalizedName",
+          "description",
+          "originalColor",
+          "fillType",
+          "strokeType",
+          "visualRepresentation",
+          "legendOrder",
+          "relatedElementIds",
+          "source"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "coordinateSystem": {
+      "type": "object"
+    },
+    "exhibitors": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "categoryIds": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "uniqueItems": true
+          },
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "normalizedName": {
+            "type": "string"
+          },
+          "occurrences": {
+            "items": {
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "roles": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "uniqueItems": true
+          },
+          "slug": {
+            "type": "string"
+          },
+          "source": {
+            "$ref": "#/$defs/source"
+          },
+          "standIds": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "uniqueItems": true
+          },
+          "validation": {
+            "$ref": "#/$defs/validation"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "normalizedName",
+          "slug",
+          "standIds",
+          "categoryIds",
+          "roles",
+          "occurrences",
+          "source",
+          "validation"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "generatedAt": {
+      "type": "string"
+    },
+    "map": {
+      "type": "object"
+    },
+    "pointsOfInterest": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "categoryIds": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "uniqueItems": true
+          },
+          "geometry": {
+            "$ref": "#/$defs/geometry"
+          },
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "normalizedName": {
+            "type": "string"
+          },
+          "source": {
+            "$ref": "#/$defs/source"
+          },
+          "standId": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "streetId": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "svgElementId": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "validation": {
+            "$ref": "#/$defs/validation"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "normalizedName",
+          "type",
+          "svgElementId",
+          "categoryIds",
+          "streetId",
+          "standId",
+          "geometry",
+          "source",
+          "validation"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "schemaVersion": {
+      "type": "string"
+    },
+    "source": {
+      "$ref": "#/$defs/source"
+    },
+    "stands": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "categoryIds": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "uniqueItems": true
+          },
+          "code": {
+            "type": "string"
+          },
+          "exhibitorIds": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "uniqueItems": true
+          },
+          "extraction": {
+            "type": "object"
+          },
+          "geometry": {
+            "$ref": "#/$defs/geometry"
+          },
+          "id": {
+            "type": "string"
+          },
+          "normalizedCode": {
+            "type": "string"
+          },
+          "originalLabel": {
+            "type": "string"
+          },
+          "source": {
+            "$ref": "#/$defs/source"
+          },
+          "streetId": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "svgElementId": {
+            "type": "string"
+          },
+          "validation": {
+            "$ref": "#/$defs/validation"
+          }
+        },
+        "required": [
+          "id",
+          "code",
+          "normalizedCode",
+          "originalLabel",
+          "svgElementId",
+          "exhibitorIds",
+          "categoryIds",
+          "streetId",
+          "geometry",
+          "source",
+          "validation"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "generatedAt",
+    "source",
+    "map",
+    "coordinateSystem",
+    "categories",
+    "stands",
+    "exhibitors",
+    "pointsOfInterest"
+  ],
+  "type": "object"
+}
